@@ -1,0 +1,824 @@
+venue,name_official,address_city,address_postalcode,address_street,address_district,address_neighbourhood,lat,lon
+MDK Szopienice-Hall.,,Katowice,40-131,,Koszutka,,50.27112795533561,19.02303791086084
+MDK Szopienice-Hall.,,Katowice,40-319,,Szopienice – Burowiec,,50.272413290117996,19.071618383958352
+MDK Podlesie,,Katowice,,Łososiowa,Zarzecze,Zarzecze,50.19178640825057,18.949576963006944
+MDK Piotrowice,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Murcki,,Katowice,40-479,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Ligota,MDK Ligota,Katowice,40-578,,Załęska Hałda – Brynów Część Zachodnia,Brynów,50.2333507085031,18.987105982164003
+MDK Dąb,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Szopienice-West.,,Katowice,,Pogodna,Szopienice – Burowiec,Burowiec,50.273354299450396,19.07175482641732
+MDK Koszutka,MDK Koszutka,Katowice,,,Śródmieście,Śródmieście,50.2528317,19.016786800000002
+MDK Koszutka,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Podlesie,,Katowice,40-026,,Śródmieście,,50.25610616555047,19.024668603782345
+MDK Piotrowice,,Katowice,40-641,,Piotrowice – Ochojec,,50.207942648808576,18.986944185326184
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Zarzecze,,Katowice,40-748,,Zarzecze,Zarzecze,50.182854,18.947245000000002
+MDK Piotrowice,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Kostuchna,,Katowice,40-619,,Piotrowice – Ochojec,,50.215327727541705,18.987556617554567
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Dąb,MDK Koszutka,Katowice,40-208,,Bogucice,,50.26680789412345,19.038371998746623
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Giszowiec,,Katowice,,Szopienicka,Janów – Nikiszowiec,,50.239860770180044,19.0768141621742
+MDK Podlesie,,Katowice,,,Podlesie,Podlesie,50.1787489,18.9754915
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,40-236,Łączna,Zawodzie,Zawodzie,50.260788579657536,19.061611858821266
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-214,,Bogucice,Bogucice,50.26620925827663,19.042596738702077
+MDK Koszutka,MDK Koszutka,Katowice,40-161,,Koszutka,,50.267330949324744,19.023627479417435
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,Szkolna,Śródmieście,,50.25951656841941,19.025985677985986
+MDK Giszowiec,,Katowice,40-467,,Giszowiec,Giszowiec,50.21785613144702,19.072347213553826
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Koszutka,MDK Koszutka,Katowice,40-005,Piastowska,Śródmieście,Śródmieście,50.261338462007856,19.023385121908976
+MDK Koszutka,MDK Koszutka,Katowice,,Korfantego,Koszutka,,50.274935126531666,19.023198107178448
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-175,,Bogucice,,50.27082556455132,19.035090303320786
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Podlesie,,Katowice,,,Podlesie,Podlesie,50.1787489,18.9754915
+MDK Koszutka,MDK Koszutka,Katowice,,,Osiedle Tysiąclecia,Osiedle Tysiąclecia,50.278276899999994,18.975642399999998
+MDK Giszowiec,,Katowice,,,Kostuchna,Osiedle Bażantów,50.198611,18.979722
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,Katowicka,Koszutka,,50.26959346605358,19.02833856757532
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-215,,Bogucice,,50.27002322600436,19.046490026656915
+MDK Szopienice-West.,,Katowice,,Lwowska,Szopienice – Burowiec,,50.255911501143366,19.0924533270338
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Piotrowice,,Katowice,40-711,Świdnicka,Ligota – Panewniki,Ligota,50.22353604513678,18.973680598347105
+MDK Dąb,MDK Koszutka,Katowice,,Gallusa,Załęska Hałda – Brynów Część Zachodnia,,50.24366391655313,18.99188624264585
+MDK Szopienice-Hall.,,Katowice,,,Szopienice – Burowiec,Burowiec,50.2723364,19.078617
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,Korfantego,Koszutka,,50.27347793627245,19.023910161493767
+MDK Giszowiec,,Katowice,40-406,,Janów – Nikiszowiec,,50.24093722165418,19.093171910639665
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Piotrowice,,Katowice,,Radockiego,Piotrowice – Ochojec,,50.20392655248671,18.987288406668608
+MDK Murcki,,Katowice,40-749,Kołodzieja,Murcki,Murcki,50.196434644077186,19.044563703608922
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,Markiefki,Bogucice,,50.26611347069507,19.040888135806338
+MDK Szopienice-Hall.,,Katowice,40-374,,Szopienice – Burowiec,,50.26207227686459,19.10014355728228
+MDK Koszutka,MDK Koszutka,Katowice,,,Załęska Hałda – Brynów Część Zachodnia,Brynów,50.2352252,18.9917323
+MDK Murcki,,Katowice,40-749,,Murcki,,50.19943606289726,19.042438873715245
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Koszutka,MDK Koszutka,Katowice,40-423,,Janów – Nikiszowiec,,50.2431857715593,19.081292376320285
+MDK Dąb,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-214,,Bogucice,Bogucice,50.26620925827663,19.042596738702077
+MDK Koszutka,MDK Koszutka,Katowice,,Krzyżowa,Dąb,Dąb,50.277853515670024,19.00651859961905
+MDK Zarzecze,,Katowice,,,Zarzecze,Zarzecze,50.17719520000001,18.9494151
+MDK Ligota,MDK Ligota,Katowice,40-738,Harcerska,Ligota – Panewniki,Ligota,50.220266480724966,18.963132673363774
+MDK Kostuchna,,Katowice,,,Piotrowice – Ochojec,Ochojec,50.211156700000004,19.0006936
+MDK Giszowiec,,Katowice,,Pod Kasztanami,Giszowiec,,50.221676,19.074148
+MDK Kostuchna,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Kostuchna,,Katowice,,Szramka,Kostuchna,,50.186990901609256,18.988895588882826
+MDK Giszowiec,,Katowice,,Gościnna,Giszowiec,Giszowiec,50.223809189055366,19.06805659584011
+MDK Kostuchna,,Katowice,,,Podlesie,Podlesie,50.1787489,18.9754915
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Ligota,MDK Ligota,Katowice,40-711,,Ligota – Panewniki,,50.22283849135452,18.973074404460405
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-139,,Wełnowiec – Józefowiec,,50.27945836051728,19.011115608382475
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-065,,Śródmieście,Śródmieście,50.2513308883673,19.005622604015056
+MDK Giszowiec,,Katowice,40-860,,Załęże,,50.26825592419483,18.980187279699003
+MDK Ligota,MDK Ligota,Katowice,40-778,,Ligota – Panewniki,,50.22611306173422,18.935543468929566
+MDK Kostuchna,,Katowice,40-645,,Piotrowice – Ochojec,,50.20392655248671,18.987288406668608
+MDK Dąb,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Kostuchna,,Katowice,,,Ligota – Panewniki,Ligota,50.220246,18.965878399999998
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-208,,Bogucice,Bogucice,50.26680789412345,19.038371998746623
+MDK Giszowiec,,Katowice,,Sputników,Giszowiec,Giszowiec,50.223674742019774,19.074149776055428
+MDK Ligota,MDK Ligota,Katowice,,,Ligota – Panewniki,Ligota,50.220246,18.965878399999998
+MDK Podlesie,,Katowice,40-748,,Podlesie,,50.18154909035514,18.96105362042741
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Podlesie,,Katowice,40-748,,Podlesie,Podlesie,50.18154909035514,18.96105362042741
+MDK Podlesie,,Katowice,40-748,,Podlesie,Podlesie,50.18154909035514,18.96105362042741
+MDK Piotrowice,,Katowice,40-749,,Murcki,,50.19943606289726,19.042438873715245
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,40-232,,Zawodzie,Zawodzie,50.26216701182176,19.056381200553908
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Dąb,MDK Koszutka,Katowice,,Oblatow,Koszutka,,50.271223,19.020719
+MDK Koszutka,MDK Koszutka,Katowice,,,Osiedle Tysiąclecia,Osiedle Tysiąclecia,50.278276899999994,18.975642399999998
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Ligota – Panewniki,Ligota,50.220246,18.965878399999998
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Koszutka,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Dąb,MDK Koszutka,Katowice,,,Wełnowiec – Józefowiec,Wełnowiec,50.2844759,19.0228124
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-214,,Bogucice,Bogucice,50.26620925827663,19.042596738702077
+MDK Giszowiec,,Katowice,,Nad Stawem,Janów – Nikiszowiec,,50.240175,19.096053
+MDK Murcki,,Katowice,,,Murcki,Murcki,50.198333,19.046667000000006
+MDK Kostuchna,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Piotrowice,,Katowice,,Żurawia,Piotrowice – Ochojec,,50.208757542831144,18.965162788375878
+MDK Dąb,MDK Koszutka,Katowice,,Grażyńskiego,Koszutka,,50.268274472969296,19.01862020368209
+MDK Podlesie,,Katowice,40-748,Norblina,Podlesie,Podlesie,50.181049690579385,18.96621747552993
+MDK Dąb,MDK Koszutka,Katowice,,Słonimskiego,Koszutka,Koszutka,50.27327475184404,19.02191868240775
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Szopienice – Burowiec,Szopienice,50.2625198,19.096909699999998
+MDK Kostuchna,,Katowice,40-748,,Podlesie,,50.18154909035514,18.96105362042741
+MDK Giszowiec,,Katowice,40-467,Gościnna,Giszowiec,,50.21785613144702,19.072347213553826
+MDK Szopienice-Hall.,,Katowice,,,Janów – Nikiszowiec,Nikiszowiec,50.2401223,19.0732634
+MDK Szopienice-Hall.,,Katowice,,Korczaka,Szopienice – Burowiec,,50.27346476323152,19.087090653282136
+MDK Dąb,MDK Koszutka,Katowice,40-106,,Dąb,Dąb,50.27442372243284,18.999098328509888
+MDK Ligota,MDK Ligota,Katowice,40-719,,Ligota – Panewniki,Zadole,50.219170580317744,18.973901622653926
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,Korfantego,Koszutka,,50.274935126531666,19.023198107178448
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Podlesie,,Katowice,40-748,,Podlesie,,50.18154909035514,18.96105362042741
+MDK Szopienice-West.,,Katowice,,,Szopienice – Burowiec,Szopienice,50.2625198,19.096909699999998
+MDK Giszowiec,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Szopienice – Burowiec,Szopienice,50.2625198,19.096909699999998
+MDK Ligota,MDK Ligota,Katowice,40-560,,Załęska Hałda – Brynów Część Zachodnia,Ligota,50.23140121387614,18.97733394813981
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Giszowiec,,Katowice,40-461,,Giszowiec,,50.223674742019774,19.074149776055428
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,40-232,Saint Etienne,Zawodzie,Zawodzie,50.26216701182176,19.056381200553908
+MDK Piotrowice,,Katowice,40-637,,Piotrowice – Ochojec,,50.20944974283983,18.993720071592755
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-219,,Bogucice,Bogucice,50.26692223570075,19.047586134458925
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-175,,Bogucice,,50.27082556455132,19.035090303320786
+MDK Podlesie,,Katowice,40-750,,Kostuchna,Kostuchna,50.191084629034755,18.984484392545603
+MDK Dąb,MDK Koszutka,Katowice,40-145,,Wełnowiec – Józefowiec,,50.28566864867168,19.011978763313635
+MDK Kostuchna,,Katowice,40-748,,Podlesie,,50.18154909035514,18.96105362042741
+MDK Piotrowice,,Katowice,40-645,Radockiego,Piotrowice – Ochojec,,50.20392655248671,18.987288406668608
+MDK Murcki,,Katowice,,,Podlesie,Podlesie,50.1787489,18.9754915
+MDK Koszutka,MDK Koszutka,Katowice,,Kościuszki,Brynów Część Wschodnia – Os. Zgrzebnioka,,50.23858103181571,19.00114525117179
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Os. Paderewskiego – Muchowiec,Muchowiec,50.2348935,19.0308308
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-208,,Bogucice,,50.26680789412345,19.038371998746623
+MDK Ligota,MDK Ligota,Katowice,40-719,,Ligota – Panewniki,Ligota,50.219170580317744,18.973901622653926
+MDK Podlesie,,Katowice,,,Podlesie,Podlesie,50.1787489,18.9754915
+MDK Szopienice-Hall.,,Katowice,,,Dąbrówka Mała,Dąbrówka Mała,50.2801019,19.064669600000002
+MDK Szopienice-West.,,Katowice,40-381,Kantorówny,Szopienice – Burowiec,Szopienice,50.26197618724166,19.096307536758573
+MDK Ligota,MDK Ligota,Katowice,40-687,,Piotrowice – Ochojec,Piotrowice,50.209115930420246,18.96872844645829
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Załęże,Załęże,50.2657049,18.990426
+MDK Piotrowice,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Dąb,MDK Koszutka,Katowice,40-111,Jabłoniowa,Dąb,Dąb,50.275223470820144,19.002269761355308
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-215,,Bogucice,Bogucice,50.27002322600436,19.046490026656915
+MDK Zarzecze,,Katowice,,,Zarzecze,Zarzecze,50.17719520000001,18.9494151
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Koszutka,MDK Koszutka,Katowice,,,Ligota – Panewniki,Ligota,50.220246,18.965878399999998
+MDK Dąb,MDK Koszutka,Katowice,40-123,Czerwinskiego,Koszutka,Koszutka,50.26690694573725,19.02206617753289
+MDK Dąb,MDK Koszutka,Katowice,,Kościuszki,Brynów Część Wschodnia – Os. Zgrzebnioka,,50.23858103181571,19.00114525117179
+MDK Ligota,MDK Ligota,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Piotrowice,,Katowice,,Zbożowa,Piotrowice – Ochojec,,50.21355360608914,18.98131922926518
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Giszowiec,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Szopienice-Hall.,,Katowice,,,Dąbrówka Mała,Dąbrówka Mała,50.2801019,19.064669600000002
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Kostuchna,,Katowice,40-750,Boya-żeleńskiego,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Podlesie,,Katowice,40-748,Malwy,Podlesie,Podlesie,50.183703288883,18.966982623929653
+MDK Murcki,,Katowice,40-749,,Murcki,,50.19943606289726,19.042438873715245
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-216,,Bogucice,,50.26831373226169,19.044612888081147
+MDK Szopienice-Hall.,,Katowice,,,Szopienice – Burowiec,Szopienice,50.2625198,19.096909699999998
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-171,Os. Wajdy,Bogucice,Bogucice,50.27095324685581,19.03241639947416
+MDK Kostuchna,,Katowice,40-668,,Piotrowice – Ochojec,,50.20163443930046,18.98271731389887
+MDK Koszutka,MDK Koszutka,Katowice,40-868,,Osiedle Tysiąclecia,,50.27392620091072,18.984274985139614
+MDK Piotrowice,,Katowice,40-668,Szurleja,Piotrowice – Ochojec,Piotrowice,50.20585773369323,18.978040614322648
+MDK Zarzecze,,Katowice,40-749,,Murcki,,50.19943606289726,19.042438873715245
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-219,,Bogucice,,50.26692223570075,19.047586134458925
+MDK Koszutka,MDK Koszutka,Katowice,40-126,,Koszutka,,50.268274472969296,19.01862020368209
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,Kostuchna,50.191084629034755,18.984484392545603
+MDK Murcki,,Katowice,,,Murcki,Murcki,50.198333,19.046667000000006
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Koszutka,MDK Koszutka,Katowice,40-126,,Koszutka,,50.268274472969296,19.01862020368209
+MDK Koszutka,MDK Koszutka,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Ligota,MDK Ligota,Katowice,,,Piotrowice – Ochojec,Ochojec,50.211156700000004,19.0006936
+MDK Koszutka,MDK Koszutka,Katowice,,,Osiedle Tysiąclecia,Osiedle Tysiąclecia,50.278276899999994,18.975642399999998
+MDK Kostuchna,,Katowice,40-645,,Piotrowice – Ochojec,,50.20392655248671,18.987288406668608
+MDK Piotrowice,,Katowice,,Jankego,Piotrowice – Ochojec,,50.21103237016978,18.984405181850306
+MDK Szopienice-West.,,Katowice,,Hallera,Szopienice – Burowiec,Burowiec,50.271518684793186,19.076817935269393
+MDK Murcki,,Katowice,,,Murcki,Murcki,50.198333,19.046667000000006
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-145,,Wełnowiec – Józefowiec,Wełnowiec,50.28566864867168,19.011978763313635
+MDK Szopienice-Hall.,,Katowice,40-320,,Szopienice – Burowiec,Szopienice,50.272628555349094,19.07362406516084
+MDK Podlesie,,Katowice,40-748,,Podlesie,,50.18154909035514,18.96105362042741
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-213,Markiefki,Bogucice,,50.26462382830925,19.04193713391671
+MDK Giszowiec,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,Kostuchna,50.191084629034755,18.984484392545603
+MDK Kostuchna,,Katowice,,,Osiedle Tysiąclecia,Osiedle Tysiąclecia,50.278276899999994,18.975642399999998
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Śródmieście,Śródmieście,50.2528317,19.016786800000002
+MDK Piotrowice,,Katowice,,,Zarzecze,Zarzecze,50.17719520000001,18.9494151
+MDK Piotrowice,,Katowice,40-649,,Piotrowice – Ochojec,,50.20841454910259,18.98302339537704
+MDK Ligota,MDK Ligota,Katowice,40-717,Koszalińska,Ligota – Panewniki,Ligota,50.225051383497814,18.971835563566245
+MDK Szopienice-West.,,Katowice,,Zamenhofa,Szopienice – Burowiec,Szopienice,50.26417370032701,19.096240332303147
+MDK Murcki,,Katowice,,Samsonowicza,Murcki,Murcki,50.19945494088304,19.038432629242926
+MDK Szopienice-Hall.,,Katowice,40-338,Korczaka,Szopienice – Burowiec,Burowiec,50.2691517246417,19.08409807226554
+MDK Kostuchna,,Katowice,40-686,,Piotrowice – Ochojec,Piotrowice,50.20840214141652,18.966185361664945
+MDK Giszowiec,,Katowice,,Działkowa,Giszowiec,Giszowiec,50.22190450749892,19.07241308130229
+MDK Dąb,MDK Koszutka,Katowice,40-115,,Dąb,,50.273119155594294,19.00473861131448
+MDK Giszowiec,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,Kostuchna,50.191084629034755,18.984484392545603
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Szopienice-West.,,Katowice,,,Szopienice – Burowiec,Szopienice,50.2625198,19.096909699999998
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Szopienice – Burowiec,Szopienice,50.2625198,19.096909699999998
+MDK Podlesie,,Katowice,40-748,Armii Krajowej,Podlesie,Podlesie,50.18144205596674,18.97190073924992
+MDK Podlesie,,Katowice,,,Podlesie,Podlesie,50.1787489,18.9754915
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Podlesie,,Katowice,40-655,Tyska,Piotrowice – Ochojec,Ochojec,50.209489392635355,18.985535107800004
+MDK Kostuchna,,Katowice,,,Podlesie,Podlesie,50.1787489,18.9754915
+MDK Szopienice-Hall.,,Katowice,,,Dąbrówka Mała,Dąbrówka Mała,50.2801019,19.064669600000002
+MDK Murcki,,Katowice,40-749,,Murcki,,50.19943606289726,19.042438873715245
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-214,,Bogucice,Bogucice,50.26620925827663,19.042596738702077
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Śródmieście,Śródmieście,50.2528317,19.016786800000002
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Podlesie,,Katowice,,,Zarzecze,Zarzecze,50.17719520000001,18.9494151
+MDK Szopienice-West.,,Katowice,,,Szopienice – Burowiec,Burowiec,50.2723364,19.078617
+MDK Ligota,MDK Ligota,Katowice,,Wapienna,Piotrowice – Ochojec,,50.21989432601132,18.987518139083832
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-189,,Bogucice,Bogucice,50.27145703774303,19.042779865767557
+MDK Podlesie,,Katowice,40-748,,Podlesie,Podlesie,50.18154909035514,18.96105362042741
+MDK Podlesie,,Katowice,40-698,,Piotrowice – Ochojec,,50.21594428829097,18.97185330257429
+MDK Ligota,MDK Ligota,Katowice,40-708,,Ligota – Panewniki,,50.22774540596393,18.9735180229454
+MDK Podlesie,,Katowice,40-760,Dziewanny,Ligota – Panewniki,,50.226890488739656,18.96304886043248
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,Marcinkowskiego,Zawodzie,,50.2612286924016,19.05931579714744
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Dąb,MDK Koszutka,Katowice,40-106,,Dąb,,50.27442372243284,18.999098328509888
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,40-161,Korfantego,Koszutka,,50.27347793627245,19.023910161493767
+MDK Podlesie,,Katowice,,Świdra,Podlesie,,50.17361623175783,18.968152377338114
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,40-236,,Zawodzie,,50.26040917085603,19.062057337315558
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Podlesie,,Katowice,,,Podlesie,Podlesie,50.1787489,18.9754915
+MDK Giszowiec,,Katowice,40-467,Wojciecha,Giszowiec,,50.21785613144702,19.072347213553826
+MDK Ligota,MDK Ligota,Katowice,40-689,,Piotrowice – Ochojec,,50.210488675943786,18.971951695905034
+MDK Ligota,MDK Ligota,Katowice,40-708,Franciszkańska,Ligota – Panewniki,Ligota,50.22774540596393,18.9735180229454
+MDK Koszutka,MDK Koszutka,Katowice,,,Załęże,Załęże,50.2657049,18.990426
+MDK Giszowiec,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Giszowiec,,Katowice,40-470,Sosnowa,Giszowiec,,50.217918981035396,19.069017014908468
+MDK Koszutka,MDK Koszutka,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Koszutka,MDK Koszutka,Katowice,,,Śródmieście,Śródmieście,50.2528317,19.016786800000002
+MDK Koszutka,MDK Koszutka,Katowice,,Grażyńskiego,Koszutka,,50.268274472969296,19.01862020368209
+MDK Ligota,MDK Ligota,Katowice,,Wincentego Pola,Załęska Hałda – Brynów Część Zachodnia,,50.244393,18.990671
+MDK Piotrowice,,Katowice,40-687,,Piotrowice – Ochojec,,50.209115930420246,18.96872844645829
+MDK Ligota,MDK Ligota,Katowice,,,Ligota – Panewniki,Ligota,50.220246,18.965878399999998
+MDK Piotrowice,,Katowice,,,Załęska Hałda – Brynów Część Zachodnia,Brynów,50.2352252,18.9917323
+MDK Szopienice-Hall.,,Katowice,40-338,Korczaka,Szopienice – Burowiec,Burowiec,50.2691517246417,19.08409807226554
+MDK Podlesie,,Katowice,40-748,,Podlesie,Podlesie,50.18154909035514,18.96105362042741
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-341,,Szopienice – Burowiec,Szopienice,50.27655061573348,19.08678537527933
+MDK Giszowiec,,Katowice,,Szopienicka,Janów – Nikiszowiec,,50.239860770180044,19.0768141621742
+MDK Zarzecze,,Katowice,40-748,,Podlesie,,50.18154909035514,18.96105362042741
+MDK Ligota,MDK Ligota,Katowice,40-737,,Ligota – Panewniki,,50.221648009577855,18.96701048587488
+MDK Piotrowice,,Katowice,40-748,,Podlesie,,50.18154909035514,18.96105362042741
+MDK Szopienice-Hall.,,Katowice,40-337,,Szopienice – Burowiec,,50.26285666264472,19.095202162758373
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Murcki,,Katowice,40-749,Samsonowicza,Murcki,Murcki,50.19945494088304,19.038432629242926
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Szopienice-West.,,Katowice,40-384,Bednorza,Szopienice – Burowiec,Szopienice,50.26370600886774,19.090393588003966
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,40-365,Osiedlowa,Szopienice – Burowiec,,50.26637288860082,19.10064865028832
+MDK Szopienice-West.,,Katowice,,,Szopienice – Burowiec,Burowiec,50.2723364,19.078617
+MDK Ligota,MDK Ligota,Katowice,40-719,Gdańska,Ligota – Panewniki,Ligota,50.21852717138393,18.97159664790204
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Kostuchna,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Dąb,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-189,,Bogucice,Bogucice,50.27145703774303,19.042779865767557
+MDK Murcki,,Katowice,40-749,Wolności,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Murcki,,Katowice,40-749,,Murcki,,50.19943606289726,19.042438873715245
+MDK Szopienice-Hall.,,Katowice,,,Szopienice – Burowiec,Szopienice,50.2625198,19.096909699999998
+MDK Szopienice-Hall.,,Katowice,,,Szopienice – Burowiec,Burowiec,50.2723364,19.078617
+MDK Piotrowice,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Dąb,MDK Koszutka,Katowice,40-067,,Śródmieście,,50.256569017336034,19.01199295158127
+MDK Szopienice-West.,,Katowice,,,Śródmieście,Śródmieście,50.2528317,19.016786800000002
+MDK Giszowiec,,Katowice,,,Janów – Nikiszowiec,Nikiszowiec,50.2401223,19.0732634
+MDK Ligota,MDK Ligota,Katowice,40-558,,Załęska Hałda – Brynów Część Zachodnia,,50.230287056831465,18.983320690950407
+MDK Podlesie,,Katowice,,,Zarzecze,Zarzecze,50.17719520000001,18.9494151
+MDK Szopienice-West.,,Katowice,,,Szopienice – Burowiec,Szopienice,50.2625198,19.096909699999998
+MDK Szopienice-West.,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-212,Żogały,Bogucice,,50.26585586785893,19.039754370837947
+MDK Ligota,MDK Ligota,Katowice,,,Ligota – Panewniki,Ligota,50.220246,18.965878399999998
+MDK Szopienice-Hall.,,Katowice,,,Janów – Nikiszowiec,Nikiszowiec,50.2401223,19.0732634
+MDK Podlesie,,Katowice,40-748,,Podlesie,Podlesie,50.18154909035514,18.96105362042741
+MDK Giszowiec,,Katowice,,Wojciecha,Giszowiec,,50.2208739440534,19.06202503323917
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-186,,Bogucice,Bogucice,50.271548660024436,19.03977774435923
+MDK Giszowiec,,Katowice,40-486,,Giszowiec,,50.22622671894634,19.066509143362094
+MDK Piotrowice,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Ligota,MDK Ligota,Katowice,,,Ligota – Panewniki,Ligota,50.220246,18.965878399999998
+MDK Piotrowice,,Katowice,,,Podlesie,Podlesie,50.1787489,18.9754915
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Koszutka,MDK Koszutka,Katowice,40-425,,Janów – Nikiszowiec,,50.24459592753338,19.08214926982756
+MDK Kostuchna,,Katowice,40-065,Mikołowska,Śródmieście,Śródmieście,50.2513308883673,19.005622604015056
+MDK Szopienice-Hall.,,Katowice,40-353,,Szopienice – Burowiec,,50.26549421978543,19.09813485970039
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Kostuchna,,Katowice,40-748,,Podlesie,,50.18154909035514,18.96105362042741
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,40-238,,Zawodzie,Zawodzie,50.258513103021286,19.05877354003232
+MDK Ligota,MDK Ligota,Katowice,40-561,,Załęska Hałda – Brynów Część Zachodnia,Brynów,50.2352252,18.9917323
+MDK Giszowiec,,Katowice,,Adama,Giszowiec,,50.21785613144702,19.072347213553826
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Ligota,MDK Ligota,Katowice,,Panewnicka,Ligota – Panewniki,,50.22963218891178,18.94456721866005
+MDK Ligota,MDK Ligota,Katowice,40-729,Zagrody,Ligota – Panewniki,Ligota,50.22663608091122,18.967381275602296
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Giszowiec,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Szopienice-Hall.,,Katowice,40-338,Korczaka,Szopienice – Burowiec,Burowiec,50.2691517246417,19.08409807226554
+MDK Podlesie,,Katowice,40-748,Sołtysia,Podlesie,Podlesie,50.18191558718489,18.97824520821456
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,70-237,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Szopienice-Hall.,,Katowice,,,Dąbrówka Mała,Dąbrówka Mała,50.2801019,19.064669600000002
+MDK Murcki,,Katowice,,,Podlesie,Podlesie,50.1787489,18.9754915
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Szopienice-Hall.,,Katowice,40-321,,Szopienice – Burowiec,,50.27019239117968,19.07770474505412
+MDK Dąb,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Szopienice-Hall.,,Katowice,40-336,,Szopienice – Burowiec,,50.26443903088974,19.09240502703418
+MDK Dąb,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Szopienice-Hall.,,Katowice,40-319,,Szopienice – Burowiec,,50.272413290117996,19.071618383958352
+MDK Dąb,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Koszutka,MDK Koszutka,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Murcki,,Katowice,,,Murcki,Murcki,50.198333,19.046667000000006
+MDK Szopienice-West.,,Katowice,40-360,Morawa,Szopienice – Burowiec,Szopienice,50.266371864426915,19.100393194411247
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Podlesie,,Katowice,40-748,Malwy,Podlesie,,50.183703288883,18.966982623929653
+MDK Ligota,MDK Ligota,Katowice,,Sikorek,Brynów Część Wschodnia – Os. Zgrzebnioka,,50.22984560915802,19.001479809923925
+MDK Piotrowice,,Katowice,,,Ligota – Panewniki,Zadole,50.2201,18.966798999999998
+MDK Piotrowice,,Katowice,40-660,,Piotrowice – Ochojec,,50.210958588418045,18.976642594217925
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,Kostuchna,50.191084629034755,18.984484392545603
+MDK Piotrowice,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Śródmieście,Śródmieście,50.2528317,19.016786800000002
+MDK Dąb,MDK Koszutka,Katowice,40-111,,Dąb,,50.276351531264545,19.00548799955819
+MDK Ligota,MDK Ligota,Katowice,40-717,,Ligota – Panewniki,Ligota,50.22507168816201,18.97138907197194
+MDK Ligota,MDK Ligota,Katowice,40-719,,Ligota – Panewniki,Ligota,50.219170580317744,18.973901622653926
+MDK Piotrowice,,Katowice,,,Ligota – Panewniki,Zadole,50.2201,18.966798999999998
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Janów – Nikiszowiec,Nikiszowiec,50.2401223,19.0732634
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Murcki,,Katowice,40-749,,Murcki,,50.19943606289726,19.042438873715245
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Dąb,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Kostuchna,,Katowice,,,Piotrowice – Ochojec,Ochojec,50.211156700000004,19.0006936
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Zarzecze,,Katowice,,,Zarzecze,Zarzecze,50.17719520000001,18.9494151
+MDK Koszutka,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Podlesie,,Katowice,,,Zarzecze,Zarzecze,50.17719520000001,18.9494151
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Giszowiec,,Katowice,40-462,,Giszowiec,Giszowiec,50.221469887508576,19.074389640405627
+MDK Giszowiec,,Katowice,,Mysłowicka,Giszowiec,,50.226228419637614,19.06715920715854
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Ligota,MDK Ligota,Katowice,40-715,Słupska,Ligota – Panewniki,Ligota,50.223120251305936,18.97063650341544
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-474,,Giszowiec,Giszowiec,50.2208739440534,19.06202503323917
+MDK Podlesie,,Katowice,,,Podlesie,Podlesie,50.1787489,18.9754915
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Szopienice-West.,,Katowice,,,Szopienice – Burowiec,Szopienice,50.2625198,19.096909699999998
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Koszutka,MDK Koszutka,Katowice,,,Wełnowiec – Józefowiec,Józefowiec,50.2842094,19.0108538
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Ligota,MDK Ligota,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Szopienice-West.,,Katowice,40-321,,Szopienice – Burowiec,Szopienice,50.27019239117968,19.07770474505412
+MDK Giszowiec,,Katowice,40-474,,Giszowiec,Giszowiec,50.2208739440534,19.06202503323917
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-208,,Bogucice,Bogucice,50.26680789412345,19.038371998746623
+MDK Ligota,MDK Ligota,Katowice,40-551,,Załęska Hałda – Brynów Część Zachodnia,Brynów,50.22860838652025,18.99056321217996
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Dąb,MDK Koszutka,Katowice,40-136,Słoneczna,Dąb,Dąb,50.274404,19.008507
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,Podhalanska,Bogucice,,50.269815,19.044105
+MDK Szopienice-West.,,Katowice,,,Szopienice – Burowiec,Szopienice,50.2625198,19.096909699999998
+MDK Dąb,MDK Koszutka,Katowice,40-115,,Dąb,,50.273119155594294,19.00473861131448
+MDK Kostuchna,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Dąb,MDK Koszutka,Katowice,40-136,Słoneczna,Wełnowiec – Józefowiec,,50.275177161477814,19.011391786807753
+MDK Podlesie,,Katowice,40-748,,Podlesie,Podlesie,50.18154909035514,18.96105362042741
+MDK Ligota,MDK Ligota,Katowice,40-810,,Załęska Hałda – Brynów Część Zachodnia,Załęska Hałda,50.24827086859057,18.982803814659807
+MDK Piotrowice,,Katowice,40-645,Radockiego,Piotrowice – Ochojec,Piotrowice,50.20392655248671,18.987288406668608
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Szopienice – Burowiec,Szopienice,50.2625198,19.096909699999998
+MDK Giszowiec,,Katowice,,Mysłowicka,Giszowiec,,50.226228419637614,19.06715920715854
+MDK Giszowiec,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Osiedle Tysiąclecia,Osiedle Tysiąclecia,50.278276899999994,18.975642399999998
+MDK Piotrowice,,Katowice,40-765,,Ligota – Panewniki,Panewniki,50.22895240805453,18.946378009757712
+MDK Murcki,,Katowice,,,Murcki,Murcki,50.198333,19.046667000000006
+MDK Piotrowice,,Katowice,40-686,,Piotrowice – Ochojec,Piotrowice,50.20840214141652,18.966185361664945
+MDK Dąb,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Murcki,,Katowice,40-749,,Murcki,,50.19943606289726,19.042438873715245
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Murcki,,Katowice,,Didura,Murcki,,50.19983976419752,19.0469471344828
+MDK Piotrowice,,Katowice,40-748,Malwy,Podlesie,Podlesie,50.183703288883,18.966982623929653
+MDK Dąb,MDK Koszutka,Katowice,,Marcinkowskiego,Zawodzie,Zawodzie,50.2612286924016,19.05931579714744
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Szopienice-West.,,Katowice,40-381,Kantorówny,Szopienice – Burowiec,Szopienice,50.26348135256165,19.096935186339266
+MDK Ligota,MDK Ligota,Katowice,,,Piotrowice – Ochojec,Ochojec,50.211156700000004,19.0006936
+MDK Szopienice-Hall.,,Katowice,,Hallera,Szopienice – Burowiec,Burowiec,50.27144049083088,19.074427876153077
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Ligota,MDK Ligota,Katowice,,Koszalińska,Ligota – Panewniki,,50.223440982253244,18.971999978650018
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,Łączna,Zawodzie,Zawodzie,50.260788579657536,19.061611858821266
+MDK Giszowiec,,Katowice,,Wojciecha,Giszowiec,,50.2208739440534,19.06202503323917
+MDK Piotrowice,,Katowice,,Armii Krajowej,Kostuchna,,50.198456,18.977409
+MDK Szopienice-West.,,Katowice,,Lodowa,Szopienice – Burowiec,Szopienice – Burowiec,50.276181193454406,19.079365828001247
+MDK Kostuchna,,Katowice,40-750,Kściuczyka,Kostuchna,Kostuchna,50.181365638609435,18.998892890391158
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,40-233,,Zawodzie,,50.26093104560922,19.059364987534614
+MDK Piotrowice,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Podlesie,,Katowice,40-748,Armii Krajowej,Podlesie,Podlesie,50.18154909035514,18.96105362042741
+MDK Szopienice-Hall.,,Katowice,,,Szopienice – Burowiec,Burowiec,50.2723364,19.078617
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Giszowiec,,Katowice,,Mysłowicka,Giszowiec,,50.226228419637614,19.06715920715854
+MDK Szopienice-West.,,Katowice,40-379,Zamenhofa,Szopienice – Burowiec,,50.26316989239022,19.100717248040024
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,Kostuchna,50.191084629034755,18.984484392545603
+MDK Dąb,MDK Koszutka,Katowice,,,Ligota – Panewniki,Panewniki,50.2143609,18.935247600000004
+MDK Piotrowice,,Katowice,,Tunelowa,Kostuchna,,50.19790803816925,18.964991443697095
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Piotrowice,,Katowice,40-773,Panewnicka,Ligota – Panewniki,,50.22871089748153,18.934204807575398
+MDK Piotrowice,,Katowice,40-645,,Piotrowice – Ochojec,,50.20392655248671,18.987288406668608
+MDK Koszutka,MDK Koszutka,Katowice,,Sokolska,Koszutka,Śródmieście,50.266241621312076,19.018985133430235
+MDK Podlesie,,Katowice,40-748,Pomorskiego,Podlesie,Podlesie,50.169667790723715,18.96255671306169
+MDK Dąb,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Szopienice-West.,,Katowice,40-379,Zamenhofa,Szopienice – Burowiec,Szopienice,50.26316989239022,19.100717248040024
+MDK Piotrowice,,Katowice,40-652,,Piotrowice – Ochojec,,50.211636243674,18.988790360492068
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,Podhalanska,Bogucice,,50.269815,19.044105
+MDK Ligota,MDK Ligota,Katowice,40-741,,Ligota – Panewniki,,50.22095122144335,18.964728449724927
+MDK Piotrowice,,Katowice,40-748,,Podlesie,Podlesie,50.18154909035514,18.96105362042741
+MDK Kostuchna,,Katowice,,,Podlesie,Podlesie,50.1787489,18.9754915
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-213,Markiefki,Bogucice,Bogucice,50.26462382830925,19.04193713391671
+MDK Koszutka,MDK Koszutka,Katowice,,,Osiedle Tysiąclecia,Osiedle Tysiąclecia,50.278276899999994,18.975642399999998
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-214,,Bogucice,Bogucice,50.26620925827663,19.042596738702077
+MDK Dąb,MDK Koszutka,Katowice,,,Wełnowiec – Józefowiec,Józefowiec,50.2842094,19.0108538
+MDK Podlesie,,Katowice,40-748,Niezapominajek,Podlesie,Podlesie,50.16595857995141,18.9692297976327
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Dąb,MDK Koszutka,Katowice,,,Wełnowiec – Józefowiec,Józefowiec,50.2842094,19.0108538
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,40-232,,Zawodzie,Zawodzie,50.26216701182176,19.056381200553908
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Załęska Hałda – Brynów Część Zachodnia,Brynów,50.2352252,18.9917323
+MDK Ligota,MDK Ligota,Katowice,40-698,,Piotrowice – Ochojec,Piotrowice,50.21594428829097,18.97185330257429
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-213,Markiefki,Bogucice,,50.26462382830925,19.04193713391671
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Piotrowice,,Katowice,,,Ligota – Panewniki,Ligota,50.220246,18.965878399999998
+MDK Giszowiec,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Szopienice-West.,,Katowice,40-374,Wiosny Ludów,Szopienice – Burowiec,,50.26207227686459,19.10014355728228
+MDK Koszutka,MDK Koszutka,Katowice,,,Śródmieście,Śródmieście,50.2528317,19.016786800000002
+MDK Piotrowice,,Katowice,40-679,,Piotrowice – Ochojec,,50.201276116695894,18.96622258560184
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Kostuchna,,Katowice,40-748,Grota Roweckiego,Zarzecze,Zarzecze,50.182854,18.947245000000002
+MDK Szopienice-Hall.,,Katowice,,Wandy,Szopienice – Burowiec,,50.27038423200028,19.081607256116065
+MDK Ligota,MDK Ligota,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Szopienice-Hall.,,Katowice,40-353,,Szopienice – Burowiec,,50.26549421978543,19.09813485970039
+MDK Koszutka,MDK Koszutka,Katowice,,Grażyńskiego,Koszutka,,50.268274472969296,19.01862020368209
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Ligota,MDK Ligota,Katowice,40-711,Świdnicka,Ligota – Panewniki,Ligota,50.225187844322576,18.97389585569866
+MDK Szopienice-Hall.,,Katowice,40-466,,Giszowiec,,50.22227576075753,19.069976667235206
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Dąb,MDK Koszutka,Katowice,40-171,,Bogucice,,50.27095324685581,19.03241639947416
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-063,,Śródmieście,,50.25397142835782,19.014408901242987
+MDK Piotrowice,,Katowice,40-717,,Ligota – Panewniki,,50.22507168816201,18.97138907197194
+MDK Ligota,MDK Ligota,Katowice,,,Ligota – Panewniki,Ligota,50.220246,18.965878399999998
+MDK Giszowiec,,Katowice,,Gościnna,Giszowiec,Giszowiec,50.223809189055366,19.06805659584011
+MDK Szopienice-Hall.,,Katowice,,,Dąbrówka Mała,Dąbrówka Mała,50.2801019,19.064669600000002
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-208,,Bogucice,,50.26680789412345,19.038371998746623
+MDK Szopienice-Hall.,,Katowice,40-338,Korczaka,Szopienice – Burowiec,Burowiec,50.2691517246417,19.08409807226554
+MDK Kostuchna,,Katowice,,,Ligota – Panewniki,Ligota,50.220246,18.965878399999998
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Szopienice-West.,,Katowice,,Plac Pod Lipami,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-208,Ścigały,Bogucice,Bogucice,50.26680789412345,19.038371998746623
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Piotrowice,,Katowice,40-750,,Kostuchna,Kostuchna,50.191084629034755,18.984484392545603
+MDK Giszowiec,,Katowice,40-474,,Giszowiec,Giszowiec,50.2208739440534,19.06202503323917
+MDK Szopienice-West.,,Katowice,,Wankowicza,Szopienice – Burowiec,Szopienice,50.2625198,19.096909699999998
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Podlesie,,Katowice,,Kamelii,Podlesie,Podlesie,50.181318840141394,18.972707637409677
+MDK Kostuchna,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Ligota,MDK Ligota,Katowice,40-772,,Ligota – Panewniki,,50.23077175252746,18.94551464481165
+MDK Giszowiec,,Katowice,40-467,Adama,Giszowiec,,50.21785613144702,19.072347213553826
+MDK Piotrowice,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Dąb,MDK Koszutka,Katowice,,Nowowiejskiego,Wełnowiec – Józefowiec,,50.27970210034385,19.01191599878469
+MDK Szopienice-Hall.,,Katowice,,Korfantego,Koszutka,,50.274935126531666,19.023198107178448
+MDK Piotrowice,,Katowice,,Armii Krajowej,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-203,,Zawodzie,,50.26467346234298,19.049908272714177
+MDK Zarzecze,,Katowice,40-637,,Piotrowice – Ochojec,,50.20944974283983,18.993720071592755
+MDK Murcki,,Katowice,40-045,,Śródmieście,,50.24935958410486,19.0153009628866
+MDK Zarzecze,,Katowice,40-748,,Zarzecze,Zarzecze,50.182854,18.947245000000002
+MDK Ligota,MDK Ligota,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-217,,Bogucice,,50.2671801236245,19.04432833226431
+MDK Zarzecze,,Katowice,40-717,,Ligota – Panewniki,,50.22507168816201,18.97138907197194
+MDK Giszowiec,,Katowice,40-488,Karliczka,Giszowiec,Giszowiec,50.22605161021766,19.061525217781924
+MDK Murcki,,Katowice,40-749,Bielska,Murcki,Murcki,50.1986878310353,19.04491421522632
+MDK Piotrowice,,Katowice,,Panewnicka,Ligota – Panewniki,,50.22963218891178,18.94456721866005
+MDK Szopienice-West.,,Katowice,,1 Maja,Zawodzie,Zawodzie,50.25865503371379,19.050488332234696
+MDK Dąb,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-126,Grażyńskiego,Koszutka,,50.268274472969296,19.01862020368209
+MDK Dąb,MDK Koszutka,Katowice,,Sportowa,Dąb,,50.274419492413166,18.99786332163065
+MDK Murcki,,Katowice,40-749,Baczyńskiego,Murcki,Murcki,50.19826600502939,19.04426199211321
+MDK Ligota,MDK Ligota,Katowice,40-719,,Ligota – Panewniki,Ligota,50.219170580317744,18.973901622653926
+MDK Giszowiec,,Katowice,40-467,Adama,Giszowiec,,50.21785613144702,19.072347213553826
+MDK Koszutka,MDK Koszutka,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Giszowiec,,Katowice,40-467,,Giszowiec,Giszowiec,50.21785613144702,19.072347213553826
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,Kostuchna,50.191084629034755,18.984484392545603
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Giszowiec,,Katowice,40-379,,Szopienice – Burowiec,Szopienice,50.263022177353754,19.1006689321627
+MDK Murcki,,Katowice,,,Murcki,Murcki,50.198333,19.046667000000006
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Koszutka,MDK Koszutka,Katowice,40-086,Sokolska,Śródmieście,Śródmieście,50.264339153949564,19.018838499076182
+MDK Koszutka,MDK Koszutka,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Szopienice-Hall.,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Koszutka,MDK Koszutka,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,40-236,,Zawodzie,Zawodzie,50.26040917085603,19.062057337315558
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-145,,Wełnowiec – Józefowiec,Wełnowiec,50.28566864867168,19.011978763313635
+MDK Ligota,MDK Ligota,Katowice,40-755,,Ligota – Panewniki,,50.23468922600125,18.9614683017302
+MDK Zarzecze,,Katowice,,,Zarzecze,Zarzecze,50.17719520000001,18.9494151
+MDK Zarzecze,,Katowice,40-664,,Piotrowice – Ochojec,,50.20593368610332,18.98071177659089
+MDK Murcki,,Katowice,40-749,Wolności,Murcki,,50.19943606289726,19.042438873715245
+MDK Giszowiec,,Katowice,,Szopienicka,Janów – Nikiszowiec,,50.239860770180044,19.0768141621742
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,Sportowa,Dąb,Dąb,50.27357545456277,18.997827666468407
+MDK Podlesie,,Katowice,40-748,,Podlesie,Podlesie,50.18154909035514,18.96105362042741
+MDK Giszowiec,,Katowice,40-474,,Giszowiec,Giszowiec,50.2208739440534,19.06202503323917
+MDK Piotrowice,,Katowice,40-686,,Piotrowice – Ochojec,,50.20840214141652,18.966185361664945
+MDK Podlesie,,Katowice,40-770,,Ligota – Panewniki,,50.22842153674832,18.950408990757733
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Murcki,,Katowice,40-045,,Śródmieście,,50.24935958410486,19.0153009628866
+MDK Giszowiec,,Katowice,40-486,,Giszowiec,,50.22622671894634,19.066509143362094
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Ligota,MDK Ligota,Katowice,,Gromadzka,Ligota – Panewniki,,50.22819036269657,18.94767850607672
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,Kostuchna,50.191084629034755,18.984484392545603
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-213,,Bogucice,Bogucice,50.26462382830925,19.04193713391671
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Ligota,MDK Ligota,Katowice,40-710,,Ligota – Panewniki,,50.22331779890264,18.975508866640702
+MDK Ligota,MDK Ligota,Katowice,40-734,Bronisławy,Ligota – Panewniki,Ligota,50.22367233048065,18.961857072810112
+MDK Zarzecze,,Katowice,40-748,,Podlesie,,50.18154909035514,18.96105362042741
+MDK Szopienice-Hall.,,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Zarzecze,,Katowice,40-748,Stellera,Zarzecze,Zarzecze,50.184913222368145,18.949906574007283
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-213,,Bogucice,Bogucice,50.26462382830925,19.04193713391671
+MDK Kostuchna,,Katowice,,,Zarzecze,Zarzecze,50.17719520000001,18.9494151
+MDK Ligota,MDK Ligota,Katowice,,Bronisławy,Ligota – Panewniki,,50.22325375682247,18.962636158215425
+MDK Piotrowice,,Katowice,40-685,,Piotrowice – Ochojec,,50.207933605441596,18.96552067862616
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Kostuchna,,Katowice,,Jaronia,Kostuchna,,50.185650439551324,19.00156292844805
+MDK Piotrowice,,Katowice,,Głogowska,Piotrowice – Ochojec,,50.21120226584721,18.976855208239453
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-189,,Bogucice,Bogucice,50.27145703774303,19.042779865767557
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Szopienice-West.,,Katowice,40-470,Hallera,Szopienice – Burowiec,Burowiec,50.27073954970663,19.076060776654344
+MDK Piotrowice,,Katowice,40-713,Słupska,Ligota – Panewniki,Ligota,50.223315982804564,18.97371879797475
+MDK Kostuchna,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Dąb,MDK Koszutka,Katowice,40-035,,Śródmieście,,50.254998644065935,19.02077505361939
+MDK Giszowiec,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Kostuchna,,Katowice,40-765,,Ligota – Panewniki,,50.22895240805453,18.946378009757712
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Piotrowice,,Katowice,40-645,,Piotrowice – Ochojec,,50.20392655248671,18.987288406668608
+MDK Koszutka,MDK Koszutka,Katowice,40-175,,Bogucice,,50.27082556455132,19.035090303320786
+MDK Giszowiec,,Katowice,,Stawowa,Śródmieście,Śródmieście,50.2603551917097,19.01812610704997
+MDK Giszowiec,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Szopienice-West.,,Katowice,,,Szopienice – Burowiec,Szopienice,50.2625198,19.096909699999998
+MDK Ligota,MDK Ligota,Katowice,40-759,,Ligota – Panewniki,Panewniki,50.236331655761134,18.95443391154624
+MDK Piotrowice,,Katowice,,Radockiego,Piotrowice – Ochojec,,50.20392655248671,18.987288406668608
+MDK Koszutka,MDK Koszutka,Katowice,,Plac Grunwaldzki,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Ligota,MDK Ligota,Katowice,40-708,Franciszkańska,Ligota – Panewniki,Ligota,50.22774540596393,18.9735180229454
+MDK Dąb,MDK Koszutka,Katowice,,,Wełnowiec – Józefowiec,Józefowiec,50.2842094,19.0108538
+MDK Murcki,,Katowice,,,Murcki,Murcki,50.198333,19.046667000000006
+MDK Szopienice-Hall.,,Katowice,40-313,,Dąbrówka Mała,,50.27936054134449,19.07581322936376
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Dąb,MDK Koszutka,Katowice,40-060,,Śródmieście,,50.25046179926691,19.00643691071858
+MDK Murcki,,Katowice,40-749,Tokarskiego,Murcki,Murcki,50.20316692557541,19.042399127783977
+MDK Ligota,MDK Ligota,Katowice,,,Ligota – Panewniki,Zadole,50.2201,18.966798999999998
+MDK Podlesie,,Katowice,,,Podlesie,Podlesie,50.1787489,18.9754915
+MDK Kostuchna,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Koszutka,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-203,,Zawodzie,,50.26467346234298,19.049908272714177
+MDK Podlesie,,Katowice,40-698,Radockiego,Piotrowice – Ochojec,Piotrowice,50.20489558988431,18.98960303975501
+MDK Dąb,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Murcki,,Katowice,40-457,Kosmiczna,Giszowiec,Giszowiec,50.22311358482929,19.07522058905569
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Koszutka,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Kostuchna,,Katowice,40-748,,Podlesie,Podlesie,50.18154909035514,18.96105362042741
+MDK Ligota,MDK Ligota,Katowice,,,Ligota – Panewniki,Ligota,50.220246,18.965878399999998
+MDK Szopienice-Hall.,,Katowice,,,Śródmieście,Śródmieście,50.2528317,19.016786800000002
+MDK Giszowiec,,Katowice,,Sosnowa,Giszowiec,,50.217918981035396,19.069017014908468
+MDK Podlesie,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Szopienice-Hall.,,Katowice,,,Szopienice – Burowiec,Burowiec,50.2723364,19.078617
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,Markiefki,Bogucice,,50.26611347069507,19.040888135806338
+MDK Podlesie,,Katowice,40-748,Uniczowska,Podlesie,Podlesie,50.179225283481635,18.964191125547188
+MDK Szopienice-Hall.,,Katowice,40-389,,Szopienice – Burowiec,,50.258382337139864,19.097461881414414
+MDK Piotrowice,,Katowice,40-645,,Piotrowice – Ochojec,,50.20392655248671,18.987288406668608
+MDK Koszutka,MDK Koszutka,Katowice,40-086,,Śródmieście,,50.26246111103578,19.016338446269874
+MDK Kostuchna,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Szopienice-West.,,Katowice,,Morawa,Szopienice – Burowiec,Szopienice,50.26527670210904,19.097863363593106
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-675,,Piotrowice – Ochojec,Piotrowice,50.201894913868294,18.971468235820105
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Koszutka,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Piotrowice,,Katowice,40-657,,Piotrowice – Ochojec,,50.21355360608914,18.98131922926518
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-216,,Bogucice,,50.26831373226169,19.044612888081147
+MDK Ligota,MDK Ligota,Katowice,40-053,,Śródmieście,,50.25098449260931,19.00785393671718
+MDK Koszutka,MDK Koszutka,Katowice,,Adamskiego,Śródmieście,,50.25304554413118,19.00294365499213
+MDK Dąb,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,Lubuska,Bogucice,,50.26856268896339,19.049420930662922
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Piotrowice,,Katowice,40-645,Radockiego,Piotrowice – Ochojec,Piotrowice,50.20392655248671,18.987288406668608
+MDK Koszutka,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Koszutka,MDK Koszutka,Katowice,40-028,,Śródmieście,,50.24925058850365,19.02679245023679
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-203,Roździeńskiego,Zawodzie,Osiedle Gwiazdy,50.26101640908399,19.03615578814283
+MDK Giszowiec,,Katowice,,Adama,Giszowiec,,50.21785613144702,19.072347213553826
+MDK Ligota,MDK Ligota,Katowice,40-732,Mazowiecka,Ligota – Panewniki,Ligota,50.22384778251366,18.96743895580636
+MDK Koszutka,MDK Koszutka,Katowice,40-111,,Dąb,,50.276351531264545,19.00548799955819
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Dąb,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,47-179,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Zarzecze,,Katowice,,,Zarzecze,Zarzecze,50.17719520000001,18.9494151
+MDK Koszutka,MDK Koszutka,Katowice,40-126,,Koszutka,,50.268274472969296,19.01862020368209
+MDK Piotrowice,,Katowice,40-677,,Piotrowice – Ochojec,Piotrowice,50.19874401144127,18.962367545974374
+MDK Piotrowice,,Katowice,40-645,,Piotrowice – Ochojec,,50.20392655248671,18.987288406668608
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Murcki,,Katowice,40-759,,Ligota – Panewniki,,50.236331655761134,18.95443391154624
+MDK Podlesie,,Katowice,40-478,Sołtysia,Podlesie,Podlesie,50.17697241320675,18.959299379582628
+MDK Dąb,MDK Koszutka,Katowice,40-111,,Dąb,,50.276351531264545,19.00548799955819
+MDK Kostuchna,,Katowice,,,Ligota – Panewniki,Ligota,50.220246,18.965878399999998
+MDK Podlesie,,Katowice,,,Podlesie,Podlesie,50.1787489,18.9754915
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Piotrowice,,Katowice,40-622,,Piotrowice – Ochojec,Ochojec,50.21544820627297,18.99570954065689
+MDK Ligota,MDK Ligota,Katowice,,Bronisławy,Ligota – Panewniki,Ligota,50.22342655103292,18.96266489034319
+MDK Szopienice-Hall.,,Katowice,,,Szopienice – Burowiec,Burowiec,50.2723364,19.078617
+MDK Ligota,MDK Ligota,Katowice,40-719,,Ligota – Panewniki,Zadole,50.219170580317744,18.973901622653926
+MDK Szopienice-West.,,Katowice,,11 Listopada,Szopienice – Burowiec,Szopienice,50.25968220359066,19.08975818074218
+MDK Ligota,MDK Ligota,Katowice,,Panewnicka,Ligota – Panewniki,,50.22963218891178,18.94456721866005
+MDK Szopienice-Hall.,,Katowice,40-353,,Szopienice – Burowiec,,50.26549421978543,19.09813485970039
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,Marcinkowskiego,Zawodzie,,50.2612286924016,19.05931579714744
+MDK Murcki,,Katowice,,,Murcki,Murcki,50.198333,19.046667000000006
+MDK Zarzecze,,Katowice,40-748,,Podlesie,,50.18154909035514,18.96105362042741
+MDK Ligota,MDK Ligota,Katowice,40-741,,Ligota – Panewniki,,50.22095122144335,18.964728449724927
+MDK Murcki,,Katowice,40-749,Mruczka,Murcki,Murcki,50.19810721603021,19.038361587208573
+MDK Ligota,MDK Ligota,Katowice,,,Ligota – Panewniki,Ligota,50.220246,18.965878399999998
+MDK Murcki,,Katowice,,Kołodzieja,Murcki,,50.196434644077186,19.044563703608922
+MDK Ligota,MDK Ligota,Katowice,,Gdańska,Ligota – Panewniki,,50.21914027102458,18.97250721165398
+MDK Piotrowice,,Katowice,40-645,,Piotrowice – Ochojec,,50.20392655248671,18.987288406668608
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,Kostuchna,50.191084629034755,18.984484392545603
+MDK Dąb,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Ligota,MDK Ligota,Katowice,,,Ligota – Panewniki,Ligota,50.220246,18.965878399999998
+MDK Giszowiec,,Katowice,,Szopienicka,Janów – Nikiszowiec,,50.239860770180044,19.0768141621742
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,40-236,,Zawodzie,Zawodzie,50.26040917085603,19.062057337315558
+MDK Kostuchna,,Katowice,,Szramka,Kostuchna,,50.186990901609256,18.988895588882826
+MDK Szopienice-Hall.,,Katowice,,,Szopienice – Burowiec,Szopienice,50.2625198,19.096909699999998
+MDK Szopienice-West.,,Katowice,40-378,Ratuszowa,Szopienice – Burowiec,Szopienice,50.26312367726555,19.099463570422657
+MDK Ligota,MDK Ligota,Katowice,40-717,,Ligota – Panewniki,Ligota,50.22507168816201,18.97138907197194
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Giszowiec,,Katowice,40-476,,Giszowiec,Giszowiec,50.222175069251385,19.06703783151984
+MDK Szopienice-West.,,Katowice,,Bednorza,Szopienice – Burowiec,Szopienice,50.26342290264756,19.091286002895586
+MDK Zarzecze,,Katowice,,,Zarzecze,Zarzecze,50.17719520000001,18.9494151
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,Kukuczki,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Podlesie,,Katowice,40-613,,Piotrowice – Ochojec,Piotrowice,50.2088433297795,18.97576465926713
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-174,,Koszutka,Koszutka,50.269793,19.028997
+MDK Szopienice-Hall.,,Katowice,,,Dąbrówka Mała,Dąbrówka Mała,50.2801019,19.064669600000002
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Piotrowice,,Katowice,40-026,,Śródmieście,,50.25610616555047,19.024668603782345
+MDK Piotrowice,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Piotrowice,,Katowice,40-686,,Piotrowice – Ochojec,Piotrowice,50.20840214141652,18.966185361664945
+MDK Ligota,MDK Ligota,Katowice,,Rolna,Załęska Hałda – Brynów Część Zachodnia,,50.23161397183978,18.98591696837734
+MDK Szopienice-Hall.,,Katowice,40-320,Hallera,Szopienice – Burowiec,Szopienice,50.272628555349094,19.07362406516084
+MDK Murcki,,Katowice,40-750,,Kostuchna,Kostuchna,50.191084629034755,18.984484392545603
+MDK Podlesie,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Kostuchna,,Katowice,,,Zarzecze,Zarzecze,50.17719520000001,18.9494151
+MDK Dąb,MDK Koszutka,Katowice,,Baildona,Dąb,,50.273119155594294,19.00473861131448
+MDK Zarzecze,,Katowice,,Uniczowska,Podlesie,Podlesie,50.179225283481635,18.964191125547188
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,40-232,,Zawodzie,Zawodzie,50.26216701182176,19.056381200553908
+MDK Szopienice-West.,,Katowice,,Ciesielska,Szopienice – Burowiec,,50.263139487445,19.098683593730808
+MDK Ligota,MDK Ligota,Katowice,40-571,,Załęska Hałda – Brynów Część Zachodnia,,50.23670833028322,18.978994184340703
+MDK Ligota,MDK Ligota,Katowice,40-203,,Zawodzie,,50.26467346234298,19.049908272714177
+MDK Ligota,MDK Ligota,Katowice,,,Osiedle Tysiąclecia,Osiedle Tysiąclecia,50.278276899999994,18.975642399999998
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Dąb,MDK Koszutka,Katowice,,Tysiąclecia,Osiedle Tysiąclecia,,50.27858518808939,18.97421310843162
+MDK Ligota,MDK Ligota,Katowice,40-774,,Ligota – Panewniki,,50.22834436866089,18.92071097303909
+MDK Murcki,,Katowice,,,Murcki,Murcki,50.198333,19.046667000000006
+MDK Podlesie,,Katowice,40-748,,Podlesie,,50.18154909035514,18.96105362042741
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Koszutka,MDK Koszutka,Katowice,,,Śródmieście,Śródmieście,50.2528317,19.016786800000002
+MDK Piotrowice,,Katowice,40-645,,Piotrowice – Ochojec,,50.20392655248671,18.987288406668608
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-208,,Bogucice,Bogucice,50.26680789412345,19.038371998746623
+MDK Giszowiec,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Szopienice-Hall.,,Katowice,,Hallera,Szopienice – Burowiec,,50.271518684793186,19.076817935269393
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Kostuchna,,Katowice,,Kściuczyka,Kostuchna,,50.181365638609435,18.998892890391158
+MDK Kostuchna,,Katowice,,Koraszewskiego,Kostuchna,,50.18252831984915,18.99606840010948
+MDK Murcki,,Katowice,40-749,,Murcki,,50.19943606289726,19.042438873715245
+MDK Giszowiec,,Katowice,,Leśnego Potoku,Janów – Nikiszowiec,,50.238121,19.092569
+MDK Ligota,MDK Ligota,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,Kostuchna,50.191084629034755,18.984484392545603
+MDK Giszowiec,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Piotrowice,,Katowice,40-520,Zgrzebnioka,Brynów Część Wschodnia – Os. Zgrzebnioka,,50.239567548052605,19.006138578366944
+MDK Kostuchna,,Katowice,,,Osiedle Tysiąclecia,Osiedle Tysiąclecia,50.278276899999994,18.975642399999998
+MDK Murcki,,Katowice,40-749,Bielska,Murcki,Murcki,50.1986878310353,19.04491421522632
+MDK Ligota,MDK Ligota,Katowice,40-709,Franciszkańska,Ligota – Panewniki,Ligota,50.22775398547852,18.97328068229267
+MDK Piotrowice,,Katowice,40-645,Radockiego,Piotrowice – Ochojec,Piotrowice,50.20392655248671,18.987288406668608
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Ligota,MDK Ligota,Katowice,40-698,,Piotrowice – Ochojec,Piotrowice,50.21594428829097,18.97185330257429
+MDK Piotrowice,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Podlesie,,Katowice,,Stabika,Kostuchna,,50.192481987819065,18.973648209413298
+MDK Murcki,,Katowice,,,Janów – Nikiszowiec,Janów,50.2385101,19.089260100000004
+MDK Ligota,MDK Ligota,Katowice,,,Śródmieście,Śródmieście,50.2528317,19.016786800000002
+MDK Koszutka,MDK Koszutka,Katowice,40-127,,Koszutka,,50.26922077830804,19.020215825774926
+MDK Piotrowice,,Katowice,,,Zarzecze,Zarzecze,50.17719520000001,18.9494151
+MDK Zarzecze,,Katowice,,,Zarzecze,Zarzecze,50.17719520000001,18.9494151
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Dąb,MDK Koszutka,Katowice,,Pułaskiego,Os. Paderewskiego – Muchowiec,,50.248608,19.040358
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-215,,Bogucice,,50.27002322600436,19.046490026656915
+MDK Ligota,MDK Ligota,Katowice,40-648,Łętowskiego,Piotrowice – Ochojec,Piotrowice,50.20637836977488,18.986058759581308
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Piotrowice,,Katowice,40-622,,Piotrowice – Ochojec,,50.21544820627297,18.99570954065689
+MDK Szopienice-Hall.,,Katowice,,,Szopienice – Burowiec,Burowiec,50.2723364,19.078617
+MDK Koszutka,MDK Koszutka,Katowice,40-749,Wolności,Murcki,,50.19943606289726,19.042438873715245
+MDK Ligota,MDK Ligota,Katowice,40-612,Jankego,Piotrowice – Ochojec,Ochojec,50.21711599819282,18.98965549867004
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,Kostuchna,50.191084629034755,18.984484392545603
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Koszutka,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Ligota,MDK Ligota,Katowice,40-756,,Ligota – Panewniki,,50.23765290952426,18.959570865318533
+MDK Murcki,,Katowice,,Plac Filaka,Kostuchna,,50.183871,18.999352
+MDK Giszowiec,,Katowice,,Agaty,Giszowiec,,50.22318602258938,19.072663651004046
+MDK Dąb,MDK Koszutka,Katowice,40-013,,Śródmieście,,50.25833397399312,19.02385780713184
+MDK Ligota,MDK Ligota,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Giszowiec,,Katowice,40-282,,Os. Paderewskiego – Muchowiec,,50.2518340234682,19.03794475049479
+MDK Szopienice-West.,,Katowice,,Bednorza,Szopienice – Burowiec,,50.26342290264756,19.091286002895586
+MDK Murcki,,Katowice,40-749,Bielska,Murcki,Murcki,50.1986878310353,19.04491421522632
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,Kostuchna,50.191084629034755,18.984484392545603
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-214,,Bogucice,Bogucice,50.26620925827663,19.042596738702077
+MDK Giszowiec,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Ligota,MDK Ligota,Katowice,40-609,,Piotrowice – Ochojec,Ochojec,50.21661617417664,18.990729118106167
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Ligota,MDK Ligota,Katowice,40-717,Koszalińska,Ligota – Panewniki,Ligota,50.22359171428806,18.972011002027465
+MDK Dąb,MDK Koszutka,Katowice,40-005,Piastowska,Śródmieście,,50.26107799355156,19.023818914892747
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Szopienice-Hall.,,Katowice,,,Dąbrówka Mała,Dąbrówka Mała,50.2801019,19.064669600000002
+MDK Podlesie,,Katowice,40-748,,Podlesie,,50.18154909035514,18.96105362042741
+MDK Kostuchna,,Katowice,,Plac Filaka,Kostuchna,,50.183871,18.999352
+MDK Dąb,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Koszutka,MDK Koszutka,Katowice,40-126,Grażyńskiego,Koszutka,,50.268274472969296,19.01862020368209
+MDK Piotrowice,,Katowice,40-664,Kostki Napierskiego,Piotrowice – Ochojec,,50.20593368610332,18.98071177659089
+MDK Koszutka,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Kostuchna,,Katowice,40-718,Kołobrzeska,Ligota – Panewniki,Ligota,50.22118988944382,18.97469035274776
+MDK Piotrowice,,Katowice,,Armii Krajowej,Kostuchna,,50.198456,18.977409
+MDK Piotrowice,,Katowice,40-718,Kołobrzeska,Ligota – Panewniki,Ligota,50.22118988944382,18.97469035274776
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Śródmieście,Śródmieście,50.2528317,19.016786800000002
+MDK Ligota,MDK Ligota,Katowice,40-683,,Piotrowice – Ochojec,Piotrowice,50.20198413994752,18.963047684640287
+MDK Dąb,MDK Koszutka,Katowice,40-117,,Dąb,,50.27100711865471,19.01153706932204
+MDK Koszutka,MDK Koszutka,Katowice,,Słowików,Brynów Część Wschodnia – Os. Zgrzebnioka,Brynów,50.23075843998699,19.003528881556566
+MDK Piotrowice,,Katowice,40-771,Grunwaldzka,Ligota – Panewniki,Ligota,50.22819036269657,18.94767850607672
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-213,,Bogucice,Bogucice,50.26462382830925,19.04193713391671
+MDK Kostuchna,,Katowice,40-668,,Piotrowice – Ochojec,Piotrowice,50.20163443930046,18.98271731389887
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-212,Żogały,Bogucice,,50.26585586785893,19.039754370837947
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Szopienice – Burowiec,Szopienice,50.2625198,19.096909699999998
+MDK Dąb,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Giszowiec,,Katowice,,,Giszowiec,Giszowiec,50.218872999999995,19.0574383
+MDK Szopienice-Hall.,,Katowice,40-353,,Szopienice – Burowiec,,50.26549421978543,19.09813485970039
+MDK Szopienice-West.,,Katowice,40-336,,Szopienice – Burowiec,,50.26443903088974,19.09240502703418
+MDK Piotrowice,,Katowice,40-660,Głogowska,Piotrowice – Ochojec,Piotrowice,50.21082912581325,18.975783481986376
+MDK Kostuchna,,Katowice,,,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Ligota,MDK Ligota,Katowice,40-765,,Ligota – Panewniki,Panewniki,50.22895240805453,18.946378009757712
+MDK Ligota,MDK Ligota,Katowice,,,Załęska Hałda – Brynów Część Zachodnia,Brynów,50.2352252,18.9917323
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,,,Zawodzie,Zawodzie,50.2538987,19.0590383
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,40-232,,Zawodzie,Zawodzie,50.26216701182176,19.056381200553908
+MDK Szopienice-Hall.,,Katowice,,,Szopienice – Burowiec,Burowiec,50.2723364,19.078617
+MDK Zarzecze,,Katowice,40-748,,Zarzecze,Zarzecze,50.182854,18.947245000000002
+MDK Koszutka,MDK Koszutka,Katowice,,,Bogucice,Bogucice,50.2703766,19.0403178
+MDK Giszowiec,,Katowice,,Ciesielska,Szopienice – Burowiec,,50.263139487445,19.098683593730808
+MDK Giszowiec,,Katowice,,Zamenhofa,Szopienice – Burowiec,,50.26316989239022,19.100717248040024
+MDK Dąb,MDK Koszutka,Katowice,,Szczecińska,Wełnowiec – Józefowiec,,50.278956,19.012227
+MDK Szopienice-West.,,Katowice,40-378,,Szopienice – Burowiec,,50.26312367726555,19.099463570422657
+MDK Ligota,MDK Ligota,Katowice,,Kijowska,Ligota – Panewniki,,50.23433918902219,18.962829739197566
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-215,,Bogucice,,50.27002322600436,19.046490026656915
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Szopienice-West.,,Katowice,,Zamenhofa,Szopienice – Burowiec,Szopienice,50.262788642397844,19.10288369277278
+MDK Giszowiec,,Katowice,,,Śródmieście,Śródmieście,50.2528317,19.016786800000002
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Giszowiec,,Katowice,40-675,,Piotrowice – Ochojec,,50.201894913868294,18.971468235820105
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-208,,Bogucice,Bogucice,50.26680789412345,19.038371998746623
+MDK Ligota,MDK Ligota,Katowice,40-739,,Ligota – Panewniki,,50.22325375682247,18.962636158215425
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-063,,Śródmieście,,50.25397142835782,19.014408901242987
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,40-057,Słowackiego,Śródmieście,Śródmieście,50.25208608437579,19.01352806490008
+MDK Giszowiec,,Katowice,40-406,,Janów – Nikiszowiec,,50.24093722165418,19.093171910639665
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Zarzecze,,Katowice,,,Zarzecze,Zarzecze,50.17719520000001,18.9494151
+MDK Szopienice-Hall.,,Katowice,,Deszczowa,Szopienice – Burowiec,,50.274336585845184,19.074599007902496
+MDK Piotrowice,,Katowice,40-686,,Piotrowice – Ochojec,Piotrowice,50.20840214141652,18.966185361664945
+MDK Piotrowice,,Katowice,40-748,,Podlesie,Podlesie,50.18154909035514,18.96105362042741
+MDK Dąb,MDK Koszutka,Katowice,40-146,,Wełnowiec – Józefowiec,,50.280661718726904,19.01113456395704
+MDK Dąb,MDK Koszutka,Katowice,40-057,,Śródmieście,,50.25208608437579,19.01352806490008
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Zawodzie,MDK Bogucice-Zawodzie,Katowice,40-139,,Wełnowiec – Józefowiec,,50.27945836051728,19.011115608382475
+MDK Bogucice,MDK Bogucice-Zawodzie,Katowice,40-203,,Zawodzie,Bogucice,50.26467346234298,19.049908272714177
+MDK Koszutka,MDK Koszutka,Katowice,,,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Giszowiec,,Katowice,40-477,,Giszowiec,Giszowiec,50.223809189055366,19.06805659584011
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,Kostuchna,50.191084629034755,18.984484392545603
+MDK Kostuchna,,Katowice,40-750,,Kostuchna,,50.191084629034755,18.984484392545603
+MDK Ligota,MDK Ligota,Katowice,40-723,Piotrowicka,Ligota – Panewniki,Ligota,50.22633714302739,18.9697385359628
+MDK Murcki,,Katowice,40-749,,Murcki,Murcki,50.19943606289726,19.042438873715245
+MDK Koszutka,MDK Koszutka,Katowice,,,Załęska Hałda – Brynów Część Zachodnia,Brynów,50.2352252,18.9917323
+MDK Kostuchna,,Katowice,,,Kostuchna,Kostuchna,50.1861155,18.997560699999998
+MDK Ligota,MDK Ligota,Katowice,40-553,,Załęska Hałda – Brynów Część Zachodnia,Brynów,50.22976793482446,18.987156968237482
+MDK Koszutka,MDK Koszutka,Katowice,,Misjonarzy Oblatów,Koszutka,Koszutka,50.27069270000001,19.021230499999998
+MDK Zarzecze,,Katowice,,Armii Krajowej,Piotrowice – Ochojec,Piotrowice,50.2042283,18.9653742
+MDK Koszutka,MDK Koszutka,Katowice,,,Dąb,Dąb,50.27130402950943,19.00262843527496
+MDK Kostuchna,,Katowice,,,Ligota – Panewniki,Panewniki,50.2143609,18.935247600000004

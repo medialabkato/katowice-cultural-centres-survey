@@ -1,0 +1,944 @@
+id,venue,venue_short,name_official,gender,age,education,education_field,education_university,participation_type,with_partner,with_friends,with_alone,with_children,with_other,with_custom,info_source,info_source_custom,frequency,reason,reason_custom,resid_proximity,transport,transport_line,transport_custom,problem,problem_custom,geo_preference,other_events_ktw,other_events_outside,other_events_district,other_events_mdk,other_events_none,ev_screening,ev_concert,ev_theatre,ev_literary,ev_outdoor,ev_fitness,ev_crafts,ev_diy,ev_coding,ev_training,ev_other,ev_training_custom,ev_custom,address_city,address_district
+121,murck,MDK Murcki,MDK Południe,K,31,high,Biotechnologia,Uniwersytet Śląski,child,,,,1.0,,,scmed,,week,topic,,yes,foot,,,no,,event,,,1.0,,,,,,,1.0,1.0,,,,,,,,Katowice,Murcki
+122,murck,MDK Murcki,MDK Południe,K,64,mid,,,child,,,,1.0,,,recom,,week,other,Spędzenie czasu z dzieckiem,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,,,1.0,,,,,,,,Katowice,Murcki
+123,piotr,MDK Piotrowice,MDK Południe,M,35,high,Transport,Politechnika Śląska,child,,,,1.0,,,scmed,,less,group,,yes,car,,,no,,event,,,1.0,,,,,1.0,,,1.0,1.0,,,1.0,,Plastyczne,,Katowice,Piotrowice – Ochojec
+124,murck,MDK Murcki,MDK Południe,K,41,mid,,,child,,,,1.0,,,recom,,less,other,Atrakcja dla dziecka,no,car,,,no,,event,1.0,,,,,,1.0,,,,1.0,,,,1.0,,Dla dzieci,,Katowice,Giszowiec
+125,murck,MDK Murcki,MDK Południe,K,46,high,Księgowość,,event,,,1.0,,,,outdr,,week,topic,,yes,bike,,,no,,event,1.0,,,,,,,,,,1.0,,,,1.0,,,,Katowice,Murcki
+126,murck,MDK Murcki,MDK Południe,K,41,mid,,,event,,,1.0,,,,outdr,,week,close,,yes,car,,,no,,trnsp,1.0,,,,,,,,,1.0,1.0,,,,1.0,,Kulinarne,,Katowice,Murcki
+127,murck,MDK Murcki,MDK Południe,K,60,high,Organizacja,Politechnika Śląska,event,,,1.0,,,,outdr,,week,other,Zajęcia ruchowe,yes,bike,,,no,,event,1.0,,,,,,1.0,,,1.0,1.0,1.0,,,,,,,Katowice,Murcki
+128,murck,MDK Murcki,MDK Południe,M,30,mid,,,event,,,1.0,,,,recom,,first,other,Problemy z kręgosłupem,yes,car,,,no,,event,,,1.0,,,,1.0,,,,1.0,,,,1.0,,,,Katowice,Murcki
+129,murck,MDK Murcki,MDK Południe,K,28,high,Zarządzanie,Politechnika Śląska,event,,1.0,,,,,recom,,week,group,,yes,car,,,no,,event,1.0,,,,,1.0,1.0,,,1.0,1.0,1.0,,,1.0,,Kulinarne,,Katowice,Murcki
+130,murck,MDK Murcki,MDK Południe,K,46,mid,,,event,,1.0,,,,,outdr,,week,group,,yes,foot,,,no,,event,1.0,,1.0,,,,1.0,1.0,,,,,,,,,,,Katowice,Murcki
+131,murck,MDK Murcki,MDK Południe,K,45,mid,,,event,,1.0,,,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,,,,,,1.0,1.0,,,1.0,,,,,,,,Katowice,Murcki
+132,ksztk,MDK Koszutka,MDK Koszutka,M,29,mid,,,event,,1.0,,,,,guide,,less,group,,no,publc,T 6,,no,,event,,1.0,,,,1.0,1.0,1.0,,,,,,1.0,,,,,,
+136,ksztk,MDK Koszutka,MDK Koszutka,K,73,high,,,event,,1.0,,,,,scmed,,less,group,,no,publc,801,,no,,trnsp,,1.0,,1.0,,1.0,1.0,1.0,1.0,,,,,,,,,,Sosnowiec,
+135,ksztk,MDK Koszutka,MDK Koszutka,M,73,mid,,,event,1.0,,,,,,guide,,week,free,,yes,foot,,,no,,event,1.0,,,,,1.0,1.0,1.0,1.0,,1.0,,,,,,,,Katowice,Koszutka
+137,ksztk,MDK Koszutka,MDK Koszutka,K,70,mid,,,event,,,1.0,,,,wwmdk,,week,topic,,no,publc,Tram 13 bus 5,,no,,event,,1.0,1.0,,,,1.0,1.0,1.0,,1.0,,,,,,,,Siemianowice Śląskie,
+138,ksztk,MDK Koszutka,MDK Koszutka,K,86,high,,,event,,,1.0,,,,media,,less,topic,,no,publc,11,,no,,event,1.0,,1.0,,,1.0,,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+141,ksztk,MDK Koszutka,MDK Koszutka,K,69,high,,,event,,1.0,,,,,www,,less,other,,no,publc,Tram 6,,no,,event,1.0,1.0,1.0,1.0,,,1.0,1.0,1.0,,,,,,,,,,Katowice,Śródmieście
+142,ksztk,MDK Koszutka,MDK Koszutka,K,30,high,Zarządzanie,Akademia Górniczo Hutnicza,child,,,,1.0,,,none,,week,close,,yes,foot,,,no,,event,1.0,,,,,1.0,,,,,1.0,1.0,,1.0,,,,,,
+143,ksztk,MDK Koszutka,MDK Koszutka,M,73,high,,,event,,,1.0,,,,www,,first,other,,no,car,,,yes,Parkowanie,trnsp,1.0,,,,,1.0,1.0,1.0,1.0,,,,,,,,,,Mysłowice,
+144,ksztk,MDK Koszutka,MDK Koszutka,K,76,high,Psychologia,Uniwersytet Jagielloński,child,,,,1.0,,,outdr,,month,group,,yes,foot,,,no,,event,1.0,1.0,,,,,,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Śródmieście
+145,ksztk,MDK Koszutka,MDK Koszutka,K,34,high,,,child,,,,1.0,,,www,,week,other,Przedszkole,no,car,,,yes,Parkowanie,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0,,Dla dzieci,,Siemianowice Śląskie,
+146,ksztk,MDK Koszutka,MDK Koszutka,K,73,high,,,event,,,1.0,,,,scmed,,less,topic,,yes,publc,Tram 11,,no,,event,1.0,1.0,1.0,1.0,,,1.0,1.0,1.0,,,,,,,,,,Katowice,Osiedle Tysiąclecia
+147,ksztk,MDK Koszutka,MDK Koszutka,K,87,high,Budownictwo,Politechnika Śląska,event,,,1.0,,,,other,zaproszenie,week,free,,no,publc,6,,no,,event,1.0,,,,,,1.0,,,,,,,,,,,,Katowice,Śródmieście
+148,ksztk,MDK Koszutka,MDK Koszutka,K,72,high,,,event,,1.0,,,,,media,,month,topic,,no,publc,Tram 6,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,,,,,,,,,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+149,ksztk,MDK Koszutka,MDK Koszutka,K,75,high,Ekonomia,Uniwersytet Ekonomiczny w Katowicach,event,,1.0,,,,,other,zaproszenie,less,topic,,yes,publc,193,,no,,event,1.0,1.0,,,,1.0,,1.0,1.0,,,,,,,,,,,
+150,murck,MDK Murcki,MDK Południe,M,64,mid,,,event,,1.0,,,,,other,Własna inicjatywa,week,group,,yes,foot,,,no,,event,1.0,,,,,,,,,1.0,,,,,,,,,Katowice,Murcki
+151,murck,MDK Murcki,MDK Południe,M,65,mid,,,event,,1.0,,,,,recom,,week,group,,yes,foot,,,no,,event,1.0,1.0,,,,,1.0,,,,,,,,,,,,Katowice,Murcki
+152,murck,MDK Murcki,MDK Południe,K,28,high,Technologia i inżynieria chemiczna,Politechnika Śląska,event,,,1.0,,,,outdr,,week,close,,yes,foot,,,no,,event,1.0,,,,,,1.0,,,,,,,,1.0,,Kompetencje miękkie,,Katowice,Murcki
+153,dab,MDK Dąb,MDK Koszutka,K,69,high,,,event,,1.0,,,,,dirct,,month,topic,,no,car,,,no,,event,1.0,,,1.0,,,1.0,,,,,,,,,1.0,,Spotkania z podroznikami,Katowice,Ligota – Panewniki
+154,dab,MDK Dąb,MDK Koszutka,M,79,high,Budownictwo,Politechnika Śląska,event,,1.0,,,,,outdr,,month,group,,no,car,,,no,,event,,1.0,,,,1.0,,,,,,,,,,,,,,
+155,dab,MDK Dąb,MDK Koszutka,M,13,none,,,event,,1.0,,,,,dirct,,week,group,,no,publc,Tram 19,,no,,event,,1.0,,1.0,,1.0,1.0,,,1.0,1.0,,,,1.0,,Graficzne,,Chorzów,
+156,dab,MDK Dąb,MDK Koszutka,K,10,prim,,,event,,1.0,,,,,none,,week,close,,yes,foot,,,yes,,trnsp,,1.0,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,Katowice,Śródmieście
+157,dab,MDK Dąb,MDK Koszutka,M,34,mid,,,child,,,,1.0,,,www,,week,close,,yes,car,,,no,,event,1.0,1.0,1.0,1.0,,,1.0,,,,,1.0,,1.0,1.0,,"Photoshop, grafika komputerowa",,Katowice,Wełnowiec – Józefowiec
+158,dab,MDK Dąb,MDK Koszutka,K,34,mid,,,child,,,,1.0,,,wwmdk,,week,close,,yes,publc,50,,no,,event,1.0,,,,,,1.0,,,1.0,1.0,1.0,1.0,,1.0,,,,,
+159,dab,MDK Dąb,MDK Koszutka,K,28,high,,,child,,,,1.0,,,wwmdk,,week,topic,,yes,car,,,no,,event,1.0,1.0,1.0,1.0,,,,,,1.0,1.0,,,,,,,,Katowice,
+160,dab,MDK Dąb,MDK Koszutka,K,71,high,Wychowanie fizyczne,Akademia Wychowania Fizycznego w Katowicach,event,,,1.0,,,,guide,,month,topic,,no,publc,296,,no,,event,1.0,,,,,,1.0,1.0,,,,,,,,,,,Katowice,Koszutka
+161,dab,MDK Dąb,MDK Koszutka,K,71,high,,,event,,,1.0,,,,guide,,week,topic,,yes,foot,,,no,,event,1.0,1.0,,,,,1.0,1.0,1.0,,,,,,1.0,,Malarskie,,Katowice,Wełnowiec – Józefowiec
+162,dab,MDK Dąb,MDK Koszutka,M,14,prim,,,child,,,,1.0,,,www,,less,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,Katowice,Dąb
+163,dab,MDK Dąb,MDK Koszutka,M,75,high,Chemia,Uniwersytet Śląski,event,,,1.0,,,,outdr,,month,topic,,yes,foot,,,no,,event,1.0,1.0,,,,1.0,1.0,,1.0,1.0,,,,,,,,,Katowice,Dąb
+164,dab,MDK Dąb,MDK Koszutka,M,39,none,,,event,1.0,,,,,,recom,,month,other,,yes,foot,,,no,,trnsp,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,Siemianowice Śląskie,
+165,dab,MDK Dąb,MDK Koszutka,K,71,mid,,,event,,,1.0,,,,guide,,month,topic,,yes,foot,,,no,,trnsp,1.0,1.0,,,,,1.0,1.0,,,1.0,,,,,,,,Katowice,Dąb
+166,murck,MDK Murcki,MDK Południe,K,59,high,Medycyna,Śląski Uniwersytet Medyczny,event,,,1.0,,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,,,,1.0,,1.0,,1.0,,,,,,,,Katowice,Murcki
+167,murck,MDK Murcki,MDK Południe,K,64,mid,,,event,,1.0,,,,,outdr,,week,topic,,yes,foot,,,no,,event,1.0,,,,,,,1.0,,1.0,1.0,,,,,,,,Katowice,Murcki
+168,murck,MDK Murcki,MDK Południe,K,62,high,,Politechnika Śląska,event,,,1.0,,,,outdr,,week,close,,yes,car,,,no,,event,1.0,,,,,1.0,1.0,,,,1.0,,,,,,,,Katowice,Murcki
+173,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,75,high,Mechanika,,event,,1.0,,,,,recom,,month,close,,yes,foot,,,yes,,trnsp,1.0,,,,,,1.0,1.0,,,,,,,,,,,Katowice,Bogucice
+174,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,80,high,Ortopedia,,event,,,1.0,,,,recom,,month,topic,,yes,publc,600,,yes,Odległość od przystanku,trnsp,,,,1.0,,,1.0,,,,,,,,,,,,Katowice,Bogucice
+175,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,72,mid,,,event,,1.0,,,,,dirct,,month,free,,yes,foot,,,no,,event,,,,1.0,,,,,,,,,,,,1.0,,"Manifestacje, obchody",Katowice,Bogucice
+176,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,65,mid,,,event,,1.0,,,,,recom,,week,topic,,yes,car,,,no,,event,,,,1.0,,1.0,1.0,1.0,1.0,,,,,,,,,,Katowice,Bogucice
+177,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,86,mid,,,event,,1.0,,,,,dirct,,month,close,,yes,foot,,,no,,event,,,,1.0,,,,,,,,,,,,1.0,,Dancing,Katowice,Bogucice
+178,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,67,mid,,Piotrowicka Fabryka Maszyn,event,,1.0,,,,,dirct,,month,group,,no,publc,673,,no,,event,,,1.0,,,,,,,,,,,,,1.0,,Uroczystosci ze sztandarem,Katowice,Giszowiec
+179,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,76,prim,,,event,,1.0,,,,,recom,,month,group,,no,publc,13 tramwaj,,no,,event,,,1.0,,,,,,,,,,,,,1.0,,Dancing,Katowice,Wełnowiec – Józefowiec
+180,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,80,high,Górnictwo,,event,1.0,1.0,,,,,dirct,,month,group,,no,publc,T13,,no,,trnsp,,,1.0,,,,,,,,,,,,,1.0,,Dancing,Katowice,Wełnowiec – Józefowiec
+181,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,67,high,Handel,,event,,1.0,,,,,dirct,,month,group,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,1.0,,,,,,1.0,,Spotkania,Katowice,Bogucice
+182,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,57,high,Handel,,event,1.0,1.0,,,,,dirct,,month,group,,yes,car,,,no,,event,,,1.0,,,,1.0,,,1.0,,,,,,1.0,,"Rocznice, zabawy",Katowice,Bogucice
+183,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,68,mid,,,event,,1.0,,,,,dirct,,month,topic,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,1.0,,,,,,,,,Katowice,Bogucice
+184,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,60,mid,,,event,,1.0,,,,,dirct,,week,topic,,yes,foot,,,no,,event,,,1.0,1.0,,,1.0,,,,,,,,,1.0,,Spotkania,Katowice,Bogucice
+186,ligot,MDK Ligota,MDK Ligota,M,39,high,Budownictwo,Politechnika Śląska,child,,,,1.0,,,dirct,,week,close,,yes,car,,,no,,event,1.0,,,,,,1.0,,,1.0,1.0,,,,,,,,Katowice,Ligota – Panewniki
+187,ligot,MDK Ligota,MDK Ligota,M,41,high,Prawo,Uniwersytet Śląski,child,,,,1.0,,,wwmdk,,week,topic,,no,car,,,no,,event,1.0,,1.0,,,,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+188,ligot,MDK Ligota,MDK Ligota,K,75,high,Farmacja,Akademia Medyczna w Krakowie,child,,,,1.0,,,dirct,,week,close,,yes,foot,,,no,,event,1.0,,,,,,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Ligota – Panewniki
+189,ligot,MDK Ligota,MDK Ligota,K,70,mid,,,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,,1.0,,,,,,,,Katowice,Ligota – Panewniki
+190,piotr,MDK Piotrowice,MDK Południe,M,39,mid,,,child,,,,1.0,,,wwmdk,,week,topic,,yes,car,,,no,,event,,,,,1.0,,,,,,1.0,,,,,,,,Katowice,Podlesie
+191,piotr,MDK Piotrowice,MDK Południe,M,34,mid,,,child,,,,1.0,,,recom,,week,topic,,yes,bike,,,no,,event,,,,,1.0,,1.0,1.0,,,,,,1.0,,,,,Katowice,Piotrowice – Ochojec
+192,piotr,MDK Piotrowice,MDK Południe,M,39,mid,,,child,,,,1.0,,,wwmdk,,week,free,,yes,car,,,no,,event,,,,,1.0,,1.0,,,,,,,,,,,,Katowice,Podlesie
+193,ligot,MDK Ligota,MDK Ligota,K,77,high,Chemia,Wyższa Szkoła Pedagogiczna,child,,,,1.0,,,dirct,,week,topic,,no,car,,,no,,event,,,,,1.0,,,,,,,,,,,1.0,,,Katowice,Piotrowice – Ochojec
+194,piotr,MDK Piotrowice,MDK Południe,K,37,high,Pedagogika,Kolegium Nauczycielskie w Bytomiu,child,,,,1.0,,,dirct,,week,topic,,no,car,,,no,,event,,,1.0,,,1.0,1.0,1.0,,1.0,1.0,,,,1.0,,Dla dzieci,,Katowice,Murcki
+195,piotr,MDK Piotrowice,MDK Południe,K,5,none,,,child,,,,1.0,,,recom,,week,group,,yes,foot,,,no,,event,,,1.0,,,,,1.0,,1.0,1.0,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+196,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,35,high,Marketing,,child,,,,1.0,,,recom,,week,close,,yes,car,,,no,,event,,1.0,,,,1.0,1.0,,,,,,,,,,,,Katowice,Janów – Nikiszowiec
+197,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,37,high,Pedagogika,Uniwersytet Śląski,child,,,,1.0,,,recom,,week,other,Zajecie dla dziecka,no,car,,,no,,event,,,1.0,,,1.0,,,,,1.0,,,,,,,,Katowice,Janów – Nikiszowiec
+198,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,39,mid,,,child,,,,1.0,,,recom,,week,close,,yes,foot,,,no,,event,,,,,1.0,,1.0,,,,,,,,,,,,Katowice,Giszowiec
+199,ligot,MDK Ligota,MDK Ligota,K,35,high,,,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,trnsp,,1.0,,,,,1.0,1.0,,1.0,,1.0,1.0,,,,,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+200,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,31,mid,,,child,,,,1.0,,,recom,,week,topic,,yes,car,,,no,,event,,1.0,,,,,1.0,,,,,1.0,,,1.0,,Florystyka,,Katowice,
+201,ligot,MDK Ligota,MDK Ligota,K,38,mid,,,child,,,,1.0,,,www,,week,topic,,yes,publc,,,yes,Korki,trnsp,,,,,1.0,,,,,,,,,,1.0,,,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+202,ligot,MDK Ligota,MDK Ligota,K,29,high,Rytmika,Akademia Muzyczna w Katowicach,child,,,,1.0,,,recom,,week,close,,yes,car,,,no,,event,,1.0,1.0,,,,1.0,1.0,,,1.0,1.0,,,,,,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+203,ligot,MDK Ligota,MDK Ligota,M,75,high,Wychowanie techniczne,Uniwersytet Śląski,child,,,,1.0,,,dirct,,week,topic,,yes,car,,,no,,event,1.0,,,,,1.0,1.0,1.0,,,,,,,,,,,Katowice,Piotrowice – Ochojec
+204,ligot,MDK Ligota,MDK Ligota,K,40,mid,,,child,,,,1.0,,,recom,,week,group,,yes,car,,,no,,trnsp,,,1.0,,,,,1.0,,,1.0,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+205,ligot,MDK Ligota,MDK Ligota,K,39,high,,,child,,,,1.0,,,dirct,,week,topic,,yes,car,,,no,,event,,,1.0,,,,,,,1.0,,,,,,,,,Katowice,Piotrowice – Ochojec
+206,ligot,MDK Ligota,MDK Ligota,K,34,mid,,,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,trnsp,1.0,1.0,,,,1.0,,,,,,,,,,,,,Katowice,Ligota – Panewniki
+207,ligot,MDK Ligota,MDK Ligota,K,47,high,,,child,,,,1.0,,,recom,,week,topic,,yes,car,,,no,,event,,,,,1.0,,,1.0,,,,,,,,,,,Katowice,Ligota – Panewniki
+208,ligot,MDK Ligota,MDK Ligota,K,47,high,Chemia,Uniwersytet Śląski,child,,,,1.0,,,dirct,,week,topic,,yes,car,,,no,,event,1.0,,,1.0,,,,1.0,,,,1.0,,,1.0,,,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+209,ligot,MDK Ligota,MDK Ligota,M,66,high,Matematyka,Politechnika Śląska,child,,,,1.0,,,dirct,,week,topic,,no,foot,,,no,,trnsp,1.0,,,,,,,1.0,,,,,,,,,,,Wodzisław Śląski,
+210,ligot,MDK Ligota,MDK Ligota,K,36,high,,,child,,,,1.0,,,dirct,,week,topic,,yes,car,,,no,,trnsp,1.0,,1.0,,,,1.0,,,1.0,,,,1.0,,,,,Katowice,Piotrowice – Ochojec
+211,ligot,MDK Ligota,MDK Ligota,K,47,mid,,,child,,,,1.0,,,dirct,,week,topic,,no,foot,,,no,,event,1.0,,,,,,1.0,1.0,,,,,,,,,,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+212,ligot,MDK Ligota,MDK Ligota,K,13,prim,,,event,,,1.0,,,,dirct,,week,topic,,yes,publc,,,no,,trnsp,,,,,1.0,,,,,,,,,1.0,,,,,Katowice,Ligota – Panewniki
+213,ligot,MDK Ligota,MDK Ligota,K,8,none,,,event,,,,,1.0,rodzina,dirct,,week,topic,,no,publc,,,no,,event,,,,,1.0,,,,,,,,,,,1.0,,,Katowice,
+214,piotr,MDK Piotrowice,MDK Południe,M,71,mid,,,event,,1.0,,,,,wwmdk,,week,topic,,no,car,,,no,,trnsp,,,1.0,,,,1.0,,,,,,,,,,,,,
+215,ligot,MDK Ligota,MDK Ligota,K,17,mid,,,event,,1.0,,,,,dirct,,week,topic,,yes,foot,,,no,,trnsp,,,1.0,,,,,1.0,,1.0,,,,1.0,,,,,Katowice,Ligota – Panewniki
+216,ligot,MDK Ligota,MDK Ligota,K,14,prim,,,event,,1.0,,,,,dirct,,week,close,,yes,foot,,,no,,trnsp,1.0,,,,,,,,,,1.0,,,,,,,,Katowice,Ligota – Panewniki
+217,ligot,MDK Ligota,MDK Ligota,K,19,prim,,,event,,,1.0,,,,none,,week,topic,,yes,foot,,,no,,trnsp,1.0,,,,,,1.0,,,,1.0,,,,,,,,Katowice,Ligota – Panewniki
+218,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,40,mid,,,child,,,,1.0,,,recom,,week,topic,,no,car,,,no,,event,1.0,,,,,,,,,1.0,,,,,1.0,,Zajecia ruchowe,,Katowice,Szopienice – Burowiec
+219,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,70,mid,,,child,,,,1.0,,,recom,,week,close,,yes,foot,,,no,,event,,,,,1.0,,1.0,,,,,1.0,,,,,,,Katowice,Giszowiec
+220,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,40,high,Ekonomia,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,event,,,,1.0,,1.0,1.0,,,,,,,,1.0,,Kulinarne,,Katowice,Giszowiec
+221,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,35,high,Górnictwo,Politechnika Śląska,child,,,,1.0,,,www,,week,topic,,yes,car,,,no,,event,,,1.0,,,1.0,1.0,1.0,,,,,,,,,,,Katowice,Janów – Nikiszowiec
+222,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,63,mid,,,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,event,1.0,1.0,,,,1.0,1.0,,,1.0,1.0,,,,,,,,Katowice,Giszowiec
+223,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,34,high,Mechatronika,Politechnika Śląska,child,,,,1.0,,,recom,,week,topic,,no,car,,,no,,event,,,,1.0,,,,1.0,,,1.0,1.0,,,,,,,Katowice,Szopienice – Burowiec
+224,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,33,high,Marketing,,child,,,,1.0,,,recom,,week,close,,yes,car,,,no,,event,,1.0,,1.0,,,,,,1.0,1.0,1.0,1.0,,,,,,Katowice,Giszowiec
+225,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,37,high,Geografia,Uniwersytet Śląski,child,,,,1.0,,,none,,week,topic,,yes,bike,,,no,,event,,,1.0,,,1.0,1.0,,,,1.0,,,,,,,,Katowice,Giszowiec
+226,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,33,high,Zarządzanie,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,,1.0,,,,,,,1.0,1.0,,,,1.0,,Taneczne,,Katowice,Giszowiec
+227,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,35,mid,,,child,,,,1.0,,,outdr,,week,topic,,yes,foot,,,no,,event,,,,,1.0,,,1.0,,,1.0,1.0,,,,,,,Katowice,Giszowiec
+228,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,36,mid,,,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,,,,,1.0,,1.0,1.0,,,1.0,,,,,,,,Katowice,Giszowiec
+229,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,36,high,Ekonomia,Wyższa Szkoła Bankowa,child,,,,1.0,,,scmed,,week,topic,,yes,car,,,no,,event,,1.0,,,,,1.0,,,,1.0,,,,1.0,,Sensoplastyka,,Katowice,Janów – Nikiszowiec
+230,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,33,high,Filologia,,child,,,,1.0,,,outdr,,week,topic,,yes,car,,,no,,event,,1.0,,,,,,,,,1.0,1.0,1.0,,1.0,,"Florystyka, rękodzielo",,Katowice,Janów – Nikiszowiec
+231,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,37,mid,,,child,,,,1.0,,,recom,,week,close,,yes,foot,,,no,,event,,,1.0,,,,,,,1.0,1.0,,,,1.0,,Edukacyjne,,Katowice,Giszowiec
+232,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,37,high,Pedagogika,Uniwersytet Pedagogiczny w Krakowie,child,,,,1.0,,,recom,,week,close,,yes,foot,,,no,,event,,1.0,,,,,,1.0,,,,,,,1.0,,Basen,,Katowice,Giszowiec
+233,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,62,high,Pedagogika,WSP w Mysłowicach,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,,,,1.0,,,,,,,,Katowice,Giszowiec
+234,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,68,mid,,,child,,,,1.0,,,recom,,less,topic,,yes,foot,,,no,,event,,,,,1.0,,,1.0,1.0,,,,,,1.0,,Językowe,,,
+235,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,38,high,,Politechnika Śląska,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,event,1.0,1.0,,,,,1.0,1.0,,1.0,,,1.0,1.0,,,,,Katowice,Giszowiec
+236,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,35,high,Ekonomia,Uniwersytet Ekonomiczny w Krakowie,child,,,,1.0,,,scmed,,week,topic,,yes,car,,,no,,event,,,1.0,,,,,1.0,,1.0,1.0,,,,,,,,Mysłowice,
+237,piotr,MDK Piotrowice,MDK Południe,K,68,mid,,,event,,,1.0,,,,dirct,,week,topic,,yes,publc,689,,no,,trnsp,1.0,,,,,1.0,1.0,1.0,1.0,,1.0,,,,,,,,Katowice,Murcki
+238,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,31,mid,,,child,,,,1.0,,,www,,week,close,,yes,foot,,,no,,event,1.0,1.0,1.0,,,1.0,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Giszowiec
+239,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,50,mid,,,child,,,,1.0,,,dirct,,week,close,,yes,foot,,,no,,event,,,1.0,,,1.0,,1.0,,1.0,,,,,,,,,Katowice,Giszowiec
+240,piotr,MDK Piotrowice,MDK Południe,K,77,mid,,,event,,1.0,,,,,guide,,week,topic,,yes,foot,,,no,,event,1.0,1.0,,1.0,,1.0,1.0,,,1.0,1.0,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+241,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,45,mid,,,child,,,,1.0,,,dirct,,week,close,,yes,foot,,,no,,event,,,1.0,1.0,,1.0,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Giszowiec
+242,piotr,MDK Piotrowice,MDK Południe,K,69,mid,,,event,,,1.0,,,,dirct,,week,topic,,no,publc,,,no,,event,,,,1.0,,1.0,,1.0,,,1.0,1.0,,,,,,,Katowice,Ligota – Panewniki
+243,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,39,high,,,child,,,,1.0,,,dirct,,week,close,,yes,foot,,,no,,event,1.0,,,1.0,,1.0,1.0,1.0,,,,,,,,,,,Katowice,Giszowiec
+244,piotr,MDK Piotrowice,MDK Południe,K,71,mid,,,event,,,1.0,,,,scmed,,week,topic,,yes,publc,,,no,,event,,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+245,piotr,MDK Piotrowice,MDK Południe,K,71,mid,,,event,,1.0,,,,,scmed,,week,topic,,yes,car,,,no,,event,,1.0,1.0,,,,,1.0,,,,,,,,,,,Katowice,Ligota – Panewniki
+246,piotr,MDK Piotrowice,MDK Południe,K,69,high,,,event,,1.0,,,,,scmed,,month,topic,,no,car,,,yes,Korki,trnsp,,1.0,,1.0,,,,,,1.0,1.0,,,,,,,,Katowice,Ligota – Panewniki
+247,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,18,prim,,,event,,1.0,,,,,recom,,less,close,,yes,foot,,,no,,event,1.0,,,,,1.0,1.0,1.0,,1.0,,,,,,,,,Katowice,Giszowiec
+248,piotr,MDK Piotrowice,MDK Południe,K,77,mid,,,event,,,1.0,,,,dirct,,week,topic,,no,publc,37,,no,,event,,,,,1.0,1.0,1.0,,,1.0,1.0,,,,,,,,Katowice,Ligota – Panewniki
+249,piotr,MDK Piotrowice,MDK Południe,K,74,mid,,,event,1.0,1.0,,,,,scmed,,month,close,,yes,publc,,,no,,event,1.0,,1.0,,,,,,1.0,,1.0,,,,1.0,,,,Katowice,Piotrowice – Ochojec
+250,piotr,MDK Piotrowice,MDK Południe,K,58,mid,,,event,,,1.0,,,,outdr,,week,topic,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,,,,,,,,,,Katowice,Piotrowice – Ochojec
+251,piotr,MDK Piotrowice,MDK Południe,K,69,high,,Uniwersytet Śląski,event,,,1.0,,,,recom,,month,close,,yes,publc,,,no,,trnsp,1.0,,,,,,1.0,,1.0,,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+252,piotr,MDK Piotrowice,MDK Południe,K,69,high,Socjologia,Uniwersytet Śląski,event,,1.0,,,,,outdr,,month,topic,,no,publc,9,,yes,Problemy na drodze,event,,,,1.0,,,,,,,,1.0,,,,,,,Katowice,Ligota – Panewniki
+253,piotr,MDK Piotrowice,MDK Południe,M,71,mid,,,event,1.0,,,,,,dirct,,week,other,,no,car,,,yes,,trnsp,,,,,1.0,,,,,,,,,,,1.0,,,Katowice,
+254,piotr,MDK Piotrowice,MDK Południe,K,48,mid,,,child,,,,1.0,,,none,,week,close,,yes,foot,,,no,,event,,1.0,,,,1.0,1.0,1.0,,1.0,1.0,,1.0,,,,,,Katowice,Piotrowice – Ochojec
+255,piotr,MDK Piotrowice,MDK Południe,M,82,high,Budownictwo,Politechnika Śląska,event,,1.0,,,,,recom,,week,group,,yes,car,,,yes,Korki,event,,,,,1.0,,1.0,,,,,,,,,,,,Katowice,Ligota – Panewniki
+256,piotr,MDK Piotrowice,MDK Południe,M,78,high,,,event,,1.0,,,,,scmed,,week,other,,yes,foot,,,no,,trnsp,,1.0,,,,,,1.0,,,,,,,,,,,Katowice,
+257,piotr,MDK Piotrowice,MDK Południe,M,77,high,Projektowanie i budowa zakładów górniczych,Akademia Górniczo Hutnicza,event,,1.0,,,,,dirct,,week,topic,,no,car,,,yes,Brak lewoskrętu z Kościuszki od strony Katowic ,trnsp,,1.0,,,,,,,,,,,,,,1.0,,,Skoczów,
+258,piotr,MDK Piotrowice,MDK Południe,M,80,high,,Uniwersytet Ekonomiczny w Katowicach,event,,1.0,,,,,recom,,week,topic,,no,car,,,no,,event,,,,,1.0,,1.0,,,,,,,,,,,,Katowice,Brynów Część Wschodnia – Os. Zgrzebnioka
+259,piotr,MDK Piotrowice,MDK Południe,K,55,none,,,event,,,1.0,,,,wwmdk,,week,close,,yes,foot,,,no,,trnsp,1.0,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0,,,,,Katowice,Piotrowice – Ochojec
+260,piotr,MDK Piotrowice,MDK Południe,M,77,none,,,event,1.0,,,,,,recom,,week,close,,yes,foot,,,no,,event,,,,,1.0,,,,,,,,,,,1.0,,,Katowice,Piotrowice – Ochojec
+261,piotr,MDK Piotrowice,MDK Południe,M,67,high,Ekonomika przemysłu,Uniwersytet Ekonomiczny w Katowicach,event,,1.0,,,,,dirct,,week,topic,,yes,foot,,,no,,event,,1.0,,,,1.0,,,,,,,,,,,,,Katowice,Ligota – Panewniki
+262,piotr,MDK Piotrowice,MDK Południe,M,79,high,Mechanika,Politechnika Śląska,event,1.0,,,,,,dirct,,week,topic,,no,car,,,no,,event,,,,,1.0,,,,,,,,1.0,,,,,,Katowice,Zarzecze
+263,piotr,MDK Piotrowice,MDK Południe,K,48,high,Finanse,WSFiB,event,,,,,1.0,rodzina,dirct,,week,topic,,yes,car,,,no,,event,1.0,,,,,,,,1.0,,,,,,,,,,Katowice,Podlesie
+264,piotr,MDK Piotrowice,MDK Południe,M,71,mid,,,event,,1.0,,,,,scmed,,week,topic,,no,car,,,no,,event,,1.0,,,,,,1.0,,,,,,,,,,,Tychy,
+265,piotr,MDK Piotrowice,MDK Południe,M,71,none,,,event,1.0,1.0,,,,,scmed,,week,close,,no,car,,,no,,trnsp,,1.0,,,,,,,,,1.0,,,,,,,,Chorzów,
+266,piotr,MDK Piotrowice,MDK Południe,K,71,high,Budownictwo,Politechnika Śląska,event,1.0,,,,,,other,Internet ,week,topic,,no,car,,,no,,event,,1.0,,,,,1.0,,,,,,,,,,,,Ruda Śląska,
+267,piotr,MDK Piotrowice,MDK Południe,M,70,high,Górnictwo,Politechnika Śląska,event,,,1.0,,,,dirct,,week,topic,,no,car,,,no,,trnsp,,,,,1.0,1.0,,,,,,,,,,,,,Tychy,
+268,piotr,MDK Piotrowice,MDK Południe,M,78,high,Chemia,Politechnika Wrocławska,event,,,1.0,,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,,,,,,,1.0,,,,,,,,,,,Katowice,Piotrowice – Ochojec
+269,piotr,MDK Piotrowice,MDK Południe,M,71,none,,,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,,,,,1.0,,,,,,,,,,,1.0,,Prelekcje podróżnicze,Katowice,Piotrowice – Ochojec
+270,piotr,MDK Piotrowice,MDK Południe,M,69,none,,,child,,,,1.0,,,recom,,week,topic,,no,car,,,no,,event,,,,,1.0,,,,,,,,1.0,,,,,,Tychy,
+271,piotr,MDK Piotrowice,MDK Południe,M,71,none,,,event,1.0,,,,,,dirct,,week,topic,,no,publc,"29,45",,yes,Korki,trnsp,1.0,,,,,,1.0,1.0,,,,,,,,,,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+272,piotr,MDK Piotrowice,MDK Południe,M,68,high,,Uniwersytet Ekonomiczny w Katowicach,event,,1.0,,,,,recom,,month,topic,,no,car,,,no,,event,,,,,1.0,,,,1.0,,,,,,,,,,Tychy,
+273,piotr,MDK Piotrowice,MDK Południe,M,55,high,Ekonomia,,event,,1.0,,,,,scmed,,week,topic,,yes,car,,,no,,event,,,1.0,,,,1.0,1.0,,,,,,,,,,,Katowice,Podlesie
+274,piotr,MDK Piotrowice,MDK Południe,K,64,mid,,,event,1.0,,,,,,dirct,,week,topic,,yes,foot,,,no,,event,,,,,1.0,,,1.0,,,,,,,,,,,Katowice,Piotrowice – Ochojec
+275,piotr,MDK Piotrowice,MDK Południe,M,63,high,,,event,,1.0,,,,,dirct,,week,group,,yes,foot,,,no,,event,,,1.0,,,,,1.0,,,,,,,,,,,Katowice,Piotrowice – Ochojec
+276,piotr,MDK Piotrowice,MDK Południe,K,58,mid,,,child,,,,1.0,,,media,,week,group,,yes,car,,,no,,event,,,1.0,,,,,,,,1.0,,,,,,,,Katowice,Śródmieście
+277,piotr,MDK Piotrowice,MDK Południe,M,40,study,,,child,,,,1.0,,,recom,,week,close,,yes,car,,,no,,event,,,,,1.0,,,,,,,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+278,piotr,MDK Piotrowice,MDK Południe,K,37,none,,,event,,,,1.0,,,wwmdk,,week,topic,,yes,car,,,no,,trnsp,,,1.0,,,,,,,1.0,,,,,,,,,Katowice,Piotrowice – Ochojec
+279,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,39,mid,,,child,,,,1.0,,,recom,,week,topic,,yes,bike,,,no,,event,,,1.0,,,1.0,1.0,,,1.0,,,1.0,,,,,,,
+280,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,32,high,Fizjoterapia,Akademia Wychowania Fizycznego w Katowicach,child,,,,1.0,,,recom,,week,topic,,yes,car,,,no,,event,,,,,1.0,1.0,1.0,1.0,,,,,,,1.0,,Jezykowe edukacyjne artystyczne,,Katowice,Janów – Nikiszowiec
+281,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,53,mid,,,child,,,,1.0,,,recom,,week,topic,,yes,publc,292,,no,,event,,,,,1.0,,,1.0,,1.0,1.0,,,,,,,,Katowice,Janów – Nikiszowiec
+282,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,37,high,Informatyka,,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,,,1.0,,,,,,,,1.0,,,,,,,,Katowice,Giszowiec
+283,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,36,high,Medycyna,Śląski Uniwersytet Medyczny,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,Florystyka,,Katowice,Giszowiec
+284,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,45,high,Prawo,Uniwersytet Śląski,child,,,,1.0,,,recom,,week,topic,,no,car,,,no,,event,1.0,,,,,,1.0,,,,1.0,,,,,,,,Katowice,Os. Paderewskiego – Muchowiec
+285,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,30,high,Filologia,Uniwersytet Śląski,child,,,,1.0,,,outdr,,week,close,,yes,car,,,no,,event,,,,,1.0,,,,,1.0,1.0,1.0,,,1.0,,Krawieckie,,Katowice,Giszowiec
+286,podl,MDK Podlesie,MDK Południe,K,30,mid,,,child,,,,1.0,,,outdr,,week,free,,yes,car,,,no,,event,,,,,1.0,,,,,,,,,,1.0,,,,Katowice,Podlesie
+287,kstch,MDK Kostuchna,MDK Południe,K,31,high,,,child,,,,1.0,,,recom,,week,close,,yes,foot,,,no,,event,1.0,,,,,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,,,,Katowice,Kostuchna
+288,kstch,MDK Kostuchna,MDK Południe,K,43,high,,,event,,,,1.0,,,dirct,,week,topic,,yes,car,,,no,,event,,1.0,,,,1.0,1.0,,1.0,,,,,,,,,,Katowice,Kostuchna
+289,kstch,MDK Kostuchna,MDK Południe,K,39,prim,,,child,,,,1.0,,,wwmdk,,month,close,,yes,foot,,,no,,event,1.0,,,,,1.0,,,,,,,,,,,,,Katowice,Kostuchna
+290,kstch,MDK Kostuchna,MDK Południe,K,34,high,,,event,,,,1.0,1.0,,wwmdk,,week,close,,yes,foot,,,no,,event,,,,,1.0,,1.0,1.0,,,,,,,,,,,Katowice,Kostuchna
+291,murck,MDK Murcki,MDK Południe,K,75,mid,,,event,,1.0,,,,,recom,,week,group,,yes,foot,,,no,,event,,1.0,,,,1.0,1.0,1.0,,,1.0,,,,,,,,Katowice,Murcki
+292,murck,MDK Murcki,MDK Południe,K,67,mid,,,event,,1.0,,,,,recom,,week,group,,yes,foot,,,no,,event,,,,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,Katowice,Murcki
+293,murck,MDK Murcki,MDK Południe,K,83,mid,,,event,,1.0,,,,,recom,,week,group,,yes,foot,,,no,,event,1.0,,,,,,1.0,,,,1.0,,,,,,,,Katowice,Murcki
+294,murck,MDK Murcki,MDK Południe,K,68,mid,,,event,,,1.0,,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0,,,,Katowice,Murcki
+295,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,64,mid,,,event,,1.0,,,,,recom,,week,group,,yes,foot,,,no,,event,,,,,1.0,,1.0,1.0,,,,,,,,,,,Katowice,Giszowiec
+296,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,62,mid,,,event,1.0,,,,,,outdr,,week,other,Rozrywka,yes,foot,,,no,,event,,,1.0,,,,1.0,,,,,1.0,,,,,,,Katowice,Giszowiec
+297,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,70,mid,,,event,,,1.0,,,,recom,,week,topic,,yes,foot,,,no,,event,,,,,1.0,,1.0,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Giszowiec
+298,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,64,mid,,,event,,1.0,,,,,recom,,week,close,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,,,1.0,1.0,,,,,,,Katowice,Giszowiec
+299,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,63,mid,,,event,,1.0,,,,,scmed,,first,topic,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,1.0,,"Język obcy, wycieczki",Katowice,Bogucice
+300,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,61,mid,,,event,,,1.0,,,,recom,,week,close,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,,1.0,,,,,1.0,,Spotkania,Katowice,Bogucice
+301,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,78,mid,,,event,,1.0,,,,,recom,,week,close,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,,,,,,,,,1.0,,Biesiady,Katowice,Bogucice
+302,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,66,mid,,,event,,1.0,,,,,dirct,,week,close,,yes,foot,,,no,,event,1.0,,1.0,1.0,,,1.0,1.0,,,1.0,,,,,1.0,,"Dancingi, operetki, wycieczki",Katowice,Bogucice
+303,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,68,mid,,,event,,1.0,,,,,dirct,,week,topic,,no,publc,"T11, 600",,no,,event,1.0,1.0,,,,,1.0,1.0,,1.0,1.0,,,,1.0,,,,Chorzów,
+304,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,70,mid,,,event,,1.0,,,,,dirct,,week,close,,no,publc,"177, 600, 70",,no,,event,1.0,1.0,1.0,,,,1.0,1.0,1.0,1.0,1.0,1.0,,,,1.0,,"Gimnastyka, taniec, kulinarne warsztaty",Katowice,Koszutka
+305,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,13,none,,,event,,,1.0,,,,dirct,,week,topic,,yes,foot,,,no,,event,,,,1.0,,1.0,1.0,1.0,1.0,,,,,,1.0,,Matematyka,,Katowice,Bogucice
+306,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,10,prim,,,event,,1.0,,,,,dirct,,week,topic,,no,foot,,,no,,event,,,,,1.0,,,,,,,,,,,1.0,,Pianino i śpiew,Siemianowice Śląskie,
+307,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,59,mid,,,event,,1.0,,,,,dirct,,week,topic,,no,publc,600,,no,,event,1.0,,1.0,,,,,,,,,,,,,1.0,,Wykłady,Katowice,Os. Paderewskiego – Muchowiec
+308,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,75,mid,,,event,,,1.0,,,,dirct,,week,topic,,no,publc,,,no,,event,,,,,1.0,,,,,,,,,,,1.0,,Zajęcia komputerowe,Katowice,Śródmieście
+309,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,13,prim,,,event,,1.0,,,,,dirct,,week,close,,no,foot,,,no,,event,,,,,1.0,,,,,,,,,,,1.0,,Gitara,Katowice,Bogucice
+310,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,10,prim,,,event,,1.0,,,,,dirct,,week,topic,,no,car,,,yes,Korki,event,,,1.0,,,,1.0,1.0,,,1.0,,,,,,,,Katowice,Dąb
+311,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,7,prim,,,event,,1.0,,,,,dirct,,week,topic,,yes,car,,,no,,event,,,,,1.0,,,,,,,,,,,1.0,,"Muzyczne, kolo teatralne",Katowice,Bogucice
+312,kstch,MDK Kostuchna,MDK Południe,K,29,mid,,,event,,1.0,,,,,wwmdk,,month,free,,no,publc,,,no,,trnsp,1.0,,,,,,,1.0,1.0,,,,,,,,,,Katowice,Piotrowice – Ochojec
+313,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,74,mid,,,event,,1.0,,,,,other,W kosciele,week,close,,yes,foot,,,no,,event,,,,1.0,,1.0,1.0,1.0,1.0,,,,,,,,,,Katowice,Bogucice
+314,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,77,prim,,,event,,1.0,,,,,dirct,,week,close,,yes,foot,,,no,,event,,,,,1.0,,1.0,,,,,,,,,1.0,,"Dancingi, oeretki",Katowice,Bogucice
+315,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,52,high,,,event,,,,,1.0,rodzina,recom,,month,group,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,1.0,,Performance,Katowice,Bogucice
+316,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,60,mid,,,event,1.0,,,,,,dirct,,month,close,,yes,foot,,,no,,trnsp,1.0,,,,,,1.0,,,,,,,,,,,,Katowice,Bogucice
+317,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,71,mid,,,event,1.0,,,,,,dirct,,week,group,,no,foot,,,no,,event,1.0,1.0,1.0,,,,1.0,1.0,1.0,,,,,,,,,,Katowice,Bogucice
+318,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,21,study,,,event,1.0,,,,,,recom,,less,topic,,no,car,,,no,,event,1.0,1.0,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,Ogrodzieniec,
+319,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,45,high,,,event,,1.0,,,,,recom,,month,topic,,no,car,,,no,,event,1.0,,,,,1.0,1.0,,,,,,,,,,,,Ogrodzieniec,
+320,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,18,study,,,event,,1.0,,,,,recom,,month,topic,,no,car,,,no,,event,1.0,,,,,1.0,1.0,1.0,1.0,,,,,,,,,,Ogrodzieniec,
+321,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,74,mid,,,event,1.0,,,,,,recom,,less,topic,,yes,car,,,no,,event,1.0,,,1.0,,,1.0,1.0,,,1.0,,,,,,,,Katowice,Wełnowiec – Józefowiec
+322,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,15,mid,,,event,,,,,1.0,rodzina,recom,,first,group,,no,car,,,no,,event,,,1.0,,,1.0,1.0,,,1.0,,,,,,,,,Katowice,Śródmieście
+323,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,40,high,,,event,,,,1.0,,,recom,,less,topic,,yes,foot,,,no,,event,,,,,1.0,,1.0,1.0,,,,,,,,,,,Katowice,Bogucice
+325,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,73,high,,,event,,,,1.0,,,outdr,,week,close,,yes,foot,,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,Katowice,Bogucice
+326,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,51,high,Zarządzanie,Wyższa Szkoła Zarządzania Ochroną Pracy,event,,,,1.0,,,recom,,less,topic,,no,car,,,yes,Korki,event,1.0,,,,,,1.0,,,,,,,,,,,,Katowice,Śródmieście
+327,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,42,high,,,event,,,,1.0,,,guide,,month,free,,yes,foot,,,no,,trnsp,,1.0,,,,1.0,,,,,,,,,,,,,Katowice,Bogucice
+328,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,13,prim,,,event,,,,,1.0,rodzina,other,Od rodziny,less,topic,,no,car,,,no,,event,,1.0,,,,,1.0,,,,,,,,,,,,Mysłowice,
+329,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,13,prim,,,event,,,,,1.0,rodzina,other,Od mamy,less,group,,no,car,,,no,,trnsp,,1.0,,,,,1.0,,,,,,,,,,,,Mysłowice,
+330,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,46,high,,,event,,,,1.0,,,scmed,,less,topic,,no,car,,,no,,event,,1.0,,,,,,1.0,,,,,,,,,,,Mysłowice,
+331,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,62,mid,,,event,1.0,,,,,,dirct,,less,topic,,yes,car,,,no,,event,1.0,,,,,,,1.0,,,,,,,,,,,Katowice,Śródmieście
+332,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,69,high,Filologia,Wyższa Szkoła Pedagogiczna,event,,,1.0,,,,guide,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,,,,1.0,,,,,,,,,,,,Katowice,Zawodzie
+333,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,69,mid,,,event,1.0,,,,,,recom,,month,topic,,yes,car,,,no,,event,1.0,1.0,1.0,1.0,,,1.0,1.0,1.0,,1.0,1.0,,,,,,,Katowice,Bogucice
+335,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,62,mid,,,event,,1.0,,,,,scmed,,week,topic,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,1.0,,1.0,1.0,1.0,,1.0,,1.0,,"Język obcy, wycieczki",Katowice,Bogucice
+336,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,40,mid,,,event,,,1.0,,,,recom,,month,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,1.0,,,1.0,1.0,,1.0,,,,,,,,,Katowice,Bogucice
+337,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,73,mid,,,event,,,1.0,,,,guide,,week,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,1.0,,,1.0,1.0,1.0,,1.0,,,,,,,,Katowice,Bogucice
+338,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,79,prim,,,event,1.0,,,,1.0,rodzina,outdr,,week,topic,,yes,foot,,,no,,event,,,1.0,,,,1.0,1.0,,1.0,,,,,,,,,Katowice,Bogucice
+339,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,62,mid,,,event,,1.0,,,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,,,,,,1.0,,,,1.0,,,,,1.0,,"Tańce, operetki, kabarety",Katowice,Bogucice
+340,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,61,mid,,,event,,1.0,,,,,scmed,,week,close,,yes,car,,,no,,event,1.0,,,,,1.0,1.0,,,,1.0,,,,,1.0,,"Tańce, operetki, kabarety",Katowice,Bogucice
+341,murck,MDK Murcki,MDK Południe,K,40,high,Zarządzanie,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,recom,,week,topic,,no,car,,,no,,event,,,,1.0,,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,"Dla dzieci np. malarskie, zajęcia techniczne",Język obcy,Katowice,Kostuchna
+342,murck,MDK Murcki,MDK Południe,M,42,mid,,,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,"Muzyczne, malarskie",,Katowice,Murcki
+343,murck,MDK Murcki,MDK Południe,K,40,mid,,,child,,,,1.0,,,www,,week,topic,,yes,car,,,no,,event,1.0,,,,,1.0,,1.0,,1.0,1.0,,1.0,,1.0,,,,Katowice,Murcki
+344,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,75,mid,,,event,,1.0,,,,,scmed,,week,free,,yes,foot,,,no,,event,,1.0,,,,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,,,,,,Katowice,Zawodzie
+345,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,79,mid,,,event,,1.0,,,,,scmed,,week,free,,yes,foot,,,no,,event,,1.0,,,,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,,,,,,Katowice,Zawodzie
+346,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,28,study,,,event,1.0,,,1.0,,,scmed,,month,free,,yes,foot,,,no,,event,,,,,1.0,,,1.0,,,,,,,,,,,Katowice,Bogucice
+347,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,24,high,Grafika,Wyższa Szkoła Technologii Informatycznych,event,1.0,,,,,,recom,,less,group,,no,car,,,yes,Korki,event,1.0,,,,,,,1.0,,,,,,,,,,,Katowice,Śródmieście
+348,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,31,mid,,,event,,,,1.0,,,other,Od meza,less,free,,yes,foot,,,no,,event,1.0,1.0,1.0,,,1.0,1.0,,,,,,,,,,,,Katowice,Bogucice
+349,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,49,high,,,event,,,,1.0,,,recom,,less,topic,,yes,foot,,,no,,event,1.0,,,,,,1.0,,,,,,,,,,,,Katowice,Bogucice
+350,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,28,high,,,event,1.0,1.0,,1.0,,,scmed,,month,close,,yes,foot,,,no,,event,1.0,1.0,1.0,,,,,,,,,,,,,1.0,,Kabaret,Katowice,Bogucice
+351,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,37,high,Politologia,Uniwersytet Śląski,child,,,,1.0,,,recom,,week,topic,,no,car,,,no,,event,,,,,1.0,,,1.0,,1.0,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+352,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,16,none,,,event,,,,,1.0,rodzina,wwmdk,,week,topic,,yes,foot,,,no,,event,,,1.0,,,,,,,,1.0,,1.0,1.0,1.0,,,,Katowice,Bogucice
+353,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,70,mid,,,child,,,,1.0,,,guide,,week,topic,,yes,car,,,no,,event,,,,,1.0,1.0,,,,,,,,,1.0,,Spotkania w bibliotece,,Katowice,Bogucice
+354,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,43,high,Marketing,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,wwmdk,,week,topic,,yes,car,,,no,,event,1.0,1.0,1.0,1.0,,,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,,,,Katowice,Bogucice
+355,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,37,high,Zarządzanie,Politechnika Śląska,child,,,,1.0,,,wwmdk,,week,close,,no,car,,,yes,Korki,event,1.0,1.0,,,,,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+356,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,6,none,,,event,,,,,1.0,rodzina,wwmdk,,week,close,,yes,foot,,,no,,event,,,1.0,,,,,1.0,,,1.0,1.0,,,1.0,,Teatralne,,Katowice,Bogucice
+357,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,42,mid,,,child,,,,1.0,,,wwmdk,,week,close,,yes,foot,,,no,,event,,,,,1.0,1.0,,1.0,,1.0,1.0,,,,,,,,Katowice,Zawodzie
+358,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,35,high,Ekonomia,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,outdr,,week,topic,,yes,foot,,,no,,event,,,,1.0,,,1.0,,,1.0,,,,1.0,1.0,,Językowe na zaawansowanym poziomie,,Katowice,Bogucice
+359,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,36,high,,,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,,,,,,,1.0,,,1.0,1.0,,,1.0,,Językowe,,Katowice,Bogucice
+360,murck,MDK Murcki,MDK Południe,K,63,mid,,,event,,1.0,,,,,other,Związek emerytów przy MDK,week,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Murcki
+361,kstch,MDK Kostuchna,MDK Południe,K,51,mid,,,event,,,1.0,,,,outdr,,week,free,,yes,foot,,,no,,event,1.0,,,,,,1.0,,,1.0,1.0,,,,,,,,Katowice,Kostuchna
+362,kstch,MDK Kostuchna,MDK Południe,M,41,mid,,,child,,,,1.0,,,wwmdk,,week,free,,no,car,,,no,,event,,,,1.0,,,,,,,,1.0,,,1.0,,,,Katowice,Piotrowice – Ochojec
+363,kstch,MDK Kostuchna,MDK Południe,K,45,mid,,,child,,,,1.0,,,wwmdk,,week,free,,yes,foot,,,no,,event,1.0,,,1.0,,,1.0,1.0,1.0,,1.0,1.0,,,1.0,,,,Katowice,Kostuchna
+364,piotr,MDK Piotrowice,MDK Południe,K,54,mid,,,event,,,1.0,,,,dirct,,week,topic,,yes,publc,689,,no,,event,,,,,1.0,,,,,,1.0,,,,,,,,Katowice,Kostuchna
+365,piotr,MDK Piotrowice,MDK Południe,K,50,mid,,,event,,,1.0,,,,wwmdk,,week,topic,,yes,publc,,,no,,trnsp,1.0,,1.0,,,,,1.0,,,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+367,piotr,MDK Piotrowice,MDK Południe,M,43,mid,,,child,,,,1.0,,,dirct,,week,topic,,no,car,,,no,,event,,,1.0,1.0,,,,,,,1.0,,,,,,,,Katowice,Podlesie
+368,piotr,MDK Piotrowice,MDK Południe,K,37,mid,,,child,,,,1.0,,,www,,week,topic,,yes,car,,,yes,Korki,trnsp,,,,,1.0,,,,,,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+369,kstch,MDK Kostuchna,MDK Południe,K,38,mid,,,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,event,,,1.0,1.0,,,,1.0,,,1.0,1.0,,,,,,,Katowice,Kostuchna
+370,piotr,MDK Piotrowice,MDK Południe,K,42,mid,,,event,,,1.0,,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,,,1.0,,,1.0,,1.0,,1.0,,,,1.0,,,,Katowice,Piotrowice – Ochojec
+371,kstch,MDK Kostuchna,MDK Południe,K,45,mid,,,child,,,,1.0,,,outdr,,week,topic,,yes,foot,,,no,,event,,,1.0,1.0,,,,,,,1.0,1.0,,,1.0,,,,Katowice,Kostuchna
+372,kstch,MDK Kostuchna,MDK Południe,K,36,mid,,,child,,,,1.0,,,wwmdk,,week,free,,no,publc,,,no,,trnsp,,,1.0,1.0,,,1.0,,1.0,1.0,1.0,,,,,,,,Katowice,Podlesie
+373,kstch,MDK Kostuchna,MDK Południe,K,41,mid,,,event,,,1.0,,,,outdr,,week,close,,yes,foot,,,yes,,trnsp,,,,,1.0,,1.0,,,,,,,,,,,,Katowice,Kostuchna
+374,kstch,MDK Kostuchna,MDK Południe,K,41,high,,,event,,,1.0,,,,outdr,,week,close,,yes,foot,,,no,,event,,,,,1.0,,1.0,1.0,,1.0,1.0,,,,1.0,,,,Katowice,Kostuchna
+375,ksztk,MDK Koszutka,MDK Koszutka,K,53,mid,,,child,,,,1.0,,,none,,week,close,,yes,foot,,,no,,event,,,,1.0,,,1.0,,,1.0,,,,,,,,,Katowice,Koszutka
+376,ksztk,MDK Koszutka,MDK Koszutka,M,48,high,Budownictwo,Politechnika Śląska,child,,,,1.0,,,dirct,,week,topic,,no,car,,,yes,Korki,event,,1.0,,,,1.0,1.0,1.0,1.0,,,,,,,,,,Katowice,Brynów Część Wschodnia – Os. Zgrzebnioka
+377,ksztk,MDK Koszutka,MDK Koszutka,M,40,mid,,,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,event,1.0,,,,,,1.0,1.0,,1.0,1.0,1.0,1.0,,,,,,Katowice,Koszutka
+378,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,63,mid,,,event,,,1.0,,,,guide,,week,topic,,no,foot,,,no,,event,,,1.0,1.0,,1.0,1.0,1.0,,1.0,,,,,1.0,,Malarskie kulinarne kosmetyczne,,Katowice,Śródmieście
+379,ksztk,MDK Koszutka,MDK Koszutka,K,65,high,Resocjalizacja,Uniwersytet Śląski,child,,,,1.0,,,recom,,week,topic,,no,car,,,no,,trnsp,,1.0,,,,,1.0,1.0,,,,,,,,,,,,
+380,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,76,mid,,,event,1.0,,,,,,recom,,week,topic,,yes,publc,15,,no,,trnsp,1.0,,1.0,1.0,,1.0,1.0,1.0,1.0,,,,,,,,,,Katowice,Koszutka
+381,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,74,mid,,,event,,,1.0,,,,guide,,month,other,Potrzeba wyjścia z domu,no,publc,600,,no,,event,,,,1.0,,,1.0,,,,,,,,,1.0,,Dancing,Katowice,Bogucice
+382,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,72,mid,,,event,,1.0,,,,,recom,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Zawodzie
+383,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,66,mid,,,event,,1.0,,,,,recom,,month,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Zawodzie
+384,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,69,mid,,,event,,1.0,,,,,recom,,month,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Zawodzie
+385,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,64,mid,,,event,,1.0,,,,,recom,,month,topic,,yes,foot,,,no,,event,,,,1.0,,,1.0,1.0,,,,1.0,,,,,,,Katowice,Zawodzie
+386,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,70,mid,,,event,,1.0,,,,,recom,,week,topic,,no,publc,14,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,Katowice,Bogucice
+387,ksztk,MDK Koszutka,MDK Koszutka,K,26,high,Filologia,Uniwersytet Śląski,event,,1.0,,,,,wwmdk,,week,topic,,yes,publc,T36,,no,,trnsp,,,1.0,,,1.0,,1.0,,,1.0,,,,,,,,Katowice,Janów – Nikiszowiec
+388,ksztk,MDK Koszutka,MDK Koszutka,M,39,high,Automatyka,Politechnika Śląska,event,,1.0,,,,,other,Brak informacji,week,topic,,no,car,,,no,,trnsp,,,,,1.0,,,1.0,,,,,,,1.0,,Fotografia,,Gliwice,
+391,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,74,mid,,,event,1.0,,,,,,other,Własna inicjatywa klub seniora ,month,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,,1.0,,,1.0,,,,,,1.0,,Operetki,Katowice,Bogucice
+392,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,75,none,,,event,,,,,1.0,rodzina,recom,,first,group,,no,publc,820,,no,,event,1.0,1.0,1.0,1.0,,,1.0,1.0,,1.0,,,,,,1.0,,"Operetki, kabarety",Gliwice,
+393,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,54,mid,,,event,,,,,1.0,rodzina,guide,,month,free,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,1.0,,,,,,,,,Katowice,Bogucice
+394,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,32,mid,,,event,,,1.0,,,,www,,month,topic,,no,bike,,,no,,event,1.0,1.0,1.0,1.0,,,1.0,,,1.0,,,,,,,,,Katowice,Załęże
+395,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,65,mid,,,event,,,1.0,,,,media,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,1.0,,,,,,,Katowice,Bogucice
+396,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,41,mid,,,event,,,,1.0,,,recom,,less,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,1.0,,1.0,,1.0,1.0,1.0,1.0,,,,1.0,,,,Katowice,Bogucice
+397,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,64,high,,,event,,,1.0,,,,media,,less,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,,,,,,,,,,,1.0,,"Emisja meczów, transmisje, szkolenia, konferencje",Katowice,Bogucice
+398,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,27,mid,,,event,,,,1.0,,,wwmdk,,less,topic,,yes,foot,,,no,,event,1.0,1.0,,,,1.0,1.0,,,1.0,,,,,,,,,Katowice,Bogucice
+399,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,18,mid,,,event,,1.0,,,,,outdr,,less,group,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,,,,,,,,,,,,Katowice,Bogucice
+400,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,17,mid,,,event,,1.0,,,,,outdr,,less,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,,,,1.0,,,1.0,,,,,1.0,,Muzyczne,,Katowice,Bogucice
+401,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,42,mid,,,event,,,1.0,,,,outdr,,month,other,"Spotkania rodzinne, dla grupy średniolatków, którzy są pomijani w wydarzeniach ",no,foot,,,no,,trnsp,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,,,,1.0,,"Informatyczne, fotograficzne, prozdrowotne z lekarzami, z policją, ze strażą, z ratownikami medycznymi, edukacyjne ",,Katowice,Bogucice
+402,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,30,high,Architektura,Uniwersytet Śląski,event,,1.0,,,,,recom,,first,group,,no,foot,,,no,,event,1.0,1.0,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0,,"Językowe, zdrowotne ",,Katowice,Śródmieście
+403,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,29,high,Elektronika,Politechnika Wrocławska,event,,1.0,,,,,scmed,,first,topic,,no,car,,,no,,trnsp,,1.0,,,,,1.0,,,,,,,,1.0,,Hiphop,,,
+404,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,10,prim,,,child,,,,1.0,,,recom,,less,close,,yes,foot,,,no,,event,,1.0,,,,1.0,1.0,,,,,1.0,,1.0,1.0,,Taniec,,Katowice,Giszowiec
+405,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,31,high,,,child,,,,1.0,,,other,Przez przypadek ,first,other,Przypadek,no,car,,,no,,event,1.0,1.0,,,,1.0,1.0,,,1.0,,,,,,,,,Katowice,Kostuchna
+406,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,38,high,Finanse,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,outdr,,less,close,,yes,foot,,,no,,event,,,1.0,,,1.0,,1.0,,1.0,,1.0,,,1.0,,Językowe,,Katowice,Giszowiec
+407,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,10,prim,,,child,,,,1.0,,,none,,less,group,,yes,foot,,,no,,event,,,,,1.0,,,,,,1.0,,,,,1.0,,"Tance, spiewy, akrobatyka,",Katowice,Giszowiec
+408,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,36,mid,,,child,,,,1.0,,,outdr,,week,group,,yes,foot,,,no,,event,1.0,,1.0,,,,1.0,,,1.0,1.0,,,1.0,1.0,,,,Katowice,Giszowiec
+409,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,79,mid,,,event,,,1.0,,,,other,Wlasna inicjatywa,week,topic,,yes,foot,,,no,,trnsp,1.0,,1.0,1.0,,,1.0,1.0,1.0,1.0,,1.0,,,,,,,Katowice,Szopienice – Burowiec
+410,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,80,prim,,,event,,,1.0,,,,recom,,week,group,,no,publc,72,,no,,event,,,,,1.0,,,,,,,,,,,1.0,,Klub wycieczkowy,Katowice,Giszowiec
+411,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,M,84,prim,,,event,,,1.0,,,,recom,,week,group,,no,publc,70,,no,,event,1.0,,1.0,1.0,,,,1.0,,,,,,,,1.0,,,Katowice,Bogucice
+412,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,77,prim,,,event,,,1.0,,,,recom,,week,group,,yes,foot,,,no,,event,,,,,1.0,,,1.0,1.0,1.0,,1.0,,,,,,,Katowice,Szopienice – Burowiec
+413,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,86,prim,,,event,,,1.0,,,,recom,,week,group,,yes,foot,,,no,,event,,,,,1.0,,,,,,,,,,,1.0,,,Katowice,Szopienice – Burowiec
+414,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,80,prim,,,event,,,1.0,,,,recom,,week,group,,no,publc,,,no,,event,,,,,1.0,,,,,,,,,,,1.0,,Klub seniora,Katowice,Dąbrówka Mała
+415,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,78,prim,,,event,1.0,,,,,,recom,,week,group,,no,publc,74,,no,,event,1.0,,1.0,,,,,1.0,1.0,1.0,,,,,,,,,Katowice,Dąbrówka Mała
+416,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,81,mid,,,event,,1.0,,,,,recom,,week,group,,no,publc,109,,no,,event,1.0,,1.0,,,,1.0,1.0,,1.0,,,,,,,,,Katowice,Dąbrówka Mała
+417,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,M,81,mid,,,event,1.0,,,,,,recom,,week,group,,no,publc,"72,74",,no,,event,1.0,,1.0,,,,1.0,1.0,,1.0,,,,,,,,,Katowice,Dąbrówka Mała
+418,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,72,prim,,,event,,,1.0,,,,recom,,week,group,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,,,,,,,,Katowice,Szopienice – Burowiec
+419,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,M,69,high,Konserwacja zabytków,ASP w Krakowie,event,,,1.0,,,,recom,,week,group,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,Katowice,Szopienice – Burowiec
+420,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,78,mid,,,event,,,1.0,,,,recom,,week,group,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,1.0,,1.0,,,,,,,,,Katowice,Szopienice – Burowiec
+421,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,72,mid,,,event,,,1.0,,,,recom,,week,group,,yes,foot,,,no,,event,,,1.0,,,,1.0,1.0,1.0,,,,,,,1.0,,Wycieczki,Katowice,Szopienice – Burowiec
+422,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,61,mid,,,event,,1.0,,,,,recom,,week,group,,yes,car,,,no,,trnsp,1.0,,1.0,1.0,,1.0,1.0,1.0,,1.0,1.0,1.0,,,1.0,,Decupage,,Katowice,Szopienice – Burowiec
+423,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,69,prim,,,event,,1.0,,,,,recom,,week,group,,yes,publc,"15,14,20",,no,,trnsp,1.0,,1.0,1.0,,1.0,1.0,1.0,,1.0,1.0,1.0,,,1.0,,Decupage,,Katowice,Szopienice – Burowiec
+424,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,53,high,Pedagogika,Wyższa Szkoła Pedagogiczna,child,,,,1.0,,,recom,,month,topic,,yes,foot,,,no,,event,,,1.0,,,,1.0,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+426,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,55,mid,,,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,,,,,,,,,,,,Katowice,Szopienice – Burowiec
+427,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,M,72,mid,,,event,,,1.0,,,,www,,week,topic,,yes,car,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,,,,1.0,,1.0,,1.0,,"Zajęcia dla seniorów w zakresie nowych technologii, podstawowy kurs językowy",Katowice,Dąbrówka Mała
+428,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,66,mid,,,event,,,1.0,,,,media,,week,topic,,no,car,,,no,,event,,1.0,1.0,1.0,,1.0,1.0,1.0,,,,1.0,,1.0,1.0,1.0,,"Zajęcia dla seniorów w zakresie nowych technologii, podstawowy kurs językowy",Katowice,Janów – Nikiszowiec
+429,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,63,high,Elektryka,Politechnika Śląska,event,,,1.0,,,,recom,,week,topic,,no,publc,14,,no,,event,1.0,1.0,,1.0,,1.0,1.0,,,,,1.0,,,,1.0,,Kurs językowy na poziomie podstawowym,Katowice,Śródmieście
+430,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,56,high,,,child,,,,1.0,,,recom,,month,topic,,yes,foot,,,no,,event,1.0,,,,,,1.0,1.0,,1.0,1.0,,1.0,1.0,1.0,,,,Katowice,Szopienice – Burowiec
+431,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,59,high,Pedagogika,,child,,,,1.0,,,recom,,month,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,,1.0,,,,Katowice,Szopienice – Burowiec
+432,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,60,mid,,,child,,,,1.0,,,recom,,month,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+433,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,53,high,Pedagogika,Wyższa Szkoła Pedagogiczna,child,,,,1.0,,,recom,,month,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+434,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,28,high,Pedagogika,Uniwersytet Śląski,child,,,,1.0,,,other,Ze szkoły,month,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,,,1.0,,,1.0,,,,,,Katowice,Szopienice – Burowiec
+436,kstch,MDK Kostuchna,MDK Południe,K,54,mid,,,child,,,,1.0,,,wwmdk,,week,topic,,yes,foot,,,no,,event,1.0,,,1.0,,1.0,,,,,1.0,1.0,,,,,,,Katowice,Kostuchna
+437,kstch,MDK Kostuchna,MDK Południe,K,48,mid,,,child,,,,1.0,,,scmed,,week,topic,,yes,foot,,,no,,event,,,,1.0,,1.0,,1.0,,,,,,,1.0,,,,Katowice,Kostuchna
+438,kstch,MDK Kostuchna,MDK Południe,K,55,mid,,,event,1.0,,,,,,outdr,,less,other,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,,,,,,,,,,,,Katowice,Kostuchna
+439,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,74,prim,,,event,,,1.0,,,,recom,,first,group,,no,publc,"74,20",,no,,event,,1.0,,,,1.0,1.0,1.0,,,,,,,,,,,Siemianowice Śląskie,
+440,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,76,mid,,,event,,,1.0,,,,recom,,first,group,,no,publc,"74,20",,no,,event,,1.0,,,,1.0,1.0,1.0,,,,,,,,,,,Siemianowice Śląskie,
+441,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,66,mid,,,event,,1.0,,,,,recom,,month,topic,,no,publc,30,,no,,event,,,,1.0,,1.0,1.0,1.0,,,,,,,,1.0,,"Dancingi, opera",Katowice,Giszowiec
+442,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,78,prim,,,event,1.0,,,,,,outdr,,week,topic,,yes,foot,,,no,,event,1.0,,,1.0,,1.0,1.0,1.0,,,,,,,,,,,Katowice,Zawodzie
+443,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,67,mid,,,event,1.0,,,,,,outdr,,week,free,,no,publc,36,,no,,event,1.0,,,1.0,,,1.0,,,,,,,,,,,,Katowice,Bogucice
+444,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,79,mid,,,event,,1.0,,,,,other,Z klubu seniora ,first,group,,no,publc,674,,no,,event,1.0,,,1.0,,1.0,1.0,1.0,,,,,,,,,,,Katowice,Giszowiec
+445,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,76,mid,,,event,1.0,,,,,,www,,week,topic,,yes,foot,,,no,,event,1.0,,,1.0,,,1.0,1.0,1.0,1.0,,,,,,1.0,,Operetki,Katowice,Zawodzie
+446,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,72,mid,,,event,1.0,,,,,,www,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,,1.0,,,1.0,,,,,,1.0,,Operetki,Katowice,Bogucice
+447,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,74,mid,,,event,1.0,,,,,,recom,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,,1.0,,,1.0,,,,,,1.0,,Operetki,Katowice,Bogucice
+448,kstch,MDK Kostuchna,MDK Południe,K,49,mid,,,child,,,,1.0,,,other,,week,topic,,yes,foot,,,no,,event,,,,,1.0,,,,,,1.0,,,,1.0,,,,Katowice,Kostuchna
+449,kstch,MDK Kostuchna,MDK Południe,K,38,study,,,child,,,,1.0,,,dirct,,week,topic,,yes,car,,,no,,event,,,,,1.0,1.0,,,1.0,,,,,,1.0,,,,Katowice,Kostuchna
+450,piotr,MDK Piotrowice,MDK Południe,K,39,mid,,,child,,,,1.0,,,wwmdk,,week,free,,yes,publc,,,no,,event,1.0,,,,,,1.0,,,,,,,,,,,,Katowice,Piotrowice – Ochojec
+451,piotr,MDK Piotrowice,MDK Południe,M,40,high,Wychowanie fizyczne,AWF w Katowicach,child,,,,1.0,,,recom,,week,close,,yes,foot,,,no,,trnsp,,,,1.0,,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,,Plastyczne,,Katowice,Piotrowice – Ochojec
+452,piotr,MDK Piotrowice,MDK Południe,M,37,high,,,child,,,,1.0,,,dirct,,week,topic,,yes,car,,,no,,event,,1.0,,1.0,,,1.0,,,,,,,1.0,,1.0,,,Katowice,Piotrowice – Ochojec
+453,piotr,MDK Piotrowice,MDK Południe,M,45,high,,,child,,,,1.0,,,wwmdk,,week,close,,yes,car,,,no,,trnsp,1.0,,,1.0,,,,1.0,,1.0,,,,,,,,,Katowice,Kostuchna
+454,dab,MDK Dąb,MDK Koszutka,M,40,high,Budownictwo,Politechnika Śląska,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,event,1.0,,,,,,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Dąb
+455,dab,MDK Dąb,MDK Koszutka,K,37,high,Socjologia,Uniwersytet Śląski,child,,,,1.0,,,www,,week,topic,,no,car,,,no,,event,,1.0,,,,,1.0,1.0,,1.0,1.0,,,,,,,,Mysłowice,
+456,dab,MDK Dąb,MDK Koszutka,K,31,high,Żywienie,Akademia Wychowania Fizycznego w Katowicach,child,,,,1.0,,,recom,,week,topic,,yes,car,,,no,,event,,1.0,,,,,1.0,,,1.0,1.0,,,,,,,,Katowice,Wełnowiec – Józefowiec
+457,dab,MDK Dąb,MDK Koszutka,M,35,mid,,,child,,,,1.0,,,none,,week,topic,,yes,car,,,no,,trnsp,1.0,1.0,,,,1.0,1.0,,,1.0,,,,,,,,,Katowice,Śródmieście
+458,dab,MDK Dąb,MDK Koszutka,K,34,high,Pedagogika,Akademia Jana Długosza w Częstochowie,child,,,,1.0,,,outdr,,week,topic,,no,car,,,yes,Korki,event,1.0,1.0,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,Dla doroslych zajecia warsztaty,,Chorzów,
+459,dab,MDK Dąb,MDK Koszutka,K,36,high,Kulturoznawstwo,Uniwersytet Śląski,child,,,,1.0,,,www,,week,topic,,no,car,,,no,,event,1.0,,,,,,1.0,,,,1.0,,,,,,,,Katowice,Koszutka
+460,dab,MDK Dąb,MDK Koszutka,K,45,mid,,,child,,,,1.0,,,dirct,,week,topic,,no,car,,,no,,event,1.0,,,,,,1.0,,,1.0,1.0,,,,,,,,Katowice,Śródmieście
+461,dab,MDK Dąb,MDK Koszutka,K,40,high,Filologia,Uniwersytet Śląski,child,,,,1.0,,,recom,,week,close,,yes,car,,,no,,event,1.0,,,,,1.0,,1.0,,,1.0,,,,,,,,Katowice,Dąb
+462,dab,MDK Dąb,MDK Koszutka,K,36,high,Chemia,Uniwersytet Śląski,child,,,,1.0,,,wwmdk,,week,topic,,no,car,,,no,,event,,,,1.0,,,,,,1.0,1.0,,,,,,,,Katowice,Bogucice
+463,dab,MDK Dąb,MDK Koszutka,M,41,mid,,,child,,,,1.0,,,recom,,week,topic,,no,car,,,no,,event,,,,,1.0,,1.0,,,1.0,,,,,,,,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+464,dab,MDK Dąb,MDK Koszutka,K,34,high,Chemia,Politechnika Śląska,child,,,,1.0,,,scmed,,week,topic,,no,car,,,no,,event,1.0,,1.0,,,,1.0,,,1.0,1.0,,,,,,,,Katowice,Śródmieście
+465,dab,MDK Dąb,MDK Koszutka,M,39,high,Inżynieria materiałowa,Politechnika Śląska,child,,,,1.0,,,scmed,,week,topic,,no,car,,,no,,trnsp,1.0,1.0,,,,1.0,1.0,,,1.0,1.0,,,,,,,,Katowice,Śródmieście
+466,dab,MDK Dąb,MDK Koszutka,M,39,high,Ekonomia,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,none,,week,close,,yes,car,,,no,,trnsp,,1.0,1.0,,,,,,,,1.0,,,,,,,,Katowice,Śródmieście
+467,dab,MDK Dąb,MDK Koszutka,M,42,high,Mechanika,Politechnika Śląska,child,,,,1.0,,,recom,,month,group,,no,car,,,yes,Korki,event,,,,,1.0,,1.0,,,1.0,1.0,,,,,,,,Ruda Śląska,
+468,dab,MDK Dąb,MDK Koszutka,K,37,high,Turystyka,Górnośląska Wyższa Szkoła Handlowa,child,,,,1.0,,,scmed,,week,topic,,yes,foot,,,no,,event,,,,,1.0,,,1.0,,1.0,1.0,,,,,,,,Katowice,Wełnowiec – Józefowiec
+469,dab,MDK Dąb,MDK Koszutka,M,37,high,Turystyka,Górnośląska Wyższa Szkoła Handlowa,child,,,,1.0,,,recom,,week,topic,,yes,car,,,no,,event,,1.0,,,,1.0,1.0,,,,1.0,,,1.0,,,,,Katowice,Dąb
+470,dab,MDK Dąb,MDK Koszutka,M,30,high,Logistyka,Politechnika Śląska,child,,,,1.0,,,scmed,,week,topic,,no,car,,,no,,trnsp,1.0,,,,,1.0,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Brynów Część Wschodnia – Os. Zgrzebnioka
+471,dab,MDK Dąb,MDK Koszutka,K,34,high,Administracja,Uniwersytet Śląski,child,,,,1.0,,,www,,week,topic,,yes,car,,,no,,event,1.0,,,,,,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Bogucice
+472,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,35,high,Medycyna,,event,,,,1.0,,,other,Ze szkoly muzycznej,first,topic,,no,car,,,no,,trnsp,,1.0,,,,1.0,1.0,1.0,,,1.0,,1.0,,,,,,Będzin,
+473,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,83,mid,,,event,1.0,,,,,,recom,,less,group,,no,car,,,no,,event,,,,,1.0,,1.0,,,1.0,,,,,,,,,Katowice,Załęże
+474,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,43,high,Mechanika,Politechnika Śląska,event,,,,1.0,,,other,Ze szkoly muzycznej,first,other,Udzial dziecka,no,car,,,no,,trnsp,,1.0,,1.0,,1.0,1.0,1.0,,,,,,,,,,,Katowice,Piotrowice – Ochojec
+475,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,42,high,Architektura,Politechnika Śląska,event,,,,1.0,,,other,Ze szkoly muzycznej,first,other,Udzial dziecka,no,car,,,no,,trnsp,1.0,,,,,1.0,,1.0,,1.0,1.0,,1.0,,,,,,Katowice,Śródmieście
+476,ligot,MDK Ligota,MDK Ligota,K,38,mid,,,event,1.0,,,1.0,,,outdr,,less,close,,yes,car,,,no,,event,,1.0,,,,,1.0,,,1.0,1.0,,,,,1.0,,Sportowe,Katowice,Ligota – Panewniki
+477,ligot,MDK Ligota,MDK Ligota,M,48,high,Zarządzanie,Politechnika Śląska,event,1.0,,,1.0,,,recom,,month,topic,,yes,car,,,no,,event,1.0,,,,,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,,1.0,,"Sportowe, muzyczne, naukowe",,Katowice,Ligota – Panewniki
+479,ligot,MDK Ligota,MDK Ligota,K,10,prim,,,event,,1.0,,,,,recom,,first,group,,no,publc,912,,no,,trnsp,,,,1.0,,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,,Pianino,,Katowice,Ligota – Panewniki
+480,ligot,MDK Ligota,MDK Ligota,K,38,high,Farmacja,,event,,,,1.0,,,outdr,,month,group,,yes,foot,,,no,,event,1.0,1.0,,,,,1.0,,,,1.0,,,,,,,,Katowice,Ligota – Panewniki
+481,ligot,MDK Ligota,MDK Ligota,K,63,mid,,,event,,,1.0,,,,www,,less,topic,,no,publc,12,,no,,trnsp,1.0,1.0,1.0,1.0,,,1.0,1.0,,1.0,,,,,,,,,Katowice,Zawodzie
+482,ligot,MDK Ligota,MDK Ligota,M,44,mid,,,event,,1.0,,,,,scmed,,less,group,,yes,car,,,no,,event,,,,,1.0,1.0,1.0,1.0,,,,,1.0,1.0,,,,,Katowice,Ligota – Panewniki
+483,ligot,MDK Ligota,MDK Ligota,K,37,mid,,,event,1.0,,,1.0,,,scmed,,less,free,,yes,foot,,,no,,event,,1.0,,,,1.0,,,,1.0,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+484,ligot,MDK Ligota,MDK Ligota,M,35,high,Inżynieria środowiska,Uniwersytet Śląski,event,1.0,,,1.0,,,dirct,,week,group,,yes,car,,,no,,trnsp,1.0,,,,,1.0,1.0,,,1.0,,1.0,,,,,,,Katowice,Kostuchna
+485,ligot,MDK Ligota,MDK Ligota,M,8,prim,,,event,,1.0,,,,,recom,,month,topic,,yes,foot,,,no,,event,1.0,,,,,,,1.0,,1.0,1.0,,1.0,1.0,,1.0,,,Katowice,Ligota – Panewniki
+486,ligot,MDK Ligota,MDK Ligota,K,49,high,Pedagogika,Uniwersytet Śląski,event,1.0,,,,,,outdr,,week,free,,yes,foot,,,no,,event,1.0,1.0,,1.0,,,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Ligota – Panewniki
+487,ligot,MDK Ligota,MDK Ligota,K,63,high,Ekonomia,Uniwersytet Ekonomiczny w Katowicach,event,1.0,,,1.0,,,outdr,,week,topic,,yes,bike,,,no,,event,,1.0,,,,1.0,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+488,ligot,MDK Ligota,MDK Ligota,M,42,high,Matematyka,Politechnika Śląska,event,1.0,,,1.0,,,outdr,,week,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,,,,,,1.0,,,,,Katowice,Ligota – Panewniki
+489,ligot,MDK Ligota,MDK Ligota,K,16,prim,,,event,,1.0,,,,,recom,,less,group,,no,publc,12,,no,,event,,1.0,,,,1.0,1.0,1.0,,1.0,,,,,,,,,Katowice,Śródmieście
+490,ligot,MDK Ligota,MDK Ligota,K,33,high,Finanse,Wyższa Szkoła Bankowa,event,1.0,,,1.0,,,scmed,,less,group,,yes,car,,,no,,event,1.0,,,,,,1.0,,,1.0,1.0,,,,,,,,Katowice,Ligota – Panewniki
+491,ligot,MDK Ligota,MDK Ligota,M,6,prim,,,event,,,,,1.0,rodzina,outdr,,less,close,,yes,car,,,no,,event,,,1.0,,,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,,,1.0,,Karate,Katowice,Ligota – Panewniki
+492,ligot,MDK Ligota,MDK Ligota,K,5,prim,,,event,,1.0,,,,,recom,,week,group,,no,car,,,no,,event,1.0,,,,,,1.0,,,1.0,1.0,1.0,,,,,,,Katowice,Osiedle Tysiąclecia
+493,ligot,MDK Ligota,MDK Ligota,M,18,prim,,,event,1.0,,,,,,outdr,,less,group,,yes,foot,,,no,,trnsp,,,1.0,,,,1.0,,,,,,,,,,,,Katowice,Ligota – Panewniki
+494,ligot,MDK Ligota,MDK Ligota,K,15,prim,,,event,,1.0,,,,,dirct,,less,group,,yes,foot,,,no,,event,,,,,1.0,,,,,,1.0,,,,,,,,Katowice,Ligota – Panewniki
+495,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,31,high,Pedagogika,,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,event,,,,,1.0,,1.0,1.0,,,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+496,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,43,high,Politologia,Uniwersytet Śląski,child,,,,1.0,,,wwmdk,,week,free,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,,1.0,1.0,1.0,1.0,,,,1.0,,"Sportowe dla dzieci, rytmika, ",,Katowice,Szopienice – Burowiec
+497,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,42,high,Kulturoznawstwo,Uniwersytet Śląski,child,,,,1.0,,,wwmdk,,week,topic,,yes,foot,,,no,,event,1.0,1.0,,,,,1.0,1.0,,1.0,1.0,1.0,,,1.0,,Rytmika,,Katowice,Szopienice – Burowiec
+498,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,35,mid,,,child,,,,1.0,,,outdr,,week,close,,yes,foot,,,no,,event,,,,,1.0,,,,,,1.0,1.0,1.0,,,,,,Katowice,Szopienice – Burowiec
+499,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,M,16,prim,,,event,,,1.0,,,,recom,,week,topic,,no,publc,108,,no,,trnsp,,,,,1.0,1.0,,,1.0,,,,,,1.0,,Szachowe,,Katowice,Koszutka
+500,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,M,29,mid,,,event,,1.0,,,,,wwmdk,,week,close,,yes,publc,"149, ",,no,,event,1.0,1.0,,,,,1.0,,,,,,,1.0,,,,,Mysłowice,
+501,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,M,27,mid,,,event,,1.0,,,,,recom,,week,topic,,no,publc,91,,no,,trnsp,,1.0,,,,,,,,,,,,,1.0,,Szachowe,,Bytom,
+502,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,6,prim,,,event,,,,,1.0,rodzina,recom,,week,topic,,no,car,,,no,,trnsp,,,,,1.0,1.0,1.0,,,1.0,1.0,1.0,,,,,,,,
+503,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,52,mid,,,event,,1.0,,,,,recom,,week,close,,yes,foot,,,no,,event,,,,,1.0,1.0,,,,,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+504,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,55,mid,,,event,,1.0,,,,,recom,,week,close,,yes,foot,,,no,,event,1.0,,,,,1.0,1.0,1.0,,,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+505,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,84,mid,,,event,,1.0,,,,,recom,,week,topic,,yes,car,,,no,,event,,1.0,,,,,1.0,,,1.0,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+506,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,39,mid,,,event,,1.0,,,,,recom,,week,topic,,yes,car,,,no,,event,,1.0,,,,1.0,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,,,,,Katowice,Szopienice – Burowiec
+507,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,73,mid,,,event,,1.0,,,,,dirct,,week,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,,,,,,,,,1.0,,Spotakania z ciekawymi ludźmi,Katowice,Zawodzie
+508,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,75,mid,,,event,,1.0,,,,,dirct,,week,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,,1.0,1.0,,,1.0,,,,,1.0,,"Kabaret, dancinigi",Katowice,Zawodzie
+509,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,77,mid,,,event,,1.0,,,,,dirct,,week,topic,,yes,foot,,,no,,event,1.0,,,1.0,,1.0,1.0,1.0,,,,,,,,1.0,,Kabaret,Katowice,Zawodzie
+510,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,87,high,Mechanika,,event,,1.0,,,,,dirct,,week,group,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,,,,,,,,,1.0,,Wycieczki,Katowice,Zawodzie
+511,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,70,high,,,event,,1.0,,,,,dirct,,week,topic,,yes,foot,,,no,,event,,,,1.0,,1.0,1.0,1.0,,1.0,1.0,1.0,,,,1.0,,"Wycieczki, dancing, kabaret",Katowice,Zawodzie
+512,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,68,mid,,,event,,,1.0,,,,dirct,,week,group,,yes,car,,,no,,event,1.0,1.0,,,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,1.0,,Wycieczki,Katowice,Zawodzie
+513,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,76,high,,,event,,1.0,,,,,dirct,,week,close,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,,1.0,1.0,,,,,1.0,,"Wycieczki, dancing, kabaret",Katowice,Zawodzie
+514,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,69,high,,,event,,1.0,,,,,dirct,,week,topic,,yes,publc,"6, tramwaj",,no,,event,1.0,,1.0,1.0,,1.0,1.0,,,1.0,1.0,1.0,1.0,1.0,,1.0,,"Operetki, fotograficzne, malarskie, kulinarne, dietetyczne, wycieczki",Katowice,Zawodzie
+515,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,71,mid,,,event,,1.0,,,,,dirct,,week,topic,,yes,foot,,,no,,event,1.0,,,1.0,,1.0,1.0,,,1.0,1.0,,,,,,,,Katowice,Zawodzie
+516,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,69,mid,,,event,,1.0,,,,,dirct,,week,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Zawodzie
+517,ligot,MDK Ligota,MDK Ligota,M,10,none,,,event,,,,,1.0,rodzina,dirct,,month,topic,,yes,foot,,,no,,event,,1.0,,,,1.0,,,,,,,,,,,,,Katowice,Ligota – Panewniki
+518,ligot,MDK Ligota,MDK Ligota,K,44,high,,,event,1.0,,,1.0,,,dirct,,month,group,,yes,foot,,,no,,event,1.0,1.0,1.0,,,,1.0,1.0,,1.0,,,,,,,,,Katowice,Ligota – Panewniki
+519,ligot,MDK Ligota,MDK Ligota,M,33,mid,,,child,,,,1.0,,,outdr,,month,close,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,,,,,,,,,,Katowice,Ligota – Panewniki
+520,ligot,MDK Ligota,MDK Ligota,K,17,prim,,,event,,1.0,,,,,other,Z harcerstwa,first,other,Harcerstwo,no,car,,,no,,event,,1.0,,,,,,,,1.0,,1.0,,,,,,,Katowice,Kostuchna
+521,ligot,MDK Ligota,MDK Ligota,K,22,study,Pedagogika,Uniwersytet Śląski,event,,,1.0,,,,recom,,first,other,,no,publc,12,,no,,event,1.0,,,,,,,1.0,,,,,,,,,,,Bielsko Biała,
+522,ligot,MDK Ligota,MDK Ligota,M,17,prim,,,event,,1.0,,,,,none,,month,group,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,,,,,,,,,,Katowice,Ligota – Panewniki
+523,ligot,MDK Ligota,MDK Ligota,K,17,prim,,,child,,,,1.0,,,scmed,,month,close,,yes,foot,,,no,,trnsp,1.0,,,,,,,,,,,,,1.0,,,,,Katowice,
+524,ligot,MDK Ligota,MDK Ligota,M,15,prim,,,child,,,,1.0,,,recom,,first,group,,no,publc,29,,no,,trnsp,,,,,1.0,,1.0,,,,,,,,,,,,Katowice,Śródmieście
+525,ligot,MDK Ligota,MDK Ligota,K,15,prim,,,event,,1.0,,,,,recom,,week,group,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,,,,,,,,,,Katowice,Ligota – Panewniki
+526,ligot,MDK Ligota,MDK Ligota,K,39,mid,,,event,1.0,1.0,,,,,recom,,month,other,Występ dziecka,yes,foot,,,no,,event,,,,,1.0,,1.0,1.0,,1.0,,1.0,,,,,,,Katowice,Ligota – Panewniki
+527,ligot,MDK Ligota,MDK Ligota,K,32,mid,,,event,,1.0,,1.0,,,scmed,,first,close,,no,foot,,,no,,event,,,1.0,,,,,,,1.0,,1.0,,1.0,,,,,Katowice,Piotrowice – Ochojec
+528,ligot,MDK Ligota,MDK Ligota,K,35,mid,,,child,,,,1.0,,,recom,,month,group,,yes,car,,,no,,event,1.0,,,,,1.0,1.0,1.0,,,1.0,,,,,,,,Katowice,Kostuchna
+529,ligot,MDK Ligota,MDK Ligota,M,40,mid,,,event,1.0,,,,,,outdr,,month,topic,,yes,foot,,,no,,event,1.0,,,,,,1.0,,,,,,,,,,,,Katowice,Ligota – Panewniki
+530,ligot,MDK Ligota,MDK Ligota,M,49,high,Marketing,Górnośląska Wyższa Szkoła Handlowa,event,1.0,,,,,,wwmdk,,month,topic,,yes,foot,,,no,,event,,1.0,,,,1.0,,,,,,,,,,,,,Katowice,Ligota – Panewniki
+531,ligot,MDK Ligota,MDK Ligota,M,50,mid,,,event,1.0,,,,,,outdr,,first,close,,yes,foot,,,no,,event,1.0,,,,,,,,,,,,,1.0,,,,,Katowice,Ligota – Panewniki
+532,ligot,MDK Ligota,MDK Ligota,K,11,none,,,event,,,,,1.0,rodzina,other,Od  mamy,month,topic,,no,bike,,,no,,event,,,,,1.0,,1.0,,,,,,,,,,,,Katowice,Piotrowice – Ochojec
+533,ligot,MDK Ligota,MDK Ligota,K,13,prim,,,event,,1.0,,,,,recom,,less,group,,yes,foot,,,no,,event,,,,,1.0,,,1.0,,,,,,,,,,,Katowice,
+534,ligot,MDK Ligota,MDK Ligota,K,13,prim,,,event,,,,,1.0,rodzina,scmed,,less,group,,yes,foot,,,no,,event,,,1.0,,,,,,,,1.0,,,,,,,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+535,ligot,MDK Ligota,MDK Ligota,K,16,prim,,,event,1.0,,,,,,scmed,,week,topic,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,,,,,,,,,,Katowice,Ligota – Panewniki
+536,ligot,MDK Ligota,MDK Ligota,M,18,mid,,,event,1.0,,,,,,outdr,,less,topic,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,,,,,,,,,,Katowice,Ligota – Panewniki
+537,ligot,MDK Ligota,MDK Ligota,K,20,mid,,,event,1.0,,,,,,outdr,,less,free,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,,,,,,,,,,,,Katowice,Ligota – Panewniki
+538,ligot,MDK Ligota,MDK Ligota,K,18,mid,,,event,,1.0,,,,,dirct,,month,topic,,yes,foot,,,no,,event,1.0,,,,,,,,,1.0,,,,,,,,,Katowice,Ligota – Panewniki
+539,ligot,MDK Ligota,MDK Ligota,K,18,prim,,,event,1.0,1.0,,,,,outdr,,less,free,,yes,foot,,,no,,event,1.0,,,,,,1.0,,,,,,,,,,,,Katowice,Ligota – Panewniki
+540,ligot,MDK Ligota,MDK Ligota,K,15,prim,,,event,,1.0,,,,,scmed,,less,group,,yes,foot,,,no,,event,1.0,1.0,1.0,1.0,,,,,,1.0,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+541,ligot,MDK Ligota,MDK Ligota,K,40,mid,,,event,1.0,,,,,,outdr,,month,close,,yes,foot,,,no,,event,1.0,,,,,1.0,1.0,1.0,,,1.0,,,,,,,,Katowice,Ligota – Panewniki
+542,ligot,MDK Ligota,MDK Ligota,M,45,high,,,event,,,,1.0,,,outdr,,less,group,,no,car,,,no,,event,1.0,1.0,,,,,,,,1.0,,,,,,,,,Mikołów,
+543,ligot,MDK Ligota,MDK Ligota,K,14,prim,,,event,,1.0,,,,,outdr,,less,group,,yes,foot,,,no,,event,1.0,1.0,,,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Ligota – Panewniki
+544,ligot,MDK Ligota,MDK Ligota,M,34,mid,,,event,1.0,1.0,,,,,scmed,,first,close,,yes,car,,,no,,trnsp,1.0,1.0,1.0,1.0,,,1.0,1.0,,,,1.0,,,,1.0,,Wycieczki rowerowe,Katowice,Ligota – Panewniki
+545,ligot,MDK Ligota,MDK Ligota,K,20,study,Wychowanie przedszkolne,,event,1.0,,,,,,outdr,,first,topic,,yes,foot,,,no,,trnsp,,1.0,,,,,,,,,,,,,1.0,,,,Katowice,Ligota – Panewniki
+546,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,41,high,Pedagogika,Uniwersytet Śląski,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,,,,,1.0,,1.0,1.0,1.0,,,1.0,,,,Katowice,Bogucice
+547,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,35,high,Zarządzanie,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,www,,week,close,,yes,foot,,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Bogucice
+548,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,40,high,Pedagogika,Uniwersytet Śląski,child,,,,1.0,,,recom,,week,topic,,no,car,,,no,,event,,1.0,,1.0,,,,1.0,,1.0,,1.0,,,1.0,,,,Sosnowiec,
+550,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,60,mid,,,event,,1.0,,,,,recom,,week,topic,,yes,foot,,,no,,event,,,1.0,,,,,1.0,1.0,,,,,,,,,,Katowice,Giszowiec
+551,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,61,mid,,,event,,1.0,,,,,recom,,week,topic,,no,car,,,yes,Korki,trnsp,,1.0,,,,,1.0,,,1.0,,1.0,,,,,,,Chorzów,
+552,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,72,high,,,event,,1.0,,,,,outdr,,week,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,,,,1.0,1.0,,,,,,,,1.0,,Opera,Katowice,Giszowiec
+553,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,58,mid,,,event,,,1.0,,,,outdr,,less,topic,,yes,foot,,,no,,event,,,,1.0,,,1.0,,1.0,,,,,,,1.0,,"Opery, pieśni francuskie",Katowice,Giszowiec
+554,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,72,mid,,,event,,1.0,,,,,outdr,,week,topic,,yes,foot,,,no,,trnsp,1.0,1.0,,,,,1.0,1.0,1.0,,,,,,,1.0,,Opera,Katowice,Giszowiec
+555,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,74,mid,,,event,,1.0,,,,,outdr,,less,topic,,yes,foot,,,no,,event,,,,1.0,,,1.0,1.0,,,,,,,,,,,Katowice,Giszowiec
+556,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,57,mid,,,event,1.0,,,,,,wwmdk,,month,topic,,no,car,,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,,,,,,,,,,,Katowice,Szopienice – Burowiec
+557,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,33,high,Pedagogika,Uniwersytet Śląski,event,,1.0,,,,,scmed,,week,other,,yes,car,,,no,,event,1.0,1.0,,,,1.0,1.0,1.0,,1.0,1.0,,,,,,,,,
+558,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,39,prim,,,event,,1.0,,,,,guide,,week,topic,,yes,publc,15,,no,,trnsp,,1.0,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,
+559,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,72,mid,,,event,,,1.0,,,,guide,,month,topic,,yes,publc,15,,no,,event,1.0,1.0,1.0,,,1.0,,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+560,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,67,mid,,,event,,,1.0,,,,outdr,,less,close,,yes,foot,,,no,,event,,,,,1.0,,1.0,1.0,,,,,,,,,,,,
+561,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,73,mid,,,event,1.0,,,,,,guide,,week,other,aktywny tryb zycia,no,publc,"13,20",,no,,event,,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Koszutka
+562,podl,MDK Podlesie,MDK Południe,K,39,high,,,child,,,,1.0,,,recom,,week,topic,,yes,car,,,no,,event,,,1.0,,,,1.0,1.0,,,,1.0,,,1.0,,,,Katowice,Podlesie
+563,podl,MDK Podlesie,MDK Południe,K,45,high,,,child,,,,1.0,,,scmed,,week,topic,,yes,publc,973,,no,,trnsp,1.0,,1.0,1.0,,1.0,,,,,,1.0,,,1.0,,Plastyczne,,Katowice,Piotrowice – Ochojec
+564,podl,MDK Podlesie,MDK Południe,K,49,mid,,,child,,,,1.0,,,outdr,,week,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,,,1.0,1.0,,,,,,,,Katowice,Podlesie
+565,podl,MDK Podlesie,MDK Południe,K,35,high,,,child,,,,1.0,,,outdr,,week,close,,yes,foot,,,no,,event,,1.0,,,,,1.0,,,1.0,1.0,1.0,,,,,,,Katowice,Podlesie
+566,podl,MDK Podlesie,MDK Południe,K,32,mid,,,event,,,1.0,,,,recom,,week,other,,no,publc,,,no,,trnsp,,,,1.0,,1.0,1.0,,,,1.0,,,,,,,,Katowice,Ligota – Panewniki
+567,podl,MDK Podlesie,MDK Południe,K,29,mid,,,event,,1.0,,,,,outdr,,week,close,,yes,bike,,,no,,event,,,,,1.0,,,,1.0,,,1.0,,,,,,,Katowice,Podlesie
+568,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,62,mid,,,child,,,,1.0,,,wwmdk,,week,topic,,yes,foot,,,no,,event,1.0,1.0,,,,,1.0,1.0,,1.0,1.0,,,,1.0,,,,Katowice,Giszowiec
+569,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,63,mid,,,child,,,,1.0,,,outdr,,week,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,,1.0,,,,,,,,,Katowice,Giszowiec
+570,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,63,mid,,,child,,,,1.0,,,recom,,less,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,,,,1.0,1.0,,1.0,,,,,,,,,Katowice,Giszowiec
+571,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,40,mid,,,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,1.0,,,,1.0,1.0,,,1.0,,,1.0,1.0,,,,,Katowice,Giszowiec
+572,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,37,high,Filologia,Uniwersytet Śląski,child,,,,1.0,,,outdr,,week,other,Ruch dla dzieci,yes,foot,,,no,,event,1.0,1.0,1.0,1.0,,,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Giszowiec
+573,murck,MDK Murcki,MDK Południe,K,55,mid,,,event,,,1.0,,,,recom,,week,other,Poprawa komdycji,yes,foot,,,no,,event,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0,,,,1.0,,,,Katowice,Murcki
+574,murck,MDK Murcki,MDK Południe,K,67,mid,,,event,,1.0,,,,,outdr,,week,close,,yes,foot,,,no,,event,1.0,,,,,,1.0,1.0,,,1.0,,,,,,,,Katowice,Murcki
+576,ligot,MDK Ligota,MDK Ligota,M,42,high,Górnictwo,Politechnika Śląska,child,,,,1.0,,,recom,,week,topic,,yes,car,,,no,,event,1.0,1.0,1.0,,,1.0,1.0,,,,1.0,,,1.0,,,,,,
+577,ligot,MDK Ligota,MDK Ligota,M,37,high,Elektronika,Politechnika Śląska,child,,,,1.0,,,outdr,,week,topic,,no,car,,,no,,trnsp,1.0,1.0,1.0,,,,1.0,,,1.0,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+578,ligot,MDK Ligota,MDK Ligota,K,14,prim,,,event,,,,,1.0,rodzina,other,Z zajęć ,week,topic,,no,car,,,no,,event,1.0,,1.0,,,,,1.0,,,1.0,1.0,,,1.0,,,,Katowice,Piotrowice – Ochojec
+579,ligot,MDK Ligota,MDK Ligota,K,15,prim,,,event,,,,,1.0,rodzina,other,Z zajec,week,topic,,yes,car,,,no,,event,,,,,1.0,1.0,1.0,1.0,,,,,,,,,,,Katowice,Ligota – Panewniki
+580,ligot,MDK Ligota,MDK Ligota,K,41,high,Geodezja i kartografia,Akademia Górniczo Hutnicza,child,,,,1.0,,,recom,,week,topic,,yes,car,,,no,,event,,,,,1.0,1.0,1.0,1.0,,,,,,,1.0,,Dla dzieci,,Katowice,Ligota – Panewniki
+581,ligot,MDK Ligota,MDK Ligota,M,16,prim,,,child,,,,1.0,,,recom,,less,group,,yes,car,,,no,,trnsp,1.0,1.0,1.0,,,1.0,1.0,,,,,,,1.0,,,,,Katowice,Ligota – Panewniki
+582,ligot,MDK Ligota,MDK Ligota,M,39,mid,,,child,,,,1.0,,,recom,,week,group,,yes,car,,,no,,event,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0,,1.0,1.0,1.0,,,,,
+583,ligot,MDK Ligota,MDK Ligota,K,41,high,Zarządzanie,Wyższa Szkoła Zarządzania Ochroną Pracy,child,,,,1.0,,,recom,,week,close,,yes,car,,,no,,event,,,,,1.0,,1.0,,,,1.0,1.0,,,1.0,,Śpiew,,Katowice,Ligota – Panewniki
+584,ligot,MDK Ligota,MDK Ligota,K,8,prim,,,event,,,,,1.0,rodzina,recom,,week,topic,,yes,car,,,no,,event,,,1.0,,,,1.0,,,,1.0,1.0,,1.0,1.0,,Śpiew,,Katowice,Ligota – Panewniki
+585,ligot,MDK Ligota,MDK Ligota,K,34,mid,,,child,,,,1.0,,,recom,,week,close,,yes,car,,,yes,Korki,event,1.0,,,,,,1.0,,,1.0,1.0,,,,1.0,,Językowe,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+586,ligot,MDK Ligota,MDK Ligota,K,42,high,Budownictwo,Politechnika Krakowska,child,,,,1.0,,,dirct,,week,topic,,yes,car,,,yes,Korki,event,1.0,,,,,,1.0,,,,1.0,1.0,,,1.0,,Joga,,Katowice,Ligota – Panewniki
+587,ligot,MDK Ligota,MDK Ligota,K,66,high,Medycyna,,child,,,,1.0,,,wwmdk,,month,topic,,no,car,,,yes,Korki,event,1.0,,,,,,1.0,1.0,,,,,,,1.0,,Językowe,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+588,ligot,MDK Ligota,MDK Ligota,M,6,none,,,event,,1.0,,,,,dirct,,week,topic,,yes,car,,,yes,Korki,event,,,,,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,,"Pilka nozna, judo",,Katowice,Ligota – Panewniki
+589,ligot,MDK Ligota,MDK Ligota,M,55,mid,,,child,,,,1.0,,,outdr,,week,topic,,yes,publc,913,,no,,event,,,,,1.0,1.0,1.0,,,1.0,1.0,,,,,,,,Katowice,Ligota – Panewniki
+590,ligot,MDK Ligota,MDK Ligota,K,8,prim,,,event,,,,,1.0,rodzina,recom,,week,topic,,no,car,,,no,,event,,,,,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,,1.0,1.0,,"Robotyka, malowanie, ",,Katowice,Piotrowice – Ochojec
+591,ligot,MDK Ligota,MDK Ligota,M,46,high,Ekonomia,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,recom,,week,topic,,no,car,,,no,,event,,,1.0,,,1.0,,,,1.0,1.0,,1.0,,,,,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+592,ligot,MDK Ligota,MDK Ligota,K,30,mid,,,child,,,,1.0,,,wwmdk,,week,close,,yes,foot,,,no,,event,,,1.0,,,,1.0,1.0,,,1.0,,,,1.0,,"Językowe, karate, aerobik",,Katowice,Ligota – Panewniki
+593,ligot,MDK Ligota,MDK Ligota,K,6,prim,,,event,,,,,1.0,rodzina,recom,,week,close,,yes,car,,,no,,event,,,1.0,,,1.0,1.0,,,1.0,1.0,1.0,,1.0,1.0,,Nauka gry na skrzypcach,,Katowice,Ligota – Panewniki
+594,ligot,MDK Ligota,MDK Ligota,K,6,prim,,,event,,,,,1.0,rodzina,recom,,week,topic,,yes,car,,,yes,Korki,event,,,1.0,,,,1.0,1.0,,1.0,1.0,1.0,,,1.0,,Pianino,,Katowice,Brynów Część Wschodnia – Os. Zgrzebnioka
+595,ligot,MDK Ligota,MDK Ligota,M,13,prim,,,event,,,,,1.0,rodzina,recom,,week,close,,yes,car,,,yes,Korki,event,,,,,1.0,1.0,1.0,,,,,,,,,,,,Katowice,Kostuchna
+596,ligot,MDK Ligota,MDK Ligota,M,49,prim,,,child,,,,1.0,,,dirct,,week,topic,,yes,car,,,no,,event,1.0,,,,,1.0,,1.0,,,1.0,,,1.0,1.0,,Plywanie,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+598,ksztk,MDK Koszutka,MDK Koszutka,K,16,prim,,,child,,,,1.0,,,recom,,less,group,,yes,car,,,no,,trnsp,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,,1.0,,,,,,,,,Katowice,Bogucice
+599,ksztk,MDK Koszutka,MDK Koszutka,K,8,none,,,event,,,,,1.0,rodzina,recom,,first,topic,,no,car,,,no,,event,1.0,,1.0,1.0,,1.0,,,,1.0,1.0,1.0,1.0,1.0,,,,,Katowice,Bogucice
+600,ksztk,MDK Koszutka,MDK Koszutka,K,36,mid,,,child,,,,1.0,,,none,,first,topic,,yes,foot,,,no,,event,,,,,1.0,,,1.0,1.0,,,1.0,1.0,1.0,1.0,,,,Katowice,Koszutka
+601,ksztk,MDK Koszutka,MDK Koszutka,M,14,prim,,,event,,1.0,,,,,www,,first,other,Rodzice mnie wysłali,no,publc,6,,no,,event,1.0,1.0,1.0,1.0,,,,,,,1.0,,,1.0,,1.0,,Basen,Katowice,Dąb
+602,ksztk,MDK Koszutka,MDK Koszutka,M,13,prim,,,event,,1.0,,,,,www,,first,other,Rodzice mnie wysłali,no,publc,6,,no,,event,1.0,1.0,1.0,1.0,,,1.0,,,,1.0,,,1.0,,,,,Katowice,Dąb
+603,ksztk,MDK Koszutka,MDK Koszutka,M,12,prim,,,event,,1.0,,,,,www,,first,other,Rodzice mnie wysłali,no,publc,6,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,,,,,,1.0,1.0,,1.0,,Basen,Katowice,Dąb
+604,ksztk,MDK Koszutka,MDK Koszutka,K,66,mid,,,child,,,,1.0,,,outdr,,less,topic,,no,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,,,,,,,,1.0,,,,Katowice,Dąb
+607,murck,MDK Murcki,MDK Południe,K,81,prim,,,event,,1.0,,,,,outdr,,week,group,,yes,foot,,,no,,event,,,,1.0,,1.0,1.0,1.0,,,1.0,1.0,,,,,,,Katowice,Murcki
+608,murck,MDK Murcki,MDK Południe,K,76,prim,,,event,,1.0,,,,,outdr,,week,group,,yes,foot,,,no,,event,,,,1.0,,1.0,1.0,1.0,,1.0,1.0,1.0,,,,,,,Katowice,Murcki
+609,murck,MDK Murcki,MDK Południe,K,81,prim,,,event,,,1.0,,,,outdr,,week,close,,yes,foot,,,no,,event,,,,1.0,,,1.0,,,,,,,,,,,,Katowice,Murcki
+610,murck,MDK Murcki,MDK Południe,K,79,mid,,,event,,,1.0,,,,outdr,,week,group,,yes,foot,,,no,,event,1.0,,1.0,1.0,,,1.0,1.0,,1.0,1.0,,,,,1.0,,Opera,Katowice,Murcki
+611,murck,MDK Murcki,MDK Południe,K,82,prim,,,event,,,1.0,,,,recom,,week,group,,yes,foot,,,no,,event,,,1.0,1.0,,,,1.0,,,1.0,1.0,,,,1.0,,Opera,Katowice,Murcki
+613,murck,MDK Murcki,MDK Południe,K,49,mid,,,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,yes,Problemy na drodze,event,,,,1.0,,,1.0,,,,,,,,1.0,,,,Katowice,Murcki
+614,murck,MDK Murcki,MDK Południe,K,47,high,Pedagogika,Uniwersytet Śląski,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,yes,Problemy na drodze,event,1.0,1.0,,,,1.0,1.0,1.0,,,,,,,,,,,Katowice,Murcki
+615,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,45,mid,,,event,1.0,,,,,,outdr,,month,close,,yes,bike,,,no,,event,,,1.0,,,,1.0,1.0,,1.0,1.0,1.0,,,,,,,Katowice,Bogucice
+616,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,44,high,,,event,1.0,,,,,,outdr,,month,topic,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,1.0,,,,1.0,,,,,Katowice,Bogucice
+617,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,68,mid,,,event,1.0,,,,,,outdr,,month,topic,,yes,foot,,,no,,event,1.0,,,,,,1.0,1.0,,1.0,1.0,,,1.0,,,,,Katowice,Bogucice
+618,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,61,mid,,,event,1.0,,,,,,outdr,,month,topic,,yes,foot,,,no,,event,,,,1.0,,,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Bogucice
+619,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,11,prim,,,event,,1.0,,,,,wwmdk,,week,close,,yes,foot,,,no,,event,1.0,,1.0,,,,,,,1.0,1.0,,,,,,,,Katowice,Bogucice
+620,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,37,high,Filologia,Uniwersytet Śląski,event,1.0,1.0,,,,,wwmdk,,month,group,,yes,foot,,,no,,trnsp,1.0,1.0,1.0,1.0,,1.0,1.0,,,,,,,,,,,,Katowice,Bogucice
+621,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,39,mid,,,event,1.0,,,1.0,,,outdr,,month,free,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,,,1.0,,,,,,,,,Katowice,Bogucice
+622,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,72,mid,,,event,1.0,,,,,,recom,,month,close,,yes,foot,,,no,,event,1.0,,,,,,1.0,1.0,,1.0,,,,,,,,,Katowice,Bogucice
+623,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,45,mid,,,child,,,,1.0,,,outdr,,month,free,,yes,foot,,,no,,event,1.0,1.0,1.0,,,,,,,,1.0,,,,,,,,Katowice,Bogucice
+624,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,38,mid,,,event,1.0,,,1.0,,,recom,,first,group,,no,car,,,no,,event,,,1.0,,,,1.0,,,,,1.0,,,,,,,Sosnowiec,
+625,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,8,prim,,,event,,,,,1.0,rodzina,recom,,first,group,,no,car,,,no,,event,,1.0,,,,1.0,1.0,1.0,,1.0,1.0,1.0,,,,,,,Sosnowiec,
+626,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,43,mid,,,event,,,,1.0,,,outdr,,less,close,,yes,foot,,,no,,event,1.0,,1.0,,,,,,,1.0,,,,,,,,,Katowice,Bogucice
+627,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,10,prim,,,event,,,,,1.0,rodzina,outdr,,less,group,,yes,foot,,,no,,event,,,,,1.0,,,,,,1.0,1.0,,1.0,,,,,Katowice,Bogucice
+628,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,41,mid,,,event,,1.0,,,,,outdr,,first,topic,,no,publc,657,,no,,event,1.0,,,,,1.0,1.0,1.0,,1.0,,,,,,,,,Katowice,Ligota – Panewniki
+629,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,20,study,Filologia,Kolegium Nauk Społecznych i Filologi Obcych,event,,1.0,,,,,recom,,first,topic,,no,car,,,no,,event,,1.0,,,,,1.0,,,,,,,,,,,,Piekary Ślaskie,
+630,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,20,study,Psychologia,Uniwersytet Śląski,event,,1.0,,,,,recom,,first,topic,,no,car,,,no,,event,1.0,1.0,,,,1.0,1.0,1.0,,,,,,,,,,,Katowice,Osiedle Tysiąclecia
+631,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,64,mid,,,event,1.0,,,,,,outdr,,first,close,,yes,foot,,,no,,event,,,,,1.0,,1.0,,,,,,,,,,,,Katowice,Bogucice
+632,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,67,mid,,,event,1.0,,,,,,outdr,,less,group,,yes,foot,,,no,,event,,,,,1.0,,1.0,,,,,,,,,,,,Katowice,Bogucice
+633,kstch,MDK Kostuchna,MDK Południe,K,33,high,Turystyka i rekreacja,Górnośląska Wyższa Szkoła Handlowa,event,,1.0,,1.0,,,outdr,,month,close,,yes,foot,,,no,,event,,,1.0,,,,1.0,1.0,,,1.0,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+634,piotr,MDK Piotrowice,MDK Południe,M,7,prim,,,event,,,,,1.0,rodzina,recom,,less,close,,yes,bike,,,no,,event,,,1.0,,,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,1.0,,Ukladanie klockow,Katowice,Piotrowice – Ochojec
+635,piotr,MDK Piotrowice,MDK Południe,M,51,mid,,,event,1.0,,,1.0,,,outdr,,less,topic,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,1.0,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+636,piotr,MDK Piotrowice,MDK Południe,K,71,mid,,,event,,1.0,,,,,outdr,,less,close,,yes,foot,,,no,,trnsp,,,1.0,,,1.0,1.0,1.0,,1.0,,,,,,,,,Katowice,Piotrowice – Ochojec
+637,piotr,MDK Piotrowice,MDK Południe,M,48,high,Historia,Uniwersytet Gdański,event,,,,1.0,,,other,Przez przypadek,less,other,Przypadek,yes,foot,,,no,,trnsp,1.0,,,,,,1.0,,1.0,,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+638,piotr,MDK Piotrowice,MDK Południe,K,40,high,,,event,1.0,,,1.0,,,outdr,,less,close,,yes,bike,,,no,,event,,,,,1.0,,1.0,1.0,,,,,,,,,,,Katowice,Piotrowice – Ochojec
+639,ksztk,MDK Koszutka,MDK Koszutka,K,9,none,,,event,,1.0,,,,,recom,,week,topic,,no,publc,50,,no,,trnsp,1.0,,1.0,1.0,,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,,,,Katowice,
+640,ksztk,MDK Koszutka,MDK Koszutka,K,10,none,,,event,,1.0,,,,,recom,,week,topic,,no,car,,,no,,trnsp,1.0,1.0,1.0,,,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,,,,Mikołów,
+641,ksztk,MDK Koszutka,MDK Koszutka,K,36,high,Historia,Uniwersytet Śląski,child,,,,1.0,,,recom,,week,other,Opieka nad dzieckiem,no,publc,7,,no,,trnsp,1.0,1.0,1.0,1.0,,,1.0,,,,1.0,,,,1.0,,Przyrodnicze i plastyczne,,Katowice,Załęże
+642,ksztk,MDK Koszutka,MDK Koszutka,K,41,high,Ekonomia,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,other,Ze szkoly ,less,topic,,yes,car,,,no,,event,1.0,1.0,1.0,1.0,,1.0,,,,,1.0,,,,1.0,,Taneczne,,Katowice,Koszutka
+643,ksztk,MDK Koszutka,MDK Koszutka,M,8,none,,,event,,,,,1.0,rodzina,outdr,,week,topic,,no,car,,,no,,event,1.0,1.0,1.0,1.0,,1.0,,,,,,,,,,,,,Katowice,
+644,ksztk,MDK Koszutka,MDK Koszutka,K,43,high,Marketing,Uniwersytet Śląski,child,,,,1.0,,,wwmdk,,first,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,,,1.0,,1.0,,,1.0,1.0,,,,,,,Katowice,Koszutka
+645,ksztk,MDK Koszutka,MDK Koszutka,K,36,mid,,,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,,,,1.0,,,,1.0,1.0,,,1.0,1.0,,1.0,,Manualne,,Katowice,Koszutka
+646,ksztk,MDK Koszutka,MDK Koszutka,M,56,mid,,,child,,,,1.0,,,outdr,,week,other,Zajęcie dla dziecka w czasie pracy rodziców,yes,foot,,,no,,event,1.0,,1.0,1.0,,,1.0,,,1.0,,1.0,1.0,1.0,,1.0,,Zajęcia edukacyjne,Katowice,Koszutka
+647,ksztk,MDK Koszutka,MDK Koszutka,M,10,none,,,event,,,,,1.0,rodzina,recom,,week,free,,no,publc,11,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,,1.0,,1.0,,,,,,,Katowice,Bogucice
+648,ksztk,MDK Koszutka,MDK Koszutka,K,38,high,Socjologia,Górnośląska Wyższa Szkoła Handlowa,child,,,,1.0,,,guide,,week,close,,yes,foot,,,no,,event,1.0,,1.0,,,,1.0,,,1.0,,1.0,,,1.0,,Plastyczne,,Katowice,Koszutka
+649,ksztk,MDK Koszutka,MDK Koszutka,M,32,high,Ekonomia,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,wwmdk,,month,close,,yes,car,,,no,,event,1.0,1.0,,1.0,,1.0,1.0,1.0,,1.0,1.0,,1.0,1.0,1.0,,,,Katowice,Koszutka
+650,ksztk,MDK Koszutka,MDK Koszutka,K,36,high,Psychologia,Uniwersytet Śląski,child,,,,1.0,,,dirct,,week,close,,yes,foot,,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,Katowice,Koszutka
+651,ksztk,MDK Koszutka,MDK Koszutka,M,40,mid,,,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Edukacyjne,Kreatywne anagażujące dzieci,Katowice,Koszutka
+654,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,59,mid,,,event,,,1.0,,,,outdr,,month,topic,,yes,foot,,,no,,event,,,1.0,,,,,,,,1.0,,1.0,,,,,,Katowice,Janów – Nikiszowiec
+655,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,57,prim,,,event,1.0,,,,,,none,,week,close,,no,bike,,,no,,event,1.0,,,,,1.0,1.0,1.0,,1.0,1.0,1.0,,,,,,,Katowice,Janów – Nikiszowiec
+656,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,37,high,Chemia,Uniwersytet Śląski,event,,,1.0,,,,recom,,less,close,,yes,bike,,,no,,trnsp,1.0,,,,,1.0,,,,1.0,,,1.0,1.0,,,,,Katowice,Giszowiec
+657,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,29,high,,,event,,1.0,,,,,none,,less,topic,,no,publc,,,no,,trnsp,1.0,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,Katowice,Śródmieście
+658,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,59,prim,,,event,,,1.0,,,,recom,,month,close,,yes,foot,,,no,,event,,,,,1.0,,,,,,1.0,,,,,,,,Katowice,Giszowiec
+659,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,34,mid,,,event,,,1.0,,,,wwmdk,,less,close,,yes,foot,,,no,,event,1.0,,,,,1.0,,,1.0,,,,,,,1.0,,"Kultura lokalna, historia dzielnicy",Katowice,Giszowiec
+660,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,M,79,mid,,,event,1.0,,,,,,recom,,month,group,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,,,,1.0,,,,,,,,Katowice,Giszowiec
+661,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,59,high,Pedagogika,Uniwersytet Śląski,event,,,1.0,,,,guide,,month,topic,,yes,foot,,,yes,"Problemy z poruszaniem się, nieprzystosowany obiekt",event,,,,,1.0,,,,,,1.0,1.0,1.0,,,,,,Katowice,Giszowiec
+662,gisz,MDK Giszowiec,MDK Szopienice-Giszowiec,K,60,mid,,,event,,,1.0,,,,dirct,,month,close,,yes,foot,,,no,,event,,,,1.0,,1.0,,,,,,1.0,,,,,,,Katowice,Giszowiec
+663,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,47,high,Prawo,Uniwersytet Śląski,event,,,1.0,,,,dirct,,month,topic,,no,foot,,,no,,event,1.0,,,,,1.0,,1.0,1.0,,1.0,1.0,1.0,,,,,,Katowice,Koszutka
+664,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,41,high,,,event,,,1.0,,,,recom,,month,topic,,yes,foot,,,no,,event,1.0,,,,,1.0,,,1.0,1.0,1.0,1.0,,,,,,,,
+665,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,M,39,mid,,,event,,1.0,,,,,www,,less,free,,yes,foot,,,no,,trnsp,1.0,,1.0,,,,,,,,,,1.0,1.0,1.0,,,,Katowice,Bogucice
+666,boguc,MDK Bogucice,MDK Bogucice-Zawodzie,K,39,high,,,child,,,,1.0,,,dirct,,less,topic,,yes,foot,,,yes,Poruszanie się z wózkiem,event,,,,,1.0,,,,,,,,,,,1.0,,"Zajęcia rozwojowe dla dzieci, integracja pokoleniowa",Katowice,Koszutka
+667,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,33,mid,,,event,,,1.0,,,,scmed,,less,topic,,no,bike,,,yes,Brak dróg rowerowych,trnsp,1.0,,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,Katowice,Śródmieście
+668,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,30,study,,Uniwersytet Śląski,event,,1.0,,,,,wwmdk,,less,topic,,no,foot,,,no,,event,1.0,1.0,,,,1.0,,,,1.0,1.0,1.0,1.0,,,,,,Katowice,Giszowiec
+669,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,27,high,Produkcja filmowa,Uniwersytet Śląski,event,,1.0,,,,,scmed,,first,group,,no,publc,,,yes,Zła komunikacja,event,,1.0,,,,1.0,1.0,1.0,,1.0,1.0,,,,,1.0,,Malarskie,Chorzów,
+670,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,56,high,,,event,,,1.0,,,,dirct,,week,other,lubię wydarzenia tego domu kultury,yes,foot,,,no,,event,,,,1.0,,1.0,,,,,,,,,1.0,,Senioralne,,Katowice,Zawodzie
+671,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,39,mid,,,child,,,,1.0,,,dirct,,less,topic,,yes,foot,,,no,,event,1.0,,,,,1.0,1.0,,,,1.0,,,,,1.0,,Zajęcia międzypokoleniowe,Katowice,Zawodzie
+672,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,40,high,Marketing,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,recom,,month,close,,yes,foot,,,yes,Poruszanie się z wózkiem,event,,,,,1.0,1.0,1.0,,,,1.0,1.0,,,,,,,Katowice,Zawodzie
+673,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,41,mid,,,child,,,,1.0,,,scmed,,week,other,wyjście z dzieckiem na dzień bajtla,yes,bike,,,no,,event,1.0,1.0,,,,1.0,1.0,,1.0,,,1.0,,,1.0,,,,Katowice,Zawodzie
+674,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,29,high,Biologia,Uniwersytet Śląski,child,,,,1.0,,,other,dziecko wie od innych dzieci,less,topic,,no,car,,,yes,Parkowanie,event,1.0,,,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,Katowice,Dąb
+675,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,35,high,,Uniwersytet Śląski,child,,,,1.0,,,wwmdk,,less,free,,yes,bike,,,yes,Brak dróg rowerowych,trnsp,,1.0,,,,,,1.0,1.0,1.0,,,1.0,,,,,,,
+676,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,34,high,,,child,,,,1.0,,,recom,,month,topic,,no,foot,,,no,,event,,1.0,,,,,,,1.0,,1.0,1.0,,,,,,,Katowice,Koszutka
+677,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,30,mid,,,event,,,1.0,,,,wwmdk,,first,close,,no,car,,,no,,event,,,,1.0,,,,1.0,,,1.0,1.0,1.0,1.0,,,,,,
+678,podl,MDK Podlesie,MDK Południe,K,37,high,,,event,,,1.0,,,,dirct,,less,topic,,yes,bike,,,no,,event,1.0,,1.0,,,1.0,1.0,,1.0,,,1.0,,,,,,,Katowice,Podlesie
+679,podl,MDK Podlesie,MDK Południe,K,34,mid,,,event,,1.0,,,,,guide,,month,close,,no,bike,,,no,,trnsp,1.0,,,,,1.0,1.0,1.0,,1.0,1.0,1.0,,,,,,,Katowice,Zarzecze
+680,podl,MDK Podlesie,MDK Południe,M,36,high,Geologia,Politechnika Śląska,event,,,1.0,,,,recom,,first,topic,,yes,foot,,,no,,event,,,,,1.0,,1.0,1.0,,,,,1.0,1.0,,,,,Katowice,Podlesie
+681,podl,MDK Podlesie,MDK Południe,K,34,mid,,,event,,,1.0,,,,scmed,,month,free,,yes,foot,,,no,,trnsp,,1.0,,1.0,,1.0,1.0,1.0,,1.0,,1.0,,,,,,,Katowice,Podlesie
+682,podl,MDK Podlesie,MDK Południe,M,38,high,,Uniwersytet Śląski,event,1.0,1.0,,,,,wwmdk,,less,topic,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,1.0,1.0,1.0,,,,,,,,,Katowice,Podlesie
+683,podl,MDK Podlesie,MDK Południe,M,47,high,,,event,1.0,,,,,,guide,,month,topic,,no,car,,,yes,Korki,event,1.0,,,1.0,,1.0,1.0,,,1.0,,,1.0,,1.0,,,,Katowice,Zarzecze
+684,podl,MDK Podlesie,MDK Południe,K,40,high,,Uniwersytet Ekonomiczny w Katowicach,event,,1.0,,,,,dirct,,week,close,,yes,foot,,,no,,trnsp,,,1.0,,,,,1.0,1.0,,1.0,1.0,,,,,,,Katowice,Podlesie
+685,podl,MDK Podlesie,MDK Południe,M,33,high,Matematyka,Uniwersytet Śląski,event,,,,1.0,,,none,,less,group,,yes,foot,,,no,,event,,,,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,Katowice,Zarzecze
+686,podl,MDK Podlesie,MDK Południe,K,29,study,,,event,,,1.0,,,,recom,,month,close,,yes,foot,,,no,,trnsp,1.0,,,,,1.0,1.0,,,1.0,,,,1.0,,,,,Katowice,Podlesie
+687,podl,MDK Podlesie,MDK Południe,M,32,high,Finanse,Uniwersytet Ekonomiczny w Katowicach,event,,,1.0,,,,none,,less,topic,,no,publc,37,,yes,Zła komunikacja,event,1.0,1.0,,,,1.0,1.0,,,1.0,1.0,,1.0,1.0,1.0,,,,Katowice,Piotrowice – Ochojec
+688,podl,MDK Podlesie,MDK Południe,K,32,high,,,event,,,1.0,,,,dirct,,month,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,,,1.0,1.0,,,,,,,,Katowice,Podlesie
+689,podl,MDK Podlesie,MDK Południe,K,32,high,,Uniwersytet Śląski,event,,,1.0,,,,recom,,less,free,,yes,foot,,,no,,trnsp,1.0,,,,,,,1.0,1.0,,,1.0,,,,,,,Katowice,Podlesie
+690,podl,MDK Podlesie,MDK Południe,M,40,high,,Politechnika Śląska,event,,,1.0,,,,none,,month,topic,,no,bike,,,no,,event,,,1.0,,,1.0,1.0,1.0,,,1.0,,,,,1.0,,Wydarzenia sportowe,Katowice,Piotrowice – Ochojec
+691,piotr,MDK Piotrowice,MDK Południe,M,51,mid,,,event,,,1.0,,,,guide,,month,close,,yes,foot,,,yes,Schody,event,1.0,,1.0,,,1.0,1.0,1.0,1.0,,,1.0,1.0,,,,,,Katowice,Kostuchna
+692,piotr,MDK Piotrowice,MDK Południe,K,51,prim,,,event,,1.0,,,,,dirct,,less,topic,,yes,foot,,,no,,event,,,,1.0,,1.0,1.0,,,1.0,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+693,piotr,MDK Piotrowice,MDK Południe,K,44,high,Pedagogika,Uniwersytet Śląski,child,,,,1.0,,,recom,,first,group,,no,car,,,yes,Parkowanie,event,,,1.0,,,1.0,1.0,,,1.0,1.0,1.0,,,,,,,Katowice,Zarzecze
+694,piotr,MDK Piotrowice,MDK Południe,M,50,prim,,,event,1.0,,,,,,none,,month,close,,yes,foot,,,yes,Problemy z poruszaniem się,event,,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+695,piotr,MDK Piotrowice,MDK Południe,M,59,high,,,event,,1.0,,,,,dirct,,month,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,,1.0,,1.0,,,,1.0,,"Brydż, skat, sląska godko",Katowice,Piotrowice – Ochojec
+696,piotr,MDK Piotrowice,MDK Południe,M,57,mid,,,event,,,1.0,,,,dirct,,week,close,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,,,,1.0,,1.0,,,,,,,
+697,piotr,MDK Piotrowice,MDK Południe,M,49,mid,,,event,,1.0,,,,,outdr,,month,close,,yes,foot,,,no,,event,,,,1.0,,,1.0,1.0,,1.0,1.0,1.0,1.0,,,,,,,
+698,piotr,MDK Piotrowice,MDK Południe,K,52,mid,,,child,,,,1.0,,,recom,,month,group,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,,,1.0,1.0,,,1.0,,Zdrowotne,,Katowice,Piotrowice – Ochojec
+699,piotr,MDK Piotrowice,MDK Południe,M,49,mid,,,event,,,1.0,,,,dirct,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,,1.0,,1.0,1.0,,,,,,,Katowice,Kostuchna
+700,piotr,MDK Piotrowice,MDK Południe,M,65,mid,,,event,,,1.0,,,,dirct,,week,close,,yes,foot,,,yes,Problemy z poruszaniem się,event,,,,,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,,,1.0,,,,Katowice,Piotrowice – Ochojec
+701,piotr,MDK Piotrowice,MDK Południe,M,60,prim,,,event,,,1.0,,,,recom,,month,close,,yes,foot,,,no,,trnsp,1.0,,,,,1.0,1.0,,,1.0,1.0,,,,,,,,,
+702,zarze,MDK Zarzecze,MDK Południe,K,34,high,Finanse,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,none,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,,,1.0,1.0,,1.0,,1.0,,Gry komputerowe,Katowice,Zarzecze
+703,zarze,MDK Zarzecze,MDK Południe,M,59,mid,,,event,,1.0,,,,,recom,,week,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,,,,1.0,,,,1.0,,"Spotkanie senioralne, uniwersytet trzeciego wieku",Katowice,Zarzecze
+704,zarze,MDK Zarzecze,MDK Południe,M,51,mid,,,event,,,1.0,,,,dirct,,month,close,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,,,1.0,1.0,1.0,1.0,,,,,,Katowice,Zarzecze
+705,zarze,MDK Zarzecze,MDK Południe,K,64,high,Matematyka,Uniwersytet Śląski,event,,1.0,,,,,dirct,,month,topic,,no,foot,,,no,,event,,,,1.0,,,1.0,1.0,1.0,,1.0,1.0,,,,,,,Katowice,Podlesie
+706,zarze,MDK Zarzecze,MDK Południe,K,51,mid,,,event,,1.0,,,,,recom,,week,topic,,yes,foot,,,no,,trnsp,1.0,1.0,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,Katowice,Podlesie
+707,zarze,MDK Zarzecze,MDK Południe,M,52,high,,,event,,,1.0,,,,dirct,,week,topic,,no,foot,,,no,,event,,,1.0,1.0,,1.0,1.0,,1.0,,1.0,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+708,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,M,59,high,Matematyka,Uniwersytet Śląski,event,,1.0,,,,,dirct,,month,close,,yes,foot,,,no,,event,,,1.0,,,1.0,,1.0,1.0,,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+709,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,M,58,mid,,,event,1.0,,,,,,recom,,week,topic,,yes,foot,,,no,,event,,,,1.0,,1.0,1.0,1.0,,1.0,1.0,1.0,,,,1.0,,Uniwersytet trzeciego wieku,Katowice,Szopienice – Burowiec
+710,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,50,mid,,,event,,,1.0,,,,dirct,,week,topic,,yes,foot,,,yes,Problemy z poruszaniem się,event,,,1.0,,,,1.0,1.0,,,1.0,1.0,,,,,,,Katowice,Szopienice – Burowiec
+711,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,49,mid,,,event,,1.0,,,,,dirct,,week,topic,,no,bike,,,yes,Brak stojaka na rower,event,,,,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,Katowice,Giszowiec
+712,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,M,58,prim,,,child,,,,1.0,,,recom,,month,group,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,1.0,,,Katowice,Szopienice – Burowiec
+713,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,M,52,high,Górnictwo,Politechnika Śląska,event,,,1.0,,,,none,,week,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,,,1.0,,,,,1.0,,Gry planszowe i karciane,Katowice,Szopienice – Burowiec
+714,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,49,mid,,,child,,,,1.0,,,recom,,month,group,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,1.0,,,,Katowice,Szopienice – Burowiec
+715,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,35,high,Finanse,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,wwmdk,,less,topic,,no,car,,,no,,trnsp,1.0,,,1.0,,1.0,1.0,,,1.0,,,1.0,1.0,1.0,,Korepetycje szkolne,,Katowice,Szopienice – Burowiec
+716,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,32,mid,,,child,,,,1.0,,,dirct,,month,topic,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,1.0,1.0,1.0,1.0,,,,,,Katowice,Szopienice – Burowiec
+717,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,29,high,Filologia,Uniwersytet Śląski,event,,,1.0,,,,wwmdk,,first,topic,,no,publc,t14,,no,,event,1.0,,,,,1.0,1.0,,,,,1.0,,,1.0,,,,Katowice,Śródmieście
+718,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,M,49,mid,,,event,,,1.0,,,,dirct,,month,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,,,,1.0,,,,,,1.0,,Poezja śpiewana,Katowice,Szopienice – Burowiec
+719,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,40,mid,,,event,,,1.0,,,,other,tablica miejska,month,topic,,yes,foot,,,no,,event,,,1.0,,,,1.0,,1.0,1.0,1.0,1.0,,,,,,,Katowice,Szopienice – Burowiec
+720,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,M,50,prim,,,event,,,1.0,,,,recom,,week,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,,,,,1.0,1.0,,,,1.0,,"Śląska godka, spacery",Katowice,Szopienice – Burowiec
+721,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,M,35,high,,Uniwersytet Śląski,event,,,1.0,,,,guide,,month,topic,,yes,foot,,,no,,event,,,,,1.0,,,1.0,1.0,1.0,,,,,,1.0,,więcej zajęć dla rodziców z dziećmi,Katowice,Szopienice – Burowiec
+722,murck,MDK Murcki,MDK Południe,M,41,mid,,,child,,,,1.0,,,dirct,,month,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,,,,,,,Katowice,Murcki
+723,murck,MDK Murcki,MDK Południe,M,32,high,,Uniwersytet Śląski,child,,,,1.0,,,other,dziecko poinformowało,less,topic,,yes,foot,,,no,,event,,,,1.0,,1.0,,,,1.0,1.0,1.0,1.0,1.0,1.0,,Zajęcia międzypokoleniowe,,Katowice,Murcki
+724,murck,MDK Murcki,MDK Południe,M,60,mid,,,event,,1.0,,,,,dirct,,week,close,,yes,foot,,,yes,Problemy z poruszaniem się,event,,,,,1.0,1.0,,,,,1.0,1.0,1.0,,,1.0,,"Uniwersytet trzeciego wieku, spotkania z regionem",Katowice,Murcki
+725,murck,MDK Murcki,MDK Południe,K,49,high,,,event,,1.0,,,,,recom,,month,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,,,1.0,1.0,1.0,,,1.0,,,Katowice,Murcki
+726,murck,MDK Murcki,MDK Południe,K,54,mid,,,event,1.0,,,,,,dirct,,week,close,,yes,foot,,,no,,event,1.0,,,,,1.0,1.0,,,1.0,1.0,1.0,,,,,,,Katowice,
+727,murck,MDK Murcki,MDK Południe,M,55,mid,,,event,,1.0,,,,,other,mieszkam obok,week,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,,,,,1.0,1.0,,,,,,,Katowice,Murcki
+728,murck,MDK Murcki,MDK Południe,M,60,prim,,,event,,,1.0,,,,recom,,month,topic,,yes,foot,,,no,,event,,,,1.0,,1.0,1.0,,1.0,,1.0,1.0,,,,,,,,
+729,murck,MDK Murcki,MDK Południe,K,44,mid,,,child,,,,1.0,,,dirct,,month,topic,,yes,foot,,,no,,event,1.0,,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,Katowice,Murcki
+730,murck,MDK Murcki,MDK Południe,M,53,mid,,,event,,,1.0,,,,dirct,,week,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,,1.0,,1.0,1.0,,,,,,Katowice,Murcki
+731,murck,MDK Murcki,MDK Południe,M,55,prim,,,event,,1.0,,,,,recom,,week,group,,yes,foot,,,no,,event,,,1.0,,,,1.0,1.0,1.0,1.0,,,,,,,,,Katowice,Murcki
+732,murck,MDK Murcki,MDK Południe,M,49,high,Górnictwo,Politechnika Śląska,event,,1.0,,,,,dirct,,month,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,,1.0,,,1.0,1.0,,1.0,,,,Katowice,Murcki
+733,murck,MDK Murcki,MDK Południe,K,34,high,Pedagogika,Uniwersytet Śląski,event,,1.0,,,,,recom,,less,topic,,no,car,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,,1.0,,1.0,,,,,,,Katowice,Kostuchna
+734,murck,MDK Murcki,MDK Południe,K,47,mid,,,event,,,1.0,,,,dirct,,month,close,,yes,foot,,,no,,event,,,,1.0,,1.0,1.0,,,,1.0,1.0,,,,,,,Katowice,Murcki
+735,murck,MDK Murcki,MDK Południe,M,69,prim,,,event,,1.0,,,,,none,,month,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,,,,,,,,,,,,Katowice,Murcki
+736,murck,MDK Murcki,MDK Południe,K,46,high,,,event,,,1.0,,,,recom,,month,close,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,1.0,,1.0,,,,,1.0,,"Joga, zdrowy kregosłup",Katowice,Murcki
+737,ksztk,MDK Koszutka,MDK Koszutka,K,39,high,Pedagogika,Uniwersytet Śląski,event,,1.0,,,,,scmed,,month,topic,,yes,foot,,,no,,trnsp,1.0,,,,,1.0,1.0,,1.0,1.0,,,,,,,,,Katowice,Śródmieście
+738,ksztk,MDK Koszutka,MDK Koszutka,M,30,high,Zarządzanie,Uniwersytet Ekonomiczny w Katowicach,event,,1.0,,,,,scmed,,less,topic,,yes,foot,,,no,,event,1.0,,1.0,,,,1.0,,,1.0,,,1.0,,1.0,,,,Katowice,Koszutka
+739,ksztk,MDK Koszutka,MDK Koszutka,K,26,high,,,event,,1.0,,,,,wwmdk,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,,1.0,1.0,1.0,,,,,,,Katowice,Dąb
+740,ksztk,MDK Koszutka,MDK Koszutka,M,32,high,Matematyka,,child,,,,1.0,,,recom,,less,group,,no,foot,,,no,,event,1.0,,,1.0,,1.0,1.0,,,,,,1.0,1.0,1.0,,,,Katowice,Bogucice
+741,ksztk,MDK Koszutka,MDK Koszutka,K,40,high,,,child,,,,1.0,,,recom,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,1.0,,1.0,1.0,,,,,1.0,,Wspólne zajęcia dla rodziców z dziećmi,Katowice,Koszutka
+742,ksztk,MDK Koszutka,MDK Koszutka,M,47,mid,,,child,,,,1.0,,,recom,,less,topic,,yes,foot,,,no,,trnsp,1.0,,,,,1.0,1.0,,,1.0,1.0,1.0,1.0,1.0,,,,,Katowice,Dąb
+743,dab,MDK Dąb,MDK Koszutka,K,48,high,,,event,,,,1.0,,,wwmdk,,week,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,,,,1.0,1.0,,,,,,,Katowice,Dąb
+744,ksztk,MDK Koszutka,MDK Koszutka,M,59,mid,,,event,1.0,,,,,,recom,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,Katowice,Koszutka
+745,ksztk,MDK Koszutka,MDK Koszutka,K,48,high,,,event,,1.0,,,,,scmed,,month,topic,,no,foot,,,no,,trnsp,1.0,,,,,1.0,1.0,1.0,,1.0,1.0,1.0,,,,,,,Katowice,Śródmieście
+746,ksztk,MDK Koszutka,MDK Koszutka,M,37,high,Historia,Uniwersytet Śląski,event,1.0,,,,,,wwmdk,,less,topic,,no,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,,1.0,1.0,,1.0,,,,,,Katowice,Zawodzie
+747,ksztk,MDK Koszutka,MDK Koszutka,K,30,high,,Górnośląska Wyższa Szkoła Handlowa,event,,1.0,,,,,scmed,,month,topic,,no,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,,1.0,,1.0,,,,,,,,Katowice,Dąb
+748,ksztk,MDK Koszutka,MDK Koszutka,K,59,mid,,,event,1.0,,,,,,dirct,,month,topic,,no,foot,,,no,,trnsp,1.0,,,,,1.0,1.0,,1.0,1.0,1.0,,,,,,,,Katowice,Koszutka
+749,ksztk,MDK Koszutka,MDK Koszutka,M,55,prim,,,event,,1.0,,,,,recom,,less,topic,,no,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Dąb
+750,ksztk,MDK Koszutka,MDK Koszutka,M,49,high,,,child,,,,1.0,,,recom,,month,group,,yes,foot,,,no,,event,1.0,1.0,1.0,,,1.0,,1.0,,1.0,,,1.0,1.0,,,,,Katowice,Koszutka
+751,ksztk,MDK Koszutka,MDK Koszutka,K,45,high,Historia,Uniwersytet Jagielloński,event,,1.0,,,,,scmed,,month,topic,,no,foot,,,no,,event,1.0,,1.0,1.0,,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,Katowice,Bogucice
+752,ksztk,MDK Koszutka,MDK Koszutka,K,50,high,,,event,,,1.0,,,,wwmdk,,month,close,,yes,foot,,,no,,event,1.0,,,,,1.0,,,1.0,1.0,,1.0,,,,,,,Katowice,Dąb
+753,ksztk,MDK Koszutka,MDK Koszutka,M,41,high,Finanse,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,recom,,less,topic,,no,car,,,yes,Parkowanie,trnsp,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,,,,Katowice,Brynów Część Wschodnia – Os. Zgrzebnioka
+754,ksztk,MDK Koszutka,MDK Koszutka,K,44,mid,,,event,,,,,1.0,rodzina,wwmdk,,less,other,chciałam gdzieś mame zabrać,no,car,,,no,,event,1.0,,1.0,,,,1.0,1.0,1.0,,1.0,1.0,,,,,,,Katowice,Osiedle Tysiąclecia
+755,ksztk,MDK Koszutka,MDK Koszutka,M,33,high,Prawo,Uniwersytet Śląski,event,,1.0,,,,,recom,,first,other,znajomi występują,no,publc,6,,no,,event,1.0,,,,,1.0,1.0,,,1.0,,,1.0,1.0,,,,,,
+756,ksztk,MDK Koszutka,MDK Koszutka,K,30,high,Marketing,,event,,1.0,,,,,none,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,,Taniec,,Katowice,Koszutka
+757,ksztk,MDK Koszutka,MDK Koszutka,K,29,high,Filologia,Uniwersytet Śląski,event,,1.0,,,,,recom,,less,topic,,no,publc,,,no,,event,1.0,,1.0,1.0,,1.0,,1.0,,1.0,1.0,1.0,1.0,,,,,,Katowice,Janów – Nikiszowiec
+758,ksztk,MDK Koszutka,MDK Koszutka,M,32,high,,ASP w Katowicach,event,,1.0,,,,,recom,,month,topic,,no,publc,,,no,,event,1.0,,,,,,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,,We współpracy z ASP,,Katowice,Śródmieście
+759,ksztk,MDK Koszutka,MDK Koszutka,K,31,mid,,,child,,,,1.0,,,scmed,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,1.0,1.0,,,,,,,1.0,,Zajęcia dla zmęczonych matek,Katowice,Koszutka
+760,ksztk,MDK Koszutka,MDK Koszutka,K,39,high,Pedagogika,,child,,,,1.0,,,dirct,,month,topic,,no,foot,,,no,,event,,,,,1.0,1.0,1.0,,,1.0,1.0,1.0,1.0,,,,,,Katowice,Dąb
+761,dab,MDK Dąb,MDK Koszutka,M,39,high,,,child,,,,1.0,,,wwmdk,,less,topic,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,,,,1.0,1.0,,,,,,,Katowice,Koszutka
+762,dab,MDK Dąb,MDK Koszutka,M,40,high,Wychowanie fizyczne,,child,,,,1.0,,,recom,,month,close,,no,foot,,,no,,event,1.0,,1.0,1.0,,1.0,,,,1.0,1.0,,,1.0,,,,,Katowice,Koszutka
+763,dab,MDK Dąb,MDK Koszutka,K,42,mid,,,child,,,,1.0,,,wwmdk,,less,topic,,yes,foot,,,no,,trnsp,1.0,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,Katowice,Dąb
+764,dab,MDK Dąb,MDK Koszutka,K,38,high,Administracja,,child,,,,1.0,,,wwmdk,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,,,,1.0,1.0,,,,,,,,Katowice,Koszutka
+765,dab,MDK Dąb,MDK Koszutka,M,44,mid,,,event,,1.0,,,,,guide,,month,topic,,yes,foot,,,no,,event,1.0,,,,,1.0,1.0,1.0,,1.0,1.0,1.0,,,,,,,Katowice,Koszutka
+766,dab,MDK Dąb,MDK Koszutka,M,30,high,Bezpieczeństwo wewnętrzne,Wyższa Szkoła Zarządzania Ochroną Pracy,event,,1.0,,,,,recom,,less,group,,yes,foot,,,no,,event,1.0,1.0,1.0,,,1.0,,,,1.0,,,1.0,1.0,1.0,,,,Katowice,Dąb
+767,dab,MDK Dąb,MDK Koszutka,K,38,mid,,,event,,,1.0,,,,scmed,,month,topic,,yes,foot,,,no,,event,,,1.0,1.0,,,1.0,,1.0,1.0,1.0,,,,,,,,Katowice,Dąb
+768,dab,MDK Dąb,MDK Koszutka,M,59,prim,,,event,1.0,,,,,,recom,,month,topic,,no,publc,,,no,,event,1.0,,1.0,,,,,1.0,1.0,,1.0,1.0,,,,,,,Katowice,Zawodzie
+769,dab,MDK Dąb,MDK Koszutka,K,53,prim,,,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,,,1.0,1.0,,,,,1.0,,Uniwersytet trzeciego wieku,Katowice,Dąb
+770,dab,MDK Dąb,MDK Koszutka,M,38,high,,,event,,1.0,,,,,scmed,,month,group,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,,,1.0,,,1.0,1.0,1.0,,,,Katowice,Koszutka
+771,dab,MDK Dąb,MDK Koszutka,K,35,high,,Śląski Uniwersytet Medyczny,child,,,,1.0,,,wwmdk,,less,topic,,no,car,,,yes,Parkowanie,event,1.0,1.0,,1.0,,1.0,1.0,,,1.0,1.0,,,,,,,,Chorzów,
+772,dab,MDK Dąb,MDK Koszutka,K,20,study,Zarządzanie,Uniwersytet Ekonomiczny w Katowicach,event,,1.0,,,,,www,,less,topic,,yes,foot,,,no,,event,1.0,,,,,1.0,1.0,,,1.0,1.0,1.0,,,,,,,Katowice,Dąb
+773,dab,MDK Dąb,MDK Koszutka,M,49,mid,,,child,,,,1.0,,,recom,,month,topic,,no,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,,,,1.0,,1.0,,,,,,,
+774,dab,MDK Dąb,MDK Koszutka,K,59,prim,,,event,1.0,,,,,,dirct,,month,topic,,yes,foot,,,no,,event,,,1.0,,,,,1.0,1.0,1.0,1.0,1.0,,,,,,,Katowice,Dąb
+775,dab,MDK Dąb,MDK Koszutka,M,37,high,Logistyka,Politechnika Śląska,event,1.0,,,,,,recom,,month,group,,no,foot,,,no,,trnsp,1.0,1.0,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,
+776,dab,MDK Dąb,MDK Koszutka,K,34,high,Biznes,Wyższa Szkoła Bankowa,child,,,,1.0,,,scmed,,less,topic,,no,foot,,,no,,event,1.0,,1.0,,,,1.0,,,1.0,,,,,,,,,,
+777,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,M,40,high,Logistyka,Politechnika Śląska,event,,1.0,,,,,scmed,,less,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,,1.0,,,,,,,,,Katowice,Dąbrówka Mała
+778,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,39,high,,Uniwersytet Śląski,event,,1.0,,,,,recom,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,,1.0,1.0,1.0,,,,1.0,,Teatr,Katowice,Szopienice – Burowiec
+779,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,59,mid,,,child,,,,1.0,,,guide,,week,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,,1.0,,1.0,1.0,1.0,,,,,,,,
+780,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,M,48,high,,Akademia Sztuk Teatralnych,event,,1.0,,,,,recom,,first,topic,,no,car,,,yes,Parkowanie,event,,,,,1.0,1.0,1.0,1.0,1.0,,,,,,,,,,Kraków,
+781,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,41,high,,,event,1.0,,,,,,none,,month,topic,,yes,foot,,,no,,event,,,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,,,,,,,,Katowice,Szopienice – Burowiec
+782,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,M,50,mid,,,event,1.0,,,,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,,,,1.0,1.0,1.0,,,,,,Katowice,Szopienice – Burowiec
+783,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,48,high,,Uniwersytet Śląski,event,1.0,,,,,,wwmdk,,month,topic,,yes,foot,,,no,,event,,,1.0,,,,,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+784,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,34,high,Filologia,Uniwersytet Śląski,event,,1.0,,,,,www,,month,topic,,yes,foot,,,no,,event,,,1.0,1.0,,1.0,1.0,,1.0,1.0,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+785,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,M,40,mid,,,child,,,,1.0,,,recom,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,,1.0,1.0,,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+786,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,69,prim,,,child,,,,1.0,,,recom,,month,group,,yes,foot,,,no,,event,,,,1.0,,1.0,1.0,1.0,,,1.0,,,,,,,,,
+787,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,M,49,mid,,,event,,1.0,,,,,media,,month,topic,,yes,foot,,,no,,event,,1.0,1.0,,,,1.0,1.0,,1.0,1.0,1.0,,,,1.0,,Gry planszowe,Katowice,Szopienice – Burowiec
+788,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,48,mid,,,event,,1.0,,,,,dirct,,week,topic,,yes,foot,,,no,,event,,,,1.0,,,1.0,,,,1.0,1.0,,,,,,,Katowice,Szopienice – Burowiec
+789,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,53,mid,,,child,,,,1.0,,,recom,,less,group,,no,foot,,,no,,event,,1.0,1.0,1.0,,,1.0,,,1.0,,,,,,,,,,
+790,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,M,30,high,Filologia,Uniwersytet Śląski,child,,,,1.0,,,other,od dziadka,month,group,,yes,foot,,,no,,event,,1.0,1.0,1.0,,,1.0,,,1.0,1.0,,1.0,1.0,,,,,,
+791,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,M,50,mid,,,event,,1.0,,,,,wwmdk,,month,topic,,no,foot,,,no,,event,1.0,,1.0,,,,1.0,,1.0,1.0,1.0,,,,,,,,Katowice,Dąbrówka Mała
+792,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,49,high,,Uniwersytet Śląski,event,,,1.0,,,,recom,,month,topic,,no,publc,,,no,,trnsp,1.0,,1.0,,,1.0,1.0,,,1.0,1.0,1.0,,,,,,,Katowice,Janów – Nikiszowiec
+793,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,54,prim,,,child,,,,1.0,,,outdr,,less,topic,,no,car,,,no,,event,1.0,,,1.0,,,,1.0,1.0,1.0,1.0,1.0,,,,,,,Katowice,Koszutka
+794,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,51,high,,,event,1.0,,,,,,none,,month,topic,,no,foot,,,no,,event,,,1.0,1.0,,1.0,1.0,,,1.0,1.0,1.0,,,,,,,Katowice,Dąbrówka Mała
+795,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,K,37,mid,,,event,,1.0,,,,,recom,,month,topic,,no,publc,,,no,,event,,1.0,1.0,1.0,,,,1.0,1.0,1.0,1.0,1.0,,,,,,,Katowice,Giszowiec
+796,hall,MDK Szopienice-Hall.,MDK Szopienice-Giszowiec,M,53,high,,,event,,1.0,,,,,wwmdk,,month,topic,,no,foot,,,no,,event,,,1.0,1.0,,,1.0,,,1.0,1.0,1.0,,1.0,,,,,,
+797,kstch,MDK Kostuchna,MDK Południe,K,47,mid,,,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Kostuchna
+798,kstch,MDK Kostuchna,MDK Południe,K,52,mid,,,child,,,,1.0,,,guide,,month,topic,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,,1.0,1.0,,,,,,,Katowice,Kostuchna
+799,kstch,MDK Kostuchna,MDK Południe,K,43,high,Pedagogika,,child,,,,1.0,,,wwmdk,,less,topic,,yes,foot,,,no,,event,1.0,,,,,1.0,1.0,,,1.0,1.0,,,,,,,,Katowice,Kostuchna
+800,kstch,MDK Kostuchna,MDK Południe,M,48,mid,,,child,,,,1.0,,,outdr,,month,group,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,,,1.0,,,,,,,,,Katowice,Kostuchna
+801,kstch,MDK Kostuchna,MDK Południe,K,46,high,,,child,,,,1.0,,,recom,,month,topic,,yes,foot,,,no,,event,,1.0,1.0,1.0,,,,1.0,1.0,1.0,1.0,1.0,,,,,,,Katowice,Kostuchna
+802,kstch,MDK Kostuchna,MDK Południe,K,49,mid,,,event,,,1.0,,,,scmed,,less,topic,,yes,foot,,,no,,event,,,1.0,,,,,1.0,1.0,,1.0,1.0,,,,,,,Katowice,Kostuchna
+804,kstch,MDK Kostuchna,MDK Południe,K,23,high,Kulturoznawstwo,Uniwersytet Śląski,event,,1.0,,,,,recom,,less,topic,,no,publc,689,,no,,event,,,1.0,1.0,,1.0,1.0,1.0,,1.0,,,,,,,,,Katowice,Piotrowice – Ochojec
+805,kstch,MDK Kostuchna,MDK Południe,M,49,mid,,,event,,1.0,,,,,dirct,,month,topic,,no,foot,,,no,,event,,,1.0,1.0,,,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Kostuchna
+806,kstch,MDK Kostuchna,MDK Południe,K,51,mid,,,child,,,,1.0,,,other,od męża,month,topic,,yes,foot,,,no,,event,,,1.0,,,,,1.0,1.0,,1.0,1.0,,,,,,,Katowice,Kostuchna
+807,kstch,MDK Kostuchna,MDK Południe,M,36,high,,Uniwersytet Śląski,event,,,,,1.0,rodzina,recom,,less,group,,no,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,,,1.0,,,,,,,,,Katowice,Kostuchna
+808,kstch,MDK Kostuchna,MDK Południe,M,50,prim,,,event,,,1.0,,,,www,,less,topic,,no,car,,,no,,event,,,1.0,1.0,,,,,,,,,,,,1.0,,Szachy,Katowice,Zarzecze
+809,kstch,MDK Kostuchna,MDK Południe,K,24,high,Zarządzane kulturą,Uniwersytet Jagielloński,child,,,,1.0,,,recom,,month,topic,,yes,foot,,,no,,event,,,1.0,1.0,,,1.0,,,1.0,1.0,,,,,,,,Katowice,Kostuchna
+810,kstch,MDK Kostuchna,MDK Południe,M,37,high,Finanse,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,recom,,month,topic,,yes,foot,,,no,,event,,,1.0,1.0,,,1.0,1.0,,1.0,1.0,1.0,1.0,,,,,,Katowice,Kostuchna
+811,kstch,MDK Kostuchna,MDK Południe,K,42,high,,Uniwersytet Śląski,child,,,,1.0,,,wwmdk,,month,topic,,yes,foot,,,no,,event,,,,1.0,,1.0,,1.0,,1.0,1.0,1.0,,,,,,,Katowice,Kostuchna
+812,kstch,MDK Kostuchna,MDK Południe,M,31,high,,Uniwersytet Śląski,child,,,,1.0,,,recom,,less,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,,,1.0,1.0,,,,,,,,Katowice,Kostuchna
+813,kstch,MDK Kostuchna,MDK Południe,M,59,prim,,,event,,1.0,,,,,recom,,month,other,nie chcę siedzieć w domu,yes,foot,,,no,,event,,,1.0,,,,1.0,1.0,1.0,1.0,,1.0,1.0,,,,,,Katowice,Kostuchna
+814,kstch,MDK Kostuchna,MDK Południe,K,51,mid,,,event,,1.0,,,,,dirct,,week,topic,,yes,foot,,,no,,event,,,1.0,1.0,,,1.0,1.0,,,,,,,,,,,Katowice,Kostuchna
+815,kstch,MDK Kostuchna,MDK Południe,M,50,prim,,,event,,1.0,,,,,outdr,,month,topic,,yes,foot,,,no,,event,,,1.0,1.0,,,1.0,,1.0,1.0,1.0,,,,,,,,Katowice,Kostuchna
+816,kstch,MDK Kostuchna,MDK Południe,M,17,prim,,,event,,,1.0,,,,dirct,,month,topic,,yes,foot,,,no,,trnsp,1.0,,1.0,,,,1.0,,,1.0,,,1.0,1.0,1.0,,,,Katowice,Kostuchna
+817,kstch,MDK Kostuchna,MDK Południe,K,49,mid,,,event,,,1.0,,,,dirct,,week,free,,yes,foot,,,no,,event,,,1.0,,,,1.0,1.0,1.0,,,1.0,,,,,,,Katowice,Kostuchna
+818,kstch,MDK Kostuchna,MDK Południe,M,40,mid,,,event,,1.0,,,,,recom,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,,,,1.0,1.0,1.0,1.0,,,,,,,,,Katowice,Kostuchna
+819,kstch,MDK Kostuchna,MDK Południe,M,49,mid,,,event,,,1.0,,,,recom,,month,topic,,no,foot,,,no,,event,,,1.0,,,1.0,,1.0,1.0,1.0,,,,,,,,,Katowice,Kostuchna
+820,kstch,MDK Kostuchna,MDK Południe,K,45,mid,,,event,,1.0,,,,,dirct,,month,topic,,yes,foot,,,no,,event,,,1.0,,,,,1.0,1.0,,,,,,,1.0,,Kino,Katowice,Kostuchna
+821,kstch,MDK Kostuchna,MDK Południe,M,28,high,,Uniwersytet Śląski,event,,,1.0,,,,wwmdk,,month,topic,,yes,foot,,,no,,event,1.0,,,,,1.0,,,,1.0,1.0,,1.0,1.0,,,,,Katowice,Kostuchna
+822,kstch,MDK Kostuchna,MDK Południe,M,58,mid,,,event,,1.0,,,,,other,jestem tu kolejny rok,month,topic,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,1.0,1.0,1.0,1.0,,,,,,Katowice,Kostuchna
+823,podl,MDK Podlesie,MDK Południe,K,70,mid,,,event,,1.0,,,,,dirct,,month,topic,,yes,foot,,,no,,event,1.0,,,,,1.0,,1.0,1.0,,1.0,,,,,,,,Katowice,Podlesie
+824,podl,MDK Podlesie,MDK Południe,K,74,mid,,,event,,1.0,,,,,dirct,,month,group,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,,Katowice,Podlesie
+825,podl,MDK Podlesie,MDK Południe,K,78,mid,,,event,,,1.0,,,,outdr,,month,close,,yes,car,,,no,,event,,1.0,,,,,,,,1.0,,,,,,,,,Katowice,Podlesie
+826,podl,MDK Podlesie,MDK Południe,M,68,high,Elektryka,Akademia Górniczo Hutnicza,event,,1.0,,,,,dirct,,month,other,Atmosfera,no,publc,37,,no,,trnsp,1.0,1.0,,1.0,,,1.0,1.0,,1.0,,,,1.0,,,,,Katowice,
+828,ksztk,MDK Koszutka,MDK Koszutka,K,69,high,Ekonomia,Uniwersytet Ekonomiczny w Katowicach,event,,1.0,,,,,recom,,week,other,Wyjscie z domu,yes,foot,,,no,,event,1.0,,1.0,,,1.0,,1.0,,1.0,,1.0,,,1.0,,"Artystyczne, wycieczki ",,Katowice,Koszutka
+829,zarze,MDK Zarzecze,MDK Południe,K,69,mid,,,event,,1.0,,,,,outdr,,week,topic,,yes,foot,,,no,,event,,,1.0,1.0,,,,1.0,1.0,,1.0,,,,,,,,Katowice,Zarzecze
+830,ksztk,MDK Koszutka,MDK Koszutka,K,63,high,Ekonomia,Uniwersytet Ekonomiczny w Katowicach,event,,,1.0,,,,recom,,week,other,Aktywnie spędzony czas,no,foot,,,no,,trnsp,1.0,1.0,1.0,,,,,1.0,,1.0,,1.0,,,1.0,,Artystyczne,,Katowice,Śródmieście
+831,zarze,MDK Zarzecze,MDK Południe,K,72,high,,,event,,,1.0,,,,recom,,week,free,,no,car,,,no,,event,,,,1.0,,,,1.0,1.0,,,,,,1.0,,Lepienie z gliny,,Katowice,Zarzecze
+832,kstch,MDK Kostuchna,MDK Południe,K,37,high,Administracja,Wyższa Szkoła Ekonomii i Administracji w Bytomiu,child,,,,1.0,,,wwmdk,,week,topic,,yes,car,,,no,,event,,,,,1.0,1.0,,1.0,,1.0,,1.0,,,,,,,Katowice,Kostuchna
+833,zarze,MDK Zarzecze,MDK Południe,K,65,high,,,event,,1.0,,,,,outdr,,month,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,,,,1.0,,,,,,,,Katowice,Zarzecze
+834,kstch,MDK Kostuchna,MDK Południe,K,30,high,Pedagogika,Górnośląska Wyższa Szkoła Handlowa,child,,,,1.0,,,recom,,week,topic,,yes,car,,,no,,event,,,,,1.0,1.0,1.0,1.0,,,1.0,1.0,,,1.0,,"Spotkania dla mam, wychowawcze",,Katowice,Kostuchna
+835,kstch,MDK Kostuchna,MDK Południe,M,40,high,Informatyka,Wyższa Szkoła Technologii Informatycznych,event,,,1.0,,,,recom,,week,topic,,no,car,,,no,,trnsp,1.0,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,Katowice,Piotrowice – Ochojec
+836,kstch,MDK Kostuchna,MDK Południe,K,67,high,Prawo,Uniwersytet Śląski,event,,,1.0,,,,outdr,,week,topic,,no,car,,,no,,trnsp,1.0,1.0,1.0,1.0,,,1.0,,,1.0,,,,,,,,,Katowice,Ligota – Panewniki
+837,kstch,MDK Kostuchna,MDK Południe,M,74,high,,Akademia Górniczo Hutnicza,event,,,1.0,,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,,1.0,,,,,1.0,,Plenery malarskie,,Katowice,Kostuchna
+838,kstch,MDK Kostuchna,MDK Południe,K,78,mid,,,event,,1.0,,,,,other,Z klubu seniora aktywny senior,week,group,,no,publc,689,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+839,kstch,MDK Kostuchna,MDK Południe,K,78,mid,,,event,,,1.0,,,,other,Klub seniora,week,group,,no,publc,689,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+840,kstch,MDK Kostuchna,MDK Południe,K,77,mid,,,event,,1.0,,,,,other,Klub seniora,week,group,,no,publc,689,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+841,kstch,MDK Kostuchna,MDK Południe,K,77,mid,,,event,,,1.0,,,,other,Klub seniora,week,group,,no,publc,36,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+842,kstch,MDK Kostuchna,MDK Południe,K,75,mid,,,event,,1.0,,,,,recom,,week,group,,yes,publc,689,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+843,kstch,MDK Kostuchna,MDK Południe,K,75,mid,,,event,,1.0,,,,,recom,,week,group,,no,publc,36,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+844,kstch,MDK Kostuchna,MDK Południe,M,44,mid,,,child,,,,1.0,,,other,Ze szkoly,week,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,,,1.0,,1.0,,,,,,Katowice,Kostuchna
+845,kstch,MDK Kostuchna,MDK Południe,K,30,mid,,,child,,,,1.0,,,recom,,first,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,,,,1.0,1.0,,,,,,,,Katowice,Kostuchna
+846,kstch,MDK Kostuchna,MDK Południe,K,45,high,Edukacja,Uniwersytet Śląski,child,,,,1.0,,,other,Ze szkoly ,week,topic,,yes,car,,,no,,event,1.0,1.0,1.0,,,1.0,,1.0,1.0,,,,,,,,,,Katowice,Kostuchna
+848,dab,MDK Dąb,MDK Koszutka,K,29,high,Zarządzanie,Górnośląska Wyższa Szkoła Handlowa,child,,,,1.0,,,scmed,,week,topic,,no,car,,,no,,event,,,,,1.0,,1.0,1.0,,,1.0,,1.0,,,,,,Katowice,Osiedle Tysiąclecia
+849,dab,MDK Dąb,MDK Koszutka,K,63,high,Finanse,,child,,,,1.0,,,recom,,week,close,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,,,1.0,,,,,,,,Katowice,
+850,dab,MDK Dąb,MDK Koszutka,M,9,prim,,,event,,,1.0,,,,recom,,week,topic,,yes,bike,,,no,,event,,,1.0,,,1.0,,,,1.0,1.0,,,1.0,,,,,Katowice,Dąb
+851,dab,MDK Dąb,MDK Koszutka,K,10,prim,,,event,,,1.0,,,,recom,,week,topic,,no,foot,,,no,,event,,,1.0,,,1.0,1.0,,,1.0,1.0,,,,,,,,Katowice,Os. Paderewskiego – Muchowiec
+852,dab,MDK Dąb,MDK Koszutka,M,7,prim,,,event,,,,,1.0,rodzina,recom,,week,topic,,yes,car,,,no,,event,1.0,,,,,1.0,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,,Szachowe,,Katowice,Dąb
+853,dab,MDK Dąb,MDK Koszutka,K,35,high,Zarządzanie,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,wwmdk,,week,other,Aktywne dziecko,yes,publc,19,,no,,trnsp,1.0,,,,,,,1.0,,,1.0,,,,,,,,,
+854,dab,MDK Dąb,MDK Koszutka,K,39,mid,,,child,,,,1.0,,,dirct,,week,close,,yes,foot,,,no,,event,,,1.0,,,,,,,,1.0,1.0,,,,,,,Katowice,Wełnowiec – Józefowiec
+855,dab,MDK Dąb,MDK Koszutka,K,34,high,Finanse,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,www,,week,other,Aktywne dziecko,no,car,,,no,,event,,,,,1.0,,,1.0,,,1.0,1.0,1.0,,,,,,Chorzów,
+856,dab,MDK Dąb,MDK Koszutka,K,36,mid,,,child,,,,1.0,,,outdr,,week,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,,,,,,,,,,,,Katowice,Wełnowiec – Józefowiec
+857,dab,MDK Dąb,MDK Koszutka,K,31,mid,,,child,,,,1.0,,,recom,,week,close,,yes,foot,,,no,,event,,,,,1.0,,,,,1.0,1.0,,1.0,,,,,,Katowice,Wełnowiec – Józefowiec
+858,dab,MDK Dąb,MDK Koszutka,K,28,mid,,,child,,,,1.0,,,dirct,,week,close,,yes,foot,,,no,,event,,,1.0,,,,,,,1.0,1.0,1.0,,,,,,,Katowice,Dąb
+859,dab,MDK Dąb,MDK Koszutka,K,13,prim,,,event,,,1.0,,,,recom,,week,topic,,yes,foot,,,no,,event,,,,,1.0,,1.0,,1.0,,,1.0,,,,,,,Katowice,Wełnowiec – Józefowiec
+860,dab,MDK Dąb,MDK Koszutka,K,34,high,Biologia,Uniwersytet Śląski,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,event,,,,1.0,,,,1.0,,,,,,1.0,,,,,Katowice,Wełnowiec – Józefowiec
+861,ksztk,MDK Koszutka,MDK Koszutka,K,29,mid,,,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,,,1.0,,,,,,,1.0,1.0,,,,1.0,1.0,Malarskie,Garncarstwo,Katowice,Koszutka
+862,ksztk,MDK Koszutka,MDK Koszutka,K,50,mid,,,child,,,,1.0,,,recom,,week,close,,yes,foot,,,no,,event,,,1.0,,,,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Koszutka
+863,ksztk,MDK Koszutka,MDK Koszutka,K,33,high,Kosmetologia,Górnośląska Wyższa Szkoła Handlowa,child,,,,1.0,,,recom,,week,close,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,,1.0,1.0,,1.0,,,,,,Katowice,Koszutka
+864,ksztk,MDK Koszutka,MDK Koszutka,K,34,high,Historia,UMCS,child,,,,1.0,,,wwmdk,,week,topic,,yes,foot,,,no,,event,,1.0,,,,1.0,1.0,1.0,,,1.0,,,,1.0,,Językowe,,Katowice,Śródmieście
+865,ksztk,MDK Koszutka,MDK Koszutka,K,12,prim,,,event,,,1.0,,,,recom,,week,topic,,no,car,,,no,,event,,,1.0,,,1.0,,,,1.0,1.0,,,,,,,,Siemianowice Śląskie,
+866,ksztk,MDK Koszutka,MDK Koszutka,K,44,high,Psychologia,Uniwersytet Śląski,child,,,,1.0,,,outdr,,week,close,,yes,foot,,,no,,event,1.0,,1.0,,,,1.0,1.0,,,,1.0,,,,,,,Katowice,Koszutka
+867,ksztk,MDK Koszutka,MDK Koszutka,K,77,mid,,,event,,,1.0,,,,outdr,,month,free,,no,publc,50,,no,,trnsp,,,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Dąb
+868,ksztk,MDK Koszutka,MDK Koszutka,M,39,none,,,event,,1.0,,,,,wwmdk,,month,topic,,yes,foot,,,no,,trnsp,,1.0,,,,,,1.0,1.0,,,,,,,,,,Katowice,Koszutka
+869,ksztk,MDK Koszutka,MDK Koszutka,K,69,high,Informatyka,Uniwersytet Ekonomiczny w Katowicach,event,,,1.0,,,,wwmdk,,month,topic,,no,publc,77,,no,,trnsp,,1.0,1.0,,,1.0,1.0,1.0,,,1.0,,,,,,,,Mysłowice,
+871,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,72,mid,,,event,,,1.0,,,,scmed,,week,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,Katowice,Szopienice – Burowiec
+872,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,67,mid,,,event,,1.0,,,,,outdr,,week,close,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,1.0,,,,Katowice,Szopienice – Burowiec
+873,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,72,prim,,,event,,1.0,,,,,outdr,,week,close,,yes,publc,15,,no,,event,1.0,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,1.0,,,,Katowice,Szopienice – Burowiec
+874,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,75,prim,,,event,,,1.0,,,,outdr,,week,close,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,,1.0,,1.0,1.0,,,,,,Katowice,Szopienice – Burowiec
+875,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,71,mid,,,event,,,1.0,,,,outdr,,week,close,,yes,foot,,,no,,event,,,1.0,,,,,,,,,,,,1.0,,,,Katowice,Szopienice – Burowiec
+876,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,79,prim,,,event,,,1.0,,,,scmed,,week,close,,yes,foot,,,no,,event,,,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+877,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,M,79,prim,,,event,1.0,,,,,,outdr,,week,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,,,,,1.0,,,,1.0,,,,Katowice,Szopienice – Burowiec
+878,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,58,mid,,,event,,1.0,,,,,scmed,,month,topic,,yes,foot,,,no,,event,1.0,,,1.0,,,1.0,1.0,,,1.0,1.0,1.0,,,,,,Katowice,Szopienice – Burowiec
+881,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,16,prim,,,event,,1.0,,,,,guide,,less,topic,,yes,foot,,,no,,event,,,,,1.0,,,,1.0,,1.0,1.0,,,,,,,Katowice,Zawodzie
+883,dab,MDK Dąb,MDK Koszutka,M,49,high,Wychowanie fizyczne,Akademia Wychowania Fizycznego w Katowicach,child,,,,1.0,,,recom,,less,topic,,yes,foot,,,no,,event,1.0,,,1.0,,,,,,,,,,,,1.0,,Sportowe,Katowice,Dąb
+884,dab,MDK Dąb,MDK Koszutka,K,52,high,Górnictwo,Politechnika Śląska,child,,,,1.0,,,recom,,less,topic,,no,foot,,,no,,trnsp,,1.0,,,,,1.0,1.0,,1.0,,,,,1.0,,Artystyczne,,Katowice,Koszutka
+885,dab,MDK Dąb,MDK Koszutka,K,54,high,Pedagogika,Uniwersytet Śląski,child,,,,1.0,,,recom,,less,topic,,yes,foot,,,no,,event,1.0,,1.0,,,,1.0,1.0,1.0,,1.0,1.0,,,1.0,,,,Katowice,Dąb
+886,dab,MDK Dąb,MDK Koszutka,K,53,high,Historia i teologia,Uniwersytet Śląski,child,,,,1.0,,,recom,,month,topic,,yes,foot,,,no,,event,1.0,,,1.0,,,,,,,1.0,1.0,1.0,,1.0,,"Kulturalne zachowania w miejscach publicznych, spotkania wychowawcze",,Katowice,Dąb
+887,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,50,mid,,,child,,,,1.0,,,media,,week,topic,,no,car,,,no,,event,1.0,1.0,1.0,1.0,,,,1.0,,1.0,1.0,,,1.0,,,,,Katowice,Szopienice – Burowiec
+888,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,53,mid,,,child,,,,1.0,,,recom,,week,topic,,no,car,,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,,1.0,1.0,,1.0,,1.0,,Muzyczne,,Katowice,Szopienice – Burowiec
+889,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,38,high,Psychologia,Uniwersytet Śląski,child,,,,1.0,,,www,,week,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,Katowice,Zawodzie
+890,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,39,mid,,,child,,,,1.0,,,guide,,first,topic,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,,,1.0,1.0,1.0,,,1.0,,Językowe,,Katowice,Zawodzie
+891,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,19,study,Opiekun medyczny,,event,1.0,,,,,,recom,,week,topic,,no,publc,,,yes,Korki,trnsp,,,,1.0,,1.0,,,,,,,,,,,,,,
+892,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,20,mid,,,child,,,,1.0,,,recom,,less,other,Pieniądze,yes,bike,,,no,,event,1.0,1.0,1.0,1.0,,,1.0,,,,,,,,,,,,,
+893,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,58,high,,,event,,,1.0,,,,wwmdk,,less,topic,,no,car,,,no,,event,1.0,,,1.0,,1.0,,,,,1.0,,,,,,,,,
+894,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,61,high,,,event,1.0,,,,,,wwmdk,,first,topic,,no,car,,,no,,trnsp,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,,,,,,,,,,,Katowice,Załęska Hałda – Brynów Część Zachodnia
+895,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,15,prim,,,event,,1.0,,,,,none,,less,close,,yes,publc,,,no,,event,1.0,,,,,1.0,,,,,,1.0,,,,,,,,
+897,ksztk,MDK Koszutka,MDK Koszutka,M,72,mid,,,event,,,1.0,,,,guide,,less,topic,,no,publc,673,,yes,Korki,event,1.0,,1.0,1.0,,,,,,,,,,,,1.0,,"Klub podroznika, w obiektywie",Katowice,Murcki
+898,ksztk,MDK Koszutka,MDK Koszutka,K,73,mid,,,event,,,1.0,,,,recom,,month,topic,,yes,publc,6,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,1.0,,,,,,,Katowice,Osiedle Tysiąclecia
+899,ksztk,MDK Koszutka,MDK Koszutka,M,74,mid,,,event,,1.0,,,,,recom,,month,topic,,no,foot,,,no,,event,1.0,,1.0,1.0,,,1.0,1.0,,1.0,,,,,,,,,Katowice,Dąb
+900,ksztk,MDK Koszutka,MDK Koszutka,K,36,high,Pedagogika,Uniwersytet Śląski,event,,,,1.0,,,outdr,,first,topic,,yes,car,,,no,,event,1.0,1.0,,1.0,,1.0,1.0,1.0,,1.0,,,,,,,,,Katowice,Śródmieście
+901,ksztk,MDK Koszutka,MDK Koszutka,K,85,high,Prawo,Uniwersytet Śląski,event,,,1.0,,,,outdr,,month,topic,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,1.0,1.0,1.0,,,,,,,,,Katowice,Koszutka
+902,ksztk,MDK Koszutka,MDK Koszutka,K,46,mid,,,event,,,,,1.0,rodzina,other,z kościoła,less,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,,,1.0,,,,,,,,Katowice,Koszutka
+903,ksztk,MDK Koszutka,MDK Koszutka,M,46,high,Informatyka,Politechnika Śląska,event,,,,,1.0,rodzina,recom,,less,group,,no,foot,,,no,,event,1.0,,,,,,1.0,,,,,,,,,1.0,,Spotkania podróżnicze,Katowice,Osiedle Tysiąclecia
+904,ksztk,MDK Koszutka,MDK Koszutka,M,76,mid,,,event,,1.0,,,,,recom,,week,topic,,no,publc,297,,no,,event,,,,,1.0,,1.0,1.0,,1.0,,,,,,,,,Katowice,Ligota – Panewniki
+906,ksztk,MDK Koszutka,MDK Koszutka,K,79,high,Pedagogika,,event,,1.0,,,,,recom,,week,close,,no,publc,,,no,,trnsp,,1.0,,,,1.0,1.0,1.0,1.0,1.0,,,,,,,,,Chorzów,
+907,ksztk,MDK Koszutka,MDK Koszutka,K,74,high,Ekonomia,,event,,,1.0,,,,guide,,week,topic,,no,publc,,,no,,event,,1.0,,,,1.0,1.0,1.0,1.0,,,,,,,,,,Bytom,
+908,ksztk,MDK Koszutka,MDK Koszutka,K,79,high,Pedagogika,,event,,,1.0,,,,wwmdk,,month,topic,,yes,foot,,,no,,event,,,,,1.0,,1.0,,1.0,,1.0,,,,,1.0,,"Zdrowy kregoslup, rytmika",Katowice,Koszutka
+909,ksztk,MDK Koszutka,MDK Koszutka,K,76,high,,,event,,1.0,,,,,recom,,week,topic,,no,publc,,,no,,event,,,1.0,,,,1.0,,,1.0,1.0,,,,,,,,Sosnowiec,
+910,ksztk,MDK Koszutka,MDK Koszutka,K,77,mid,,,event,,1.0,,,,,recom,,month,group,,no,publc,,,no,,event,,,1.0,,,1.0,1.0,,,1.0,,,,,,1.0,,Areobik,Sosnowiec,
+911,ksztk,MDK Koszutka,MDK Koszutka,K,74,high,,,event,,1.0,,,,,other,nasze katowice,week,topic,,no,publc,,,no,,event,,1.0,,,,,1.0,1.0,1.0,1.0,1.0,,,,,,,,Sosnowiec,
+912,ksztk,MDK Koszutka,MDK Koszutka,K,41,high,,,child,,,,1.0,,,recom,,week,topic,,yes,bike,,,no,,event,,1.0,,,,,1.0,,,1.0,,,,,1.0,,Plastyczne,,Katowice,
+913,ksztk,MDK Koszutka,MDK Koszutka,M,6,prim,,,event,,,,,1.0,rodzina,recom,,week,topic,,no,car,,,yes,Korki,event,,,1.0,,,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,,Karate,,Katowice,Bogucice
+914,ksztk,MDK Koszutka,MDK Koszutka,K,8,prim,,,event,,,,,1.0,rodzina,recom,,week,topic,,yes,foot,,,no,,trnsp,,,,,1.0,1.0,,1.0,,1.0,1.0,1.0,,1.0,1.0,,Przyrodnicze,,Katowice,Koszutka
+915,ksztk,MDK Koszutka,MDK Koszutka,K,35,mid,,,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,,,,,1.0,,1.0,,,,,,,,1.0,,Zajęcia wspólne dla dzieci i rodziców,,Katowice,Koszutka
+916,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,72,mid,,,event,,,1.0,,,,guide,,week,topic,,yes,publc,,,no,,event,,,1.0,,,,1.0,1.0,,1.0,,,,,1.0,,Kulinarne,,Katowice,Wełnowiec – Józefowiec
+917,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,73,mid,,,event,,1.0,,,,,dirct,,week,topic,,yes,publc,,,no,,event,,,1.0,1.0,,1.0,1.0,1.0,1.0,,1.0,,,,1.0,,Kulinarne,,Katowice,Koszutka
+918,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,73,mid,,,event,,1.0,,,,,dirct,,week,topic,,yes,publc,,,no,,event,,,,1.0,,1.0,1.0,1.0,1.0,,1.0,,,,,,,,Katowice,Koszutka
+919,ksztk,MDK Koszutka,MDK Koszutka,K,73,mid,,,event,,,1.0,,,,media,,first,topic,,yes,publc,,,no,,trnsp,,1.0,,,,,,,,,1.0,,,,,,,,Katowice,Wełnowiec – Józefowiec
+920,ksztk,MDK Koszutka,MDK Koszutka,K,74,high,,,event,,,1.0,,,,guide,,month,topic,,yes,publc,,,no,,event,1.0,,,,,1.0,1.0,1.0,1.0,,,,,,,,,,Katowice,Osiedle Tysiąclecia
+921,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,74,mid,,,event,,1.0,,,,,dirct,,week,group,,yes,publc,,,no,,event,,,,1.0,,1.0,1.0,1.0,,,1.0,,,,,1.0,,Kulinarne,Katowice,Szopienice – Burowiec
+922,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,86,mid,,,event,,1.0,,,,,dirct,,week,group,,yes,publc,"t20, t15, t14",,no,,event,,,,1.0,,1.0,1.0,1.0,,,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+923,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,72,prim,,,event,,1.0,,,,,dirct,,week,group,,yes,publc,,,no,,event,,,,1.0,,1.0,1.0,1.0,,,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+924,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,79,mid,,,event,,1.0,,,,,guide,,week,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,Katowice,
+925,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,72,mid,,,event,,1.0,,,,,guide,,week,close,,yes,foot,,,no,,event,,,1.0,,,,,,1.0,,,,,,,,,,Katowice,
+926,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,69,mid,,,event,,1.0,,,,,guide,,week,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,1.0,1.0,,1.0,,,,,,,Katowice,Zawodzie
+927,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,69,mid,,,event,,,1.0,,,,guide,,week,topic,,yes,foot,,,no,,trnsp,,,,,1.0,1.0,,,1.0,,,,,,,,,,Katowice,
+928,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,71,mid,,,event,,,1.0,,,,media,,less,topic,,no,car,,,no,,trnsp,,1.0,,,,,1.0,,,1.0,1.0,,,1.0,,,,,Katowice,Zawodzie
+929,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,78,mid,,,event,1.0,,,,,,outdr,,month,topic,,yes,publc,,,no,,trnsp,,,1.0,1.0,,1.0,1.0,1.0,1.0,,,,1.0,1.0,1.0,,,,Katowice,Śródmieście
+930,ksztk,MDK Koszutka,MDK Koszutka,K,71,mid,,,event,,1.0,,,,,recom,,week,topic,,no,publc,297,,no,,trnsp,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,,,,1.0,,1.0,,,,,,
+931,ksztk,MDK Koszutka,MDK Koszutka,K,54,high,Pedagogika,Uniwersytet Śląski,child,,,,1.0,,,dirct,,month,topic,,yes,foot,,,no,,event,,,,1.0,,,1.0,1.0,,,,,,1.0,,1.0,,Dedykowane dzieciom,Katowice,Koszutka
+933,kstch,MDK Kostuchna,MDK Południe,M,35,mid,,,event,1.0,,,,,,scmed,,first,group,,yes,car,,,no,,event,,,,,1.0,,1.0,,,,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+934,kstch,MDK Kostuchna,MDK Południe,K,40,high,,,event,,,1.0,,,,outdr,,month,topic,,yes,foot,,,no,,trnsp,,,1.0,1.0,,,,,,,,1.0,,,1.0,,,,Katowice,Kostuchna
+935,kstch,MDK Kostuchna,MDK Południe,K,56,mid,,,event,,,1.0,,,,recom,,week,free,,yes,bike,,,no,,event,,,,,1.0,1.0,,1.0,1.0,,,,,,,,,,Katowice,Kostuchna
+936,kstch,MDK Kostuchna,MDK Południe,K,45,mid,,,event,,1.0,,,,,recom,,month,topic,,yes,foot,,,no,,trnsp,,,1.0,,,1.0,1.0,,,,,,,,1.0,,,,Katowice,Kostuchna
+937,kstch,MDK Kostuchna,MDK Południe,K,38,high,,,event,,,1.0,,,,dirct,,week,close,,yes,car,,,no,,event,1.0,,1.0,1.0,,,,1.0,1.0,,1.0,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+938,kstch,MDK Kostuchna,MDK Południe,K,40,mid,,,event,,1.0,,,,,scmed,,month,topic,,yes,foot,,,no,,trnsp,1.0,,1.0,,,1.0,,1.0,,,1.0,,,,,,,,Katowice,Kostuchna
+939,dab,MDK Dąb,MDK Koszutka,M,14,prim,,,event,,,,,1.0,klasa szkolna,other,ze szkoły,month,topic,,yes,foot,,,no,,event,,,,,1.0,,,,,,,,,1.0,,,,,Katowice,Dąb
+940,dab,MDK Dąb,MDK Koszutka,K,14,prim,,,event,,,,,1.0,klasa szkolna,other,organizujemy to,week,topic,,yes,foot,,,no,,trnsp,1.0,,,,,1.0,1.0,,,,,,,,,,,,Katowice,Dąb
+941,dab,MDK Dąb,MDK Koszutka,K,14,prim,,,event,,,,,1.0,klasa szkolna,other,szkoła jest organizatorem,week,topic,,yes,foot,,,no,,trnsp,1.0,,,,,1.0,1.0,,,,,,,,,,,,Katowice,Dąb
+942,dab,MDK Dąb,MDK Koszutka,K,14,prim,,,event,,,,,1.0,klasa szkolna,other,szkoła jest organizatorem,week,topic,,yes,foot,,,no,,trnsp,1.0,,1.0,,,1.0,1.0,,,,,,,,,,,,Katowice,Dąb
+943,dab,MDK Dąb,MDK Koszutka,K,14,prim,,,event,,,,,1.0,klasa szkolna,other,szkoła organizuje to wydarzenie,week,topic,,yes,foot,,,no,,trnsp,1.0,,1.0,,,1.0,1.0,,,,,,,,,,,,Katowice,Dąb
+946,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,71,mid,,,event,,,1.0,,,,outdr,,week,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,,1.0,,,,1.0,1.0,,1.0,,,,,Katowice,Szopienice – Burowiec
+947,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,72,prim,,,event,,,1.0,,,,scmed,,week,topic,,no,publc,15,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,1.0,,1.0,1.0,,,1.0,,,,Katowice,Szopienice – Burowiec
+948,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,47,high,Bibliotekoznawstwo i informacja naukowo-techniczna,Uniwersytet Śląski,event,,1.0,,,,,dirct,,week,topic,,yes,foot,,,no,,trnsp,1.0,,,,,1.0,1.0,1.0,,,,,,,1.0,,,,Katowice,Zawodzie
+949,murck,MDK Murcki,MDK Południe,K,32,high,Projektowanie graficzne,ASP w Katowicach,child,,,,1.0,,,wwmdk,,week,other,popołudniowe godziny,no,car,,,yes,Korki,event,1.0,,1.0,,,1.0,1.0,1.0,,1.0,,1.0,,1.0,1.0,,,,Katowice,Janów – Nikiszowiec
+950,murck,MDK Murcki,MDK Południe,K,10,none,,,event,,,,,1.0,rodzina,recom,,week,topic,,no,car,,,no,,event,,,,,1.0,,,,,1.0,,1.0,,,,,,,Katowice,Podlesie
+951,murck,MDK Murcki,MDK Południe,K,11,none,,,event,,,,,1.0,rodzina,recom,,week,topic,,no,car,,,no,,event,,,,,1.0,,,,,1.0,,1.0,1.0,,,,,,Katowice,Podlesie
+952,murck,MDK Murcki,MDK Południe,K,40,mid,,,child,,,,1.0,,,wwmdk,,week,topic,,yes,car,,,yes,Korki,event,1.0,,,,,1.0,1.0,1.0,,1.0,,1.0,,,1.0,,,,Katowice,Murcki
+953,podl,MDK Podlesie,MDK Południe,K,28,mid,,,event,,,1.0,,,,scmed,,week,topic,,yes,bike,,,no,,event,,,1.0,1.0,,,1.0,,,1.0,,1.0,,,,,,,Katowice,Podlesie
+954,podl,MDK Podlesie,MDK Południe,M,26,mid,,,event,,,1.0,,,,outdr,,month,topic,,yes,foot,,,no,,event,1.0,,,,,,,,,,,,1.0,,1.0,,,,Katowice,Podlesie
+955,podl,MDK Podlesie,MDK Południe,M,36,high,,,child,,,,1.0,,,dirct,,week,topic,,yes,car,,,no,,event,,,1.0,,,1.0,1.0,,,1.0,,,,,1.0,,,,Katowice,Podlesie
+956,podl,MDK Podlesie,MDK Południe,M,45,mid,,,child,,,,1.0,,,none,,month,free,,no,car,,,no,,event,,,,1.0,,,1.0,,,,,1.0,,,,,,,Katowice,Kostuchna
+964,ligot,MDK Ligota,MDK Ligota,K,67,mid,,,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,,1.0,1.0,,,,,,,Katowice,Ligota – Panewniki
+965,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,69,mid,,,event,,1.0,,,,,scmed,,week,topic,,no,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+966,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,86,prim,,,event,,1.0,,,,,scmed,,week,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,1.0,1.0,1.0,,,1.0,,,,1.0,,,,Katowice,Szopienice – Burowiec
+967,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,85,mid,,,event,,,1.0,,,,outdr,,week,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,1.0,,1.0,,,,1.0,,Językowe,,Katowice,Szopienice – Burowiec
+968,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,81,prim,,,event,,1.0,,,,,scmed,,week,close,,yes,foot,,,no,,event,,,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+969,kstch,MDK Kostuchna,MDK Południe,M,36,high,Materiałoznawstwo,Uniwersytet Śląski,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,trnsp,1.0,1.0,,,,1.0,,1.0,,,,,,1.0,,,,,Katowice,Kostuchna
+970,kstch,MDK Kostuchna,MDK Południe,K,36,high,Filologia,Uniwersytet Śląski,child,,,,1.0,,,www,,week,topic,,no,car,,,no,,event,,,,1.0,,,,1.0,1.0,1.0,,1.0,,,,,,,Katowice,Podlesie
+971,kstch,MDK Kostuchna,MDK Południe,K,40,high,Biologia i dietetyka,Uniwersytet Śląski,child,,,,1.0,,,dirct,,week,topic,,yes,car,,,no,,event,1.0,1.0,,1.0,,1.0,1.0,1.0,,,1.0,1.0,,1.0,,,,,Katowice,Kostuchna
+972,kstch,MDK Kostuchna,MDK Południe,K,39,high,Finanse,Górnośląska Wyższa Szkoła Handlowa,child,,,,1.0,,,dirct,,week,topic,,no,car,,,no,,event,,,1.0,1.0,,,,1.0,,,1.0,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+973,kstch,MDK Kostuchna,MDK Południe,M,38,high,Prawo,Uniwersytet Śląski,child,,,,1.0,,,recom,,week,topic,,yes,car,,,no,,event,,,1.0,,,,,,,,1.0,1.0,,,1.0,,,,Katowice,Kostuchna
+974,kstch,MDK Kostuchna,MDK Południe,K,38,mid,,,child,,,,1.0,,,recom,,week,close,,yes,foot,,,no,,event,,,,,1.0,1.0,,1.0,,,1.0,1.0,,,,,,,Katowice,Kostuchna
+975,kstch,MDK Kostuchna,MDK Południe,K,40,high,Historia sztuki,ASP w Katowicach,event,,,1.0,,,,outdr,,week,topic,,yes,car,,,no,,event,1.0,,,,,,,,,,,,,,,1.0,,,Katowice,Kostuchna
+976,kstch,MDK Kostuchna,MDK Południe,K,70,mid,,,event,,1.0,,,,,recom,,week,topic,,no,car,,,no,,trnsp,1.0,1.0,1.0,,,,,1.0,,,,,,,,,,,Mikołów,
+977,kstch,MDK Kostuchna,MDK Południe,K,49,mid,,,event,,,1.0,,,,recom,,week,topic,,no,car,,,yes,Odległość,event,,,,,1.0,,,,,,,1.0,1.0,,,,,,Dąbrowa Górnicza,
+978,kstch,MDK Kostuchna,MDK Południe,K,63,high,,,event,,,1.0,,,,outdr,,week,topic,,no,publc,36,,no,,trnsp,,,,,1.0,,,,,,,,1.0,,,,,,Katowice,Ligota – Panewniki
+979,kstch,MDK Kostuchna,MDK Południe,K,62,high,,,event,,1.0,,,,,recom,,week,topic,,no,car,,,yes,Korki,event,1.0,,,1.0,,1.0,1.0,1.0,1.0,,,,1.0,,,,,,Katowice,Ligota – Panewniki
+980,kstch,MDK Kostuchna,MDK Południe,K,56,high,,,event,,1.0,,,,,media,,week,topic,,no,car,,,yes,Korki,event,1.0,,1.0,,,1.0,1.0,1.0,,,1.0,1.0,1.0,,,,,,Katowice,Ligota – Panewniki
+981,kstch,MDK Kostuchna,MDK Południe,K,35,mid,,,child,,,,1.0,,,recom,,week,close,,no,publc,695,,no,,event,,,,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,Katowice,Kostuchna
+982,kstch,MDK Kostuchna,MDK Południe,K,34,mid,,,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,,,,1.0,,1.0,,,,,1.0,1.0,,,1.0,,Językowe,,Katowice,Kostuchna
+983,kstch,MDK Kostuchna,MDK Południe,K,32,high,Socjologia,Uniwersytet Śląski,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,,,1.0,1.0,,,,,,,Katowice,Kostuchna
+984,kstch,MDK Kostuchna,MDK Południe,M,41,high,Resocjalizacja,Uniwersytet Jagielloński,child,,,,1.0,,,recom,,first,topic,,yes,car,,,no,,event,,,,,1.0,1.0,,1.0,,,,,,,,,,,Katowice,Kostuchna
+985,kstch,MDK Kostuchna,MDK Południe,K,32,mid,,,event,,,1.0,,,,outdr,,month,topic,,yes,foot,,,no,,trnsp,1.0,1.0,,1.0,,1.0,1.0,,,,1.0,1.0,,,1.0,,Zielarskie,,Katowice,Kostuchna
+986,kstch,MDK Kostuchna,MDK Południe,K,46,high,,,child,,,,1.0,,,wwmdk,,week,topic,,yes,car,,,no,,event,1.0,,1.0,1.0,,,,1.0,,,,1.0,,,,,,,Katowice,Podlesie
+987,kstch,MDK Kostuchna,MDK Południe,K,38,high,,,child,,,,1.0,,,dirct,,week,close,,yes,car,,,no,,event,,,1.0,,,,,1.0,,,1.0,,,,,,,,,
+988,kstch,MDK Kostuchna,MDK Południe,K,38,high,Zootechnika,Uniwersytet Przyrodniczy w Krakowie,child,,,,1.0,,,dirct,,week,topic,,yes,car,,,no,,event,,,1.0,,,1.0,,1.0,,,,1.0,,,1.0,,"Konstruktor dla dzieci, kodowanie",,Katowice,Kostuchna
+989,kstch,MDK Kostuchna,MDK Południe,K,30,high,Kulturoznawstwo,Uniwersytet Śląski,event,,,1.0,,,,www,,first,topic,,no,publc,695,,yes,Korki,trnsp,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,,1.0,1.0,,,,1.0,1.0,"Ekologiczne, językowe, rzemiosło np. szycie, robienie na dutach, kucharskie, poznawanie dzielnic, spacery, oprowadzania, muzyczne",Taniec,Katowice,Murcki
+990,kstch,MDK Kostuchna,MDK Południe,K,59,high,Edukacja,WSP,event,1.0,,,,,,guide,,less,topic,,no,car,,,yes,Korki,event,1.0,1.0,1.0,,,,,,,,,,,,1.0,,Florystyka,,Katowice,Osiedle Tysiąclecia
+991,kstch,MDK Kostuchna,MDK Południe,M,59,mid,,,event,1.0,,,,,,recom,,less,topic,,no,car,,,no,,event,1.0,1.0,1.0,,,1.0,1.0,1.0,,,,,,,,,,,Katowice,Osiedle Tysiąclecia
+992,kstch,MDK Kostuchna,MDK Południe,M,18,prim,,,event,,1.0,,,,,recom,,less,free,,yes,foot,,,no,,trnsp,,,,,1.0,1.0,,,,,,,,,,,,,Katowice,Kostuchna
+993,kstch,MDK Kostuchna,MDK Południe,M,19,prim,,,event,,1.0,,,,,recom,,month,free,,yes,foot,,,no,,trnsp,,,,,1.0,1.0,,,,,,,,,,,,,Katowice,Kostuchna
+994,kstch,MDK Kostuchna,MDK Południe,K,63,high,,,event,,,1.0,,,,other,,month,topic,,no,taxi,,,yes,Odległość,trnsp,1.0,,1.0,,,,,,,1.0,1.0,,,,,,,,Katowice,Śródmieście
+995,kstch,MDK Kostuchna,MDK Południe,K,63,high,Budownictwo,,event,,,1.0,,,,recom,,less,topic,,no,car,,,no,,event,,,,,1.0,,,,,,,,,,,1.0,,Taniec,Katowice,Zarzecze
+996,kstch,MDK Kostuchna,MDK Południe,K,34,high,,,event,,,,,1.0,rodzina,wwmdk,,less,topic,,no,car,,,no,,event,,,,1.0,,,,,,1.0,,1.0,,,1.0,,"Zielarskie, kosmetyki naturalne",,Katowice,Podlesie
+997,kstch,MDK Kostuchna,MDK Południe,K,52,mid,,,event,,,,1.0,,,other,,week,topic,,no,car,,,no,,trnsp,,1.0,,1.0,,,,1.0,,,,1.0,,,,,,,Katowice,Podlesie
+1003,ligot,MDK Ligota,MDK Ligota,K,77,mid,,,event,,,1.0,,,,media,,week,topic,,no,publc,,,yes,,trnsp,1.0,1.0,,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,Katowice,Ligota – Panewniki
+1007,podl,MDK Podlesie,MDK Południe,K,39,mid,,,child,,,,1.0,,,wwmdk,,week,close,,yes,car,,,no,,event,,1.0,,,,,,,,1.0,1.0,1.0,,,,,,,Katowice,Ligota – Panewniki
+1008,podl,MDK Podlesie,MDK Południe,K,38,high,,,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,event,1.0,,,,,1.0,,,,,,,,,1.0,,,,Katowice,Podlesie
+1009,kstch,MDK Kostuchna,MDK Południe,M,36,high,Zarządzanie,Politechnika Śląska,child,,,,1.0,,,guide,,week,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,,,1.0,1.0,,,1.0,1.0,,1.0,1.0,,,,,Katowice,Kostuchna
+1010,piotr,MDK Piotrowice,MDK Południe,K,9,prim,,,event,,1.0,,,,,recom,,week,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,,,,1.0,1.0,1.0,,1.0,1.0,,Śpiew,,Katowice,Piotrowice – Ochojec
+1011,piotr,MDK Piotrowice,MDK Południe,K,9,prim,,,event,,1.0,,,,,recom,,week,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,,,,1.0,1.0,1.0,,1.0,1.0,,Śpiew,,Katowice,Piotrowice – Ochojec
+1012,piotr,MDK Piotrowice,MDK Południe,K,9,prim,,,event,,,,,1.0,rodzina,recom,,week,topic,,yes,car,,,no,,event,,,1.0,,,,1.0,,,1.0,1.0,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+1013,piotr,MDK Piotrowice,MDK Południe,K,41,high,Ekonomia,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,recom,,week,close,,yes,foot,,,no,,event,,,,,1.0,,1.0,1.0,,,,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+1014,piotr,MDK Piotrowice,MDK Południe,K,9,prim,,,event,,,,,1.0,rodzina,recom,,week,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,,,,1.0,,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+1015,piotr,MDK Piotrowice,MDK Południe,K,7,prim,,,event,,,,,1.0,rodzina,recom,,week,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,,,,1.0,,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+1016,piotr,MDK Piotrowice,MDK Południe,K,41,high,Prawo,Uniwersytet Śląski,child,,,,1.0,,,wwmdk,,week,topic,,yes,car,,,yes,Korki,event,,,,1.0,,,1.0,1.0,,,1.0,,,,,,,,Katowice,Kostuchna
+1017,piotr,MDK Piotrowice,MDK Południe,K,37,high,Ekonomia,Wyższa Szkoła Bankowa,child,,,,1.0,,,scmed,,week,topic,,no,car,,,yes,Korki,event,,,,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Ligota – Panewniki
+1018,piotr,MDK Piotrowice,MDK Południe,K,36,high,Pedagogika,Uniwersytet Śląski,child,,,,1.0,,,wwmdk,,week,other,nie chodzi do przedszkola,yes,foot,,,no,,event,,,,,1.0,,,,,1.0,1.0,1.0,,,1.0,,Śpiew,,Katowice,Piotrowice – Ochojec
+1019,piotr,MDK Piotrowice,MDK Południe,M,48,high,Zarządzanie,Politechnika Śląska,child,,,,1.0,,,wwmdk,,week,topic,,yes,car,,,yes,Korki,event,,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,,,,,Katowice,Ligota – Panewniki
+1020,piotr,MDK Piotrowice,MDK Południe,K,34,high,Ekonomia,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,outdr,,week,close,,yes,foot,,,no,,event,,,,,1.0,,,1.0,,1.0,1.0,1.0,,1.0,,,,,Katowice,Piotrowice – Ochojec
+1022,podl,MDK Podlesie,MDK Południe,K,34,high,Grafika,ASP w Katowicach,event,,,1.0,,,,recom,,week,other,staz,yes,foot,,,no,,event,,,1.0,,,,,,,,,,,,1.0,,,,Katowice,
+1023,podl,MDK Podlesie,MDK Południe,K,32,high,Fizjoterapia,Wyższa Szkoła Zawodowa w Opolu,child,,,,1.0,,,outdr,,week,free,,yes,foot,,,no,,event,1.0,,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,Ekologiczne,,Katowice,Podlesie
+1024,podl,MDK Podlesie,MDK Południe,M,5,none,,,event,,,,,1.0,rodzina,recom,,less,other,wypelnic czas,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,,,1.0,1.0,1.0,1.0,1.0,,Gimnastyka,,Katowice,
+1025,podl,MDK Podlesie,MDK Południe,K,64,mid,,,child,,,,1.0,,,recom,,less,topic,,no,car,,,no,,event,,,,1.0,,,1.0,1.0,,,1.0,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+1026,podl,MDK Podlesie,MDK Południe,K,38,high,Prawo,Uniwersytet Śląski,child,,,,1.0,,,www,,week,topic,,yes,car,,,no,,event,,,1.0,,,,,1.0,,,1.0,,,1.0,,,,,Katowice,Kostuchna
+1033,ksztk,MDK Koszutka,MDK Koszutka,K,14,prim,,,event,,1.0,,,,,recom,,week,topic,,no,publc,,,no,,trnsp,,,,1.0,,,,1.0,,,1.0,,,,,,,,Katowice,Murcki
+1042,podl,MDK Podlesie,MDK Południe,K,39,high,,,event,,1.0,,,,,dirct,,month,topic,,no,car,,,no,,event,,,1.0,,,,,,,,1.0,,,,1.0,,,,Katowice,Piotrowice – Ochojec
+1044,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,30,high,Pielęgniarstwo,,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,,1.0,1.0,,,,1.0,,1.0,,,,,1.0,,,,,
+1045,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,38,high,Matematyka,Politechnika Śląska,child,,,,1.0,,,outdr,,week,close,,yes,foot,,,no,,event,,,1.0,,,,,,,1.0,,,,,,,,,Katowice,Zawodzie
+1046,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,M,33,mid,,,child,,,,1.0,,,recom,,first,close,,yes,car,,,no,,event,1.0,,,,,,,,,1.0,1.0,1.0,1.0,1.0,1.0,,,,Katowice,Zawodzie
+1047,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,34,high,Ekonomia,Uniwersytet Ekonomiczny w Katowicach,child,,,,1.0,,,recom,,week,topic,,no,car,,,no,,event,1.0,,,1.0,,,1.0,1.0,,1.0,,1.0,,,1.0,,,,Katowice,Janów – Nikiszowiec
+1048,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,45,high,Wychowanie muzyczne,Akademia Muzyczna w Katowicach,child,,,,1.0,,,outdr,,week,close,,yes,foot,,,no,,event,1.0,,,,,,,,,,,,,,1.0,,Profilaktyka uzależnień dla młodzieży i dorosłych,,Katowice,Zawodzie
+1049,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,39,high,Resocjalizacja,Uniwersytet Śląski,child,,,,1.0,,,outdr,,week,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,,,1.0,,,,,1.0,1.0,,,1.0,,Akrobatyczne,,Katowice,Zawodzie
+1050,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,44,high,Prawo,Uniwersytet Śląski,child,,,,1.0,,,other,zaproponowanie zajęć,week,topic,,yes,foot,,,no,,event,1.0,,,,,,1.0,1.0,,,1.0,1.0,,,1.0,,,,Katowice,Zawodzie
+1051,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,33,high,Geografia,Uniwersytet Śląski,child,,,,1.0,,,recom,,week,close,,yes,foot,,,no,,event,1.0,,,,,,,1.0,,,1.0,,,,1.0,,,,Katowice,Zawodzie
+1052,zawod,MDK Zawodzie,MDK Bogucice-Zawodzie,K,40,high,Matematyka,Uniwersytet Jagielloński,child,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,event,1.0,1.0,,,,,,,,,,1.0,,1.0,1.0,,,,Katowice,Zawodzie
+1053,podl,MDK Podlesie,MDK Południe,M,38,high,,,child,,,,1.0,,,outdr,,week,free,,yes,foot,,,no,,event,,,,,1.0,1.0,,,,,1.0,,1.0,1.0,,,,,Katowice,Podlesie
+1054,podl,MDK Podlesie,MDK Południe,M,40,mid,,,child,,,,1.0,,,www,,week,close,,yes,car,,,no,,event,1.0,,,,,,1.0,,,,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+1055,kstch,MDK Kostuchna,MDK Południe,K,39,high,,,child,,,,1.0,,,recom,,week,topic,,yes,car,,,no,,event,,,,,1.0,,,1.0,,1.0,1.0,1.0,,,,,,,Katowice,Podlesie
+1056,kstch,MDK Kostuchna,MDK Południe,M,34,high,,,child,,,,1.0,,,wwmdk,,week,topic,,yes,car,,,no,,event,,,,,1.0,,,1.0,,,1.0,,1.0,1.0,,,,,Katowice,Podlesie
+1057,kstch,MDK Kostuchna,MDK Południe,K,34,high,Fizjoterapia,Akademia Wychowania Fizycznego w Katowicach,child,,,,1.0,,,wwmdk,,week,close,,yes,car,,,no,,event,,,1.0,,,,1.0,,,1.0,1.0,,,1.0,1.0,,Taniec,,Katowice,Piotrowice – Ochojec
+1058,kstch,MDK Kostuchna,MDK Południe,M,30,high,,,child,,,,1.0,,,other,przedszkole,week,topic,,yes,car,,,no,,event,,,,,1.0,1.0,,,,,1.0,,,,,,,,Katowice,Kostuchna
+1059,kstch,MDK Kostuchna,MDK Południe,K,35,mid,,,child,,,,1.0,,,wwmdk,,week,topic,,yes,car,,,no,,event,,,,,1.0,1.0,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+1060,kstch,MDK Kostuchna,MDK Południe,M,31,high,,,child,,,,1.0,,,recom,,week,topic,,yes,car,,,no,,event,,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,Katowice,Kostuchna
+1061,kstch,MDK Kostuchna,MDK Południe,K,37,high,,,child,,,,1.0,,,wwmdk,,week,topic,,yes,car,,,no,,trnsp,,,,,1.0,1.0,,,,1.0,1.0,,,,,,,,Katowice,Kostuchna
+1062,kstch,MDK Kostuchna,MDK Południe,M,29,high,,,child,,,,1.0,,,wwmdk,,week,topic,,yes,car,,,no,,trnsp,1.0,,,,,1.0,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Kostuchna
+1063,kstch,MDK Kostuchna,MDK Południe,K,32,high,,,child,,,,1.0,,,other,przedszkole,week,close,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,,,,,Katowice,Kostuchna
+1064,kstch,MDK Kostuchna,MDK Południe,K,32,mid,,,child,,,,1.0,,,other,przedszkole,week,free,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,Katowice,Kostuchna
+1065,kstch,MDK Kostuchna,MDK Południe,M,31,mid,,,child,,,,1.0,,,other,przedszkole,week,topic,,yes,car,,,no,,event,,1.0,,,,,,1.0,,,1.0,,1.0,,,,,,Katowice,Zarzecze
+1066,kstch,MDK Kostuchna,MDK Południe,K,10,prim,,,event,,,,,1.0,rodzina,recom,,week,topic,,yes,car,,,no,,event,,,,,1.0,1.0,1.0,,,,1.0,1.0,,,,1.0,,Taniec,Katowice,Kostuchna
+1069,podl,MDK Podlesie,MDK Południe,K,32,high,Administracja,Górnośląska Wyższa Szkoła Handlowa,child,,,,1.0,,,recom,,first,group,,no,car,,,no,,event,,,,1.0,,,1.0,1.0,,,1.0,1.0,1.0,,1.0,,,,Katowice,Zarzecze
+1070,podl,MDK Podlesie,MDK Południe,K,39,high,Technologia żywności,Akademia Górniczo Hutnicza,child,,,,1.0,,,dirct,,week,close,,yes,car,,,no,,event,1.0,,,1.0,,,1.0,1.0,,1.0,,1.0,,,1.0,,,,Katowice,Podlesie
+1071,podl,MDK Podlesie,MDK Południe,K,36,high,Zarządzanie,Politechnika Śląska,child,,,,1.0,,,dirct,,week,close,,yes,car,,,no,,event,1.0,1.0,1.0,,,,,,,,1.0,1.0,,,1.0,,,,Katowice,Podlesie
+1072,podl,MDK Podlesie,MDK Południe,K,34,high,Grafika,ASP w Katowicach,event,,,1.0,,,,recom,,week,close,,yes,foot,,,yes,Odległość,trnsp,1.0,,,1.0,,1.0,1.0,1.0,1.0,,1.0,1.0,,,1.0,,Nowe technologie,,Katowice,Podlesie
+1073,piotr,MDK Piotrowice,MDK Południe,K,28,mid,,,child,,,,1.0,,,dirct,,week,close,,yes,foot,,,no,,event,1.0,,1.0,,,1.0,1.0,1.0,,1.0,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+1074,zarze,MDK Zarzecze,MDK Południe,K,60,mid,,,event,,,1.0,,,,recom,,week,topic,,yes,car,,,no,,event,1.0,,,,,,,,,,,,1.0,,,,,,Katowice,
+1075,zarze,MDK Zarzecze,MDK Południe,K,57,high,,,event,1.0,,,,,,outdr,,week,topic,,yes,car,,,yes,,trnsp,,,,1.0,,,1.0,,,1.0,,1.0,,,,,,,Katowice,Murcki
+1076,zarze,MDK Zarzecze,MDK Południe,K,60,mid,,,event,1.0,,,,,,outdr,,week,topic,,yes,car,,,no,,event,,1.0,,,,,,,,,,1.0,,,,,,,Katowice,Podlesie
+1077,zarze,MDK Zarzecze,MDK Południe,K,67,mid,,,event,,,1.0,,,,recom,,week,topic,,yes,car,,,no,,event,,,,,1.0,,1.0,,,,1.0,,1.0,,,,,,Katowice,Podlesie
+1078,zarze,MDK Zarzecze,MDK Południe,K,50,high,,,event,,,1.0,,,,scmed,,week,close,,yes,bike,,,no,,event,1.0,,,,,,,,,,,,1.0,,,,,,Katowice,
+1079,zarze,MDK Zarzecze,MDK Południe,K,74,high,,,event,,,1.0,,,,guide,,week,topic,,yes,publc,,,no,,event,,,,1.0,,,1.0,,,,,1.0,,,,,,,Katowice,
+1080,zarze,MDK Zarzecze,MDK Południe,K,67,high,,,event,,1.0,,,,,recom,,week,topic,,no,train,,,no,,trnsp,,1.0,,,,1.0,1.0,,,,,,,,,,,,,
+1081,zarze,MDK Zarzecze,MDK Południe,K,67,high,,,event,,1.0,,,,,recom,,week,topic,,no,car,,,no,,trnsp,,1.0,,,,1.0,1.0,1.0,,,,,,,,,,,,
+1082,piotr,MDK Piotrowice,MDK Południe,K,38,high,Informatyka,Uniwersytet Śląski,child,,,,1.0,,,wwmdk,,week,topic,,yes,car,,,no,,event,1.0,1.0,1.0,1.0,,,1.0,1.0,,1.0,,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+1083,piotr,MDK Piotrowice,MDK Południe,K,37,high,Prawo,Uniwersytet Śląski,child,,,,1.0,,,dirct,,week,topic,,yes,car,,,no,,event,,,1.0,,,,,,,,1.0,,,,,,,,,
+1084,piotr,MDK Piotrowice,MDK Południe,K,34,high,Ekonomia,Górnośląska Wyższa Szkoła Handlowa,child,,,,1.0,,,recom,,week,topic,,yes,car,,,no,,trnsp,,,,,1.0,,1.0,1.0,,,1.0,,,,,,,,Katowice,Piotrowice – Ochojec
+1085,piotr,MDK Piotrowice,MDK Południe,M,36,mid,,,child,,,,1.0,,,www,,week,topic,,no,foot,,,no,,event,1.0,,1.0,,,1.0,,,,,1.0,,,1.0,,,,,Katowice,Ligota – Panewniki
+1086,piotr,MDK Piotrowice,MDK Południe,K,40,high,Fizjoterapia,Akademia Wychowania Fizycznego w Katowicach,child,,,,1.0,,,recom,,week,topic,,no,car,,,no,,event,,,,1.0,,1.0,1.0,1.0,,1.0,1.0,1.0,,1.0,1.0,,,,Katowice,Ligota – Panewniki
+1088,kstch,MDK Kostuchna,MDK Południe,M,43,high,,,child,,,,1.0,,,recom,,week,topic,,yes,foot,,,no,,event,,,1.0,,,1.0,,1.0,,,,,,1.0,,,,,Katowice,Kostuchna
+1089,kstch,MDK Kostuchna,MDK Południe,K,10,prim,,,event,,1.0,,,,,recom,,week,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,,1.0,,1.0,1.0,1.0,,,,,,,Katowice,Kostuchna
+1090,kstch,MDK Kostuchna,MDK Południe,K,10,prim,,,event,,1.0,,,,,other,Ze szkoly,week,topic,,yes,foot,,,no,,event,,,,,1.0,1.0,,1.0,,1.0,1.0,1.0,,,,,,,Katowice,Kostuchna
+1091,kstch,MDK Kostuchna,MDK Południe,M,11,prim,,,event,,1.0,,,,,other,Ze szkoły ,first,group,,yes,bike,,,no,,event,,,,,1.0,,,,,1.0,,1.0,,1.0,,,,,Katowice,Kostuchna
+1092,kstch,MDK Kostuchna,MDK Południe,M,10,prim,,,event,,1.0,,,,,other,Ze szkoły ,first,group,,yes,foot,,,no,,event,,,,,1.0,,,,,1.0,,1.0,,1.0,,,,,Katowice,Kostuchna
+1093,kstch,MDK Kostuchna,MDK Południe,M,10,prim,,,event,,1.0,,,,,guide,,first,other,Nudy,no,foot,,,no,,event,,,,,1.0,,,,,1.0,,1.0,,1.0,,,,,Katowice,Kostuchna
+1094,kstch,MDK Kostuchna,MDK Południe,K,12,prim,,,event,,1.0,,,,,recom,,week,free,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,,1.0,,1.0,,,,,,,Katowice,Kostuchna
+1095,kstch,MDK Kostuchna,MDK Południe,K,12,prim,,,event,,1.0,,,,,recom,,month,free,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,,,1.0,,1.0,,,,,,,Katowice,Kostuchna
+1096,kstch,MDK Kostuchna,MDK Południe,M,8,prim,,,event,,1.0,,,,,recom,,first,free,,yes,foot,,,no,,event,,,,,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,,,,Katowice,Kostuchna
+1100,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,72,mid,,,event,,,1.0,,,,dirct,,month,topic,,no,publc,,,no,,trnsp,1.0,,,1.0,,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,,,,,Katowice,Giszowiec
+1101,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,67,mid,,,event,,,1.0,,,,dirct,,week,topic,,yes,foot,,,no,,event,,,,,1.0,,,,1.0,,,,,,,,,,Katowice,Szopienice – Burowiec
+1102,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,60,mid,,,event,,,1.0,,,,dirct,,month,topic,,yes,foot,,,no,,event,,,,,1.0,,,,,,,1.0,,,,,,,Katowice,Szopienice – Burowiec
+1103,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,83,prim,,,event,,1.0,,,,,scmed,,week,group,,yes,foot,,,no,,event,,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Szopienice – Burowiec
+1105,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,69,mid,,,event,,1.0,,,,,dirct,,week,topic,,yes,foot,,,no,,event,,,1.0,1.0,,,1.0,,,,,,,,,,,,Katowice,Szopienice – Burowiec
+1106,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,74,mid,,,event,,,1.0,,,,scmed,,week,topic,,yes,foot,,,no,,event,,,1.0,1.0,,1.0,1.0,1.0,1.0,,,1.0,,,,,,,Katowice,Szopienice – Burowiec
+1107,west,MDK Szopienice-West.,MDK Szopienice-Giszowiec,K,81,prim,,,event,,1.0,,,,,scmed,,week,group,,yes,foot,,,no,,event,,,1.0,,,,1.0,1.0,1.0,,,,,,,,,,Katowice,Szopienice – Burowiec
+1120,podl,MDK Podlesie,MDK Południe,K,37,high,Pielęgniarstwo,Śląski Uniwersytet Medyczny,event,,1.0,,,,,recom,,week,close,,yes,car,,,no,,event,,1.0,,,,,,,,,1.0,,,,,,,,Katowice,Podlesie
+1121,podl,MDK Podlesie,MDK Południe,K,52,high,,,event,,,1.0,,,,dirct,,week,other,Instruktorka aerobiku i piłek,yes,foot,,,no,,trnsp,1.0,,,,,,1.0,,,,1.0,,,,,,,,Katowice,Podlesie
+1122,podl,MDK Podlesie,MDK Południe,K,33,high,,Górnośląska Wyższa Szkoła Handlowa,event,,1.0,,,,,dirct,,week,topic,,yes,foot,,,no,,event,,,,,1.0,,,,,,1.0,,,,,,,,Katowice,Podlesie
+1123,zarze,MDK Zarzecze,MDK Południe,K,46,high,Marketing,Górnośląska Wyższa Szkoła Handlowa,event,,,1.0,,,,outdr,,week,close,,yes,foot,,,no,,trnsp,1.0,,,,,,1.0,,,,,,,,,,,,Katowice,Zarzecze
+1124,podl,MDK Podlesie,MDK Południe,K,43,high,Marketing,Wyższa Szkoła Marketingowa i Języków Obcych,event,,1.0,,,,,recom,,week,close,,yes,car,,,no,,event,,1.0,,,,1.0,1.0,1.0,,,1.0,1.0,,1.0,,,,,Katowice,Podlesie
+1125,podl,MDK Podlesie,MDK Południe,K,35,high,Finanse,Uniwersytet Ekonomiczny w Katowicach,event,,1.0,,,,,recom,,week,group,,yes,car,,,no,,event,1.0,,1.0,,,1.0,1.0,1.0,,1.0,1.0,1.0,,,,,,,Katowice,Podlesie
+1126,podl,MDK Podlesie,MDK Południe,K,43,high,Zarządzanie,Politechnika Częstochowska,event,,,,1.0,,,dirct,,week,topic,,yes,foot,,,no,,event,1.0,,,1.0,,,,1.0,,,,,,,1.0,,,,Katowice,Podlesie
+1127,zarze,MDK Zarzecze,MDK Południe,K,36,high,,,child,,,,1.0,,,scmed,,week,topic,,yes,car,,,no,,event,,,,,1.0,1.0,,,,,,,,,,,,,Katowice,Zarzecze
+1128,kstch,MDK Kostuchna,MDK Południe,K,69,high,Socjologia,Uniwersytet Śląski,event,,1.0,,,,,outdr,,month,topic,,no,publc,,,yes,Problemy na drodze,event,,,,1.0,,,,,,,,1.0,,,,,,,Katowice,Ligota – Panewniki
+1129,zarze,MDK Zarzecze,MDK Południe,K,58,mid,,,event,,,1.0,,,,outdr,,week,topic,,yes,foot,,,no,,event,,,1.0,,,,1.0,,,,,,,,,,,,Katowice,
+1130,zarze,MDK Zarzecze,MDK Południe,M,60,high,,,event,1.0,,,,,,outdr,,month,close,,yes,publc,,,no,,trnsp,1.0,,,,,,,,1.0,,1.0,,,,1.0,,,,Katowice,Zarzecze
+1131,zarze,MDK Zarzecze,MDK Południe,K,77,mid,,,event,,,1.0,,,,dirct,,week,topic,,no,publc,37,,no,,event,1.0,,,,,1.0,1.0,,,1.0,1.0,,,,,,,,Katowice,Ligota – Panewniki
+1132,kstch,MDK Kostuchna,MDK Południe,K,40,high,,,event,,1.0,,,,,scmed,,month,topic,,no,car,,,yes,Korki,trnsp,,1.0,,1.0,,,,,,1.0,1.0,,,,,,,,Katowice,Ligota – Panewniki
+1133,zarze,MDK Zarzecze,MDK Południe,K,71,mid,,,event,,,1.0,,,,scmed,,week,close,,yes,publc,,,no,,event,,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,Katowice,Zarzecze
+1134,zarze,MDK Zarzecze,MDK Południe,K,77,mid,,,event,,1.0,,,,,guide,,week,topic,,yes,foot,,,no,,event,1.0,1.0,1.0,,,1.0,1.0,,,1.0,1.0,,1.0,,,,,,Katowice,Zarzecze
+1135,zarze,MDK Zarzecze,MDK Południe,K,37,mid,,,event,,,,1.0,,,wwmdk,,week,topic,,yes,car,,,no,,trnsp,,,1.0,,,,,,,1.0,,,,,,,,,Katowice,Zarzecze
+1136,podl,MDK Podlesie,MDK Południe,K,58,mid,,,child,,,,1.0,,,media,,week,group,,yes,car,,,no,,event,,,1.0,,,,,,,,1.0,,,,,,,,Katowice,Śródmieście
+1137,zarze,MDK Zarzecze,MDK Południe,M,40,study,,,child,,,,1.0,,,recom,,week,close,,yes,car,,,no,,event,,,,,1.0,1.0,,,,,,1.0,,,,,,,Katowice,Piotrowice – Ochojec
+1138,podl,MDK Podlesie,MDK Południe,M,55,high,,,event,,1.0,,,,,scmed,,week,topic,,yes,car,,,no,,event,,,1.0,,,,1.0,1.0,,,,,,,,,,,Katowice,Podlesie
+1139,kstch,MDK Kostuchna,MDK Południe,M,63,high,,,event,1.0,,,,,,dirct,,week,group,,yes,foot,,,no,,event,,,1.0,,,,,1.0,,,,,,,,,,,Katowice,Kostuchna
+1140,zarze,MDK Zarzecze,MDK Południe,K,78,high,Chemia,Politechnika Wrocławska,event,,,1.0,,,,recom,,week,topic,,yes,foot,,,no,,event,1.0,,,,,,,1.0,1.0,,,,,,,,,,Katowice,Piotrowice – Ochojec
+1141,kstch,MDK Kostuchna,MDK Południe,K,68,high,,AWF w Katowicach,event,,1.0,,,,,recom,,less,topic,,no,car,,,no,,event,,,,,1.0,,,,1.0,,,,,,,,,,Tychy,
+1142,murck,MDK Murcki,MDK Południe,K,42,high,,,event,1.0,,,,,,recom,,first,close,,yes,foot,,,no,,event,1.0,,,,,,,1.0,,1.0,1.0,,,,,,,,Katowice,Murcki
+1143,murck,MDK Murcki,MDK Południe,M,38,high,,,event,1.0,,,1.0,,,other,Ze szkoły ,first,close,,yes,foot,,,no,,trnsp,,,,1.0,,,1.0,1.0,,1.0,,,,,,,,,Katowice,Murcki
+1144,murck,MDK Murcki,MDK Południe,K,38,high,,,event,1.0,,,1.0,,,other,Ze szkoły,first,close,,yes,foot,,,no,,event,,,1.0,1.0,,1.0,,1.0,,1.0,,,,,,,,,Katowice,Murcki
+1145,murck,MDK Murcki,MDK Południe,M,33,mid,,,event,1.0,,,1.0,,,other,Z przedszkola ,month,close,,yes,foot,,,no,,event,1.0,,,1.0,,,,,,1.0,,,1.0,,1.0,,Sportowe zajęcia dla dzieci ,,Katowice,Murcki
+1146,murck,MDK Murcki,MDK Południe,K,32,mid,,,event,1.0,,,1.0,,,other,Z przedszkola ,less,close,,yes,foot,,,no,,event,1.0,,,1.0,,,,,,1.0,,,1.0,,,,,,Katowice,Murcki
+1147,murck,MDK Murcki,MDK Południe,M,44,high,,,event,1.0,,,1.0,,,other,Z przedszkola ,week,other,Występ dziecka,no,car,,,no,,event,,,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,Katowice,Murcki
+1148,murck,MDK Murcki,MDK Południe,K,42,high,,,event,1.0,,,1.0,,,other,Z przedszkola ,week,other,Występ dziecka,no,car,,,no,,event,,,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,Katowice,Ligota – Panewniki
+1149,murck,MDK Murcki,MDK Południe,K,43,high,,,event,1.0,,,1.0,,,scmed,,first,group,,no,car,,,no,,trnsp,1.0,,,,,,,,,,1.0,,1.0,,,,,,Katowice,Śródmieście
+1150,murck,MDK Murcki,MDK Południe,M,38,high,,,event,1.0,,,1.0,,,scmed,,first,group,,no,car,,,no,,trnsp,1.0,,,,,1.0,,1.0,,1.0,,,1.0,,,,,,Katowice,Śródmieście
