@@ -1,0 +1,14 @@
+name,name_short,survey_code,name_official,name_code,address_postalcode,address_street,address_number,district,district_id,lat,lon
+MDK Ligota,Ligota,ligot,MDK Ligota,ligot,40-708,Franciszkańska,33,Ligota – Panewniki,6,50.2279792,18.97286182
+MDK Piotrowice,Piotrowice,piotr,MDK Południe,pldn,40-617,Generała Jankego,136,Piotrowice – Ochojec,19,50.20931048,18.97947835
+MDK Murcki,Murcki,murck,MDK Południe,pldn,40-749,Pawła Kołodzieja,42,Murcki,18,50.19512834,19.04084608
+MDK Zarzecze,Zarzecze,zarze,MDK Południe,pldn,40-748,Pawła Stellera,4,Zarzecze,20,50.18473471,18.95190461
+MDK Podlesie,Podlesie,podl,MDK Południe,pldn,40-748,Sołtysia,25,Podlesie,22,50.18008805,18.97621785
+MDK Kostuchna,Kostuchna,kstch,MDK Południe,pldn,40-750,Tadeusza Boya-żeleńskiego,83,Kostuchna,21,50.18282864,19.00008401
+MDK Koszutka,Koszutka,ksztk,MDK Koszutka,ksztk,40-126,Michała Grażyńskiego,47,Koszutka,12,50.26812484,19.01733468
+MDK Dąb,Dąb,dab,MDK Koszutka,ksztk,40-111,Krzyżowa,1,Dąb,10,50.27784985,19.00575639
+MDK Bogucice,Bogucice,boguc,MDK Bogucice-Zawodzie,boguc,40-213,Markiefki,44a,Bogucice,13,50.26447072,19.04204908
+MDK Zawodzie,Zawodzie,zawod,MDK Bogucice-Zawodzie,boguc,40-233,Marcinkowskiego,13a,Zawodzie,3,50.26130557,19.05828302
+MDK Szopienice-Hallera,Szop-Hallera,hall,MDK Szopienice-Giszowiec,szop,40-321,Hallera ,28,Szopienice – Burowiec,15,50.27019239,19.07770475
+MDK Szopienice-Westerpl.,Szop-Westerpl,west,MDK Szopienice-Giszowiec,szop,40-336,Obr. Westerplatte,10,Szopienice – Burowiec,15,50.26364907,19.09481607
+MDK Giszowiec,Giszowiec,gisz,MDK Szopienice-Giszowiec,szop,40-476,Plac Pod Lipami,"1, 3-3a",Giszowiec,17,50.22217507,19.06703783
